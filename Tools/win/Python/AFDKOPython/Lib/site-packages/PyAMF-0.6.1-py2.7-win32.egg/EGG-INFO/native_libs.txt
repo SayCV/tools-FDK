@@ -1,0 +1,4 @@
+cpyamf/amf0.pyd
+cpyamf/amf3.pyd
+cpyamf/codec.pyd
+cpyamf/util.pyd
