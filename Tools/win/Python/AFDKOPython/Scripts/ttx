@@ -1,9 +1,4 @@
-#!/adobe/FDK/Tools/osx/Python/AFDKOPython27/AFDKOPython27
-
-
-def _dummy():
-	from encodings import latin_1, utf_8, utf_16_be
-
+#!/Users/rroberts/bin/FDK/Tools/osx/AFDKOPython
 
 import sys
 from fontTools import ttx

@@ -55,7 +55,7 @@ By default, every output file is created in the same directory as the
 corresponding input file and with the same name except for the
 extension, which is substituted appropriately.
 .Nm
-never overwrites existing files; if neccesary, it appends a suffix to
+never overwrites existing files; if necessary, it appends a suffix to
 the output file name before the extension, as in
 .Pa Arial#1.ttf .
 .Ss "General options"
@@ -66,6 +66,11 @@ Display usage information.
 Write the output files to directory
 .Ar dir
 instead of writing every output file to the same directory as the
+corresponding input file.
+.It Fl o Ar file
+Write the output to
+.Ar file
+instead of writing it to the same directory as the
 corresponding input file.
 .It Fl v
 Be verbose.  Write more messages to the standard output describing what

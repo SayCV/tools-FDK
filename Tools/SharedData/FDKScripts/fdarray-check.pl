@@ -2,7 +2,7 @@
 
 # Written by Dr. Ken Lunde (lunde@adobe.com)
 # Senior Computer Scientist, Adobe Systems Incorporated
-# Version 05/11/2012
+# Version 10/11/2012
 #
 # This tool takes a CID-keyed font, which can be a CIDFont resource
 # (instantiated as a file), CFF resource/table (instantiated as a
@@ -16,7 +16,6 @@
 # ROS (/Registry, /Ordering, and /Supplement) of the CID-keyed font is
 # reported. This tool also reports, via STDERR, whether GIDs do not
 # equal CIDs in the specified font, and starting from which GID/CID.
-# Copyright 2014 Adobe Systems Incorporated (http://www.adobe.com/). All Rights Reserved.
 
 $pre = "/";
 $gidNEcid = 0;
@@ -29,7 +28,7 @@ while ($ARGV[0]) {
         $pre = "";
         shift;
     } else {
-        $file = $ARGV[0];
+        $file = "\"$ARGV[0]\"";
         shift;
     }
 }

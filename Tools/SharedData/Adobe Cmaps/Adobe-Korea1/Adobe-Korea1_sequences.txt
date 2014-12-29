@@ -1,5 +1,5 @@
-# 270 Standardized Variants (Unicode 7.0)
-# Version 09/07/2013
+# 270 Standardized Variants (Unicode 6.3)
+# Version 12/03/2013
 # Prepared by Ken Lunde (lunde@adobe.com), Adobe Systems Incorporated
 4E0D FE00; Standardized_Variants; CID+5109
 4E32 FE00; Standardized_Variants; CID+3802

@@ -967,6 +967,102 @@ fivesixths
 onefraction
 	uni: 215F
 	cmp: one.numerator fraction
+Oneroman
+	uni: 2160
+	fin: uni2160
+	set: AGL1
+Tworoman
+	uni: 2161
+	fin: uni2161
+	set: AGL1
+Threeroman
+	uni: 2162
+	fin: uni2162
+	set: AGL1
+Fourroman
+	uni: 2163
+	fin: uni2163
+	set: AGL1
+Fiveroman
+	uni: 2164
+	fin: uni2164
+	set: AGL1
+Sixroman
+	uni: 2165
+	fin: uni2165
+	set: AGL1
+Sevenroman
+	uni: 2166
+	fin: uni2166
+	set: AGL1
+Eightroman
+	uni: 2167
+	fin: uni2167
+	set: AGL1
+Nineroman
+	uni: 2168
+	fin: uni2168
+	set: AGL1
+Tenroman
+	uni: 2169
+	fin: uni2169
+	set: AGL1
+Elevenroman
+	uni: 216A
+	fin: uni216A
+	set: AGL1
+Twelveroman
+	uni: 216B
+	fin: uni216B
+	set: AGL1
+oneroman
+	uni: 2170
+	fin: uni2170
+	set: AGL1
+tworoman
+	uni: 2171
+	fin: uni2171
+	set: AGL1
+threeroman
+	uni: 2172
+	fin: uni2172
+	set: AGL1
+fourroman
+	uni: 2173
+	fin: uni2173
+	set: AGL1
+fiveroman
+	uni: 2174
+	fin: uni2174
+	set: AGL1
+sixroman
+	uni: 2175
+	fin: uni2175
+	set: AGL1
+sevenroman
+	uni: 2176
+	fin: uni2176
+	set: AGL1
+eightroman
+	uni: 2177
+	fin: uni2177
+	set: AGL1
+nineroman
+	uni: 2178
+	fin: uni2178
+	set: AGL1
+tenroman
+	uni: 2179
+	fin: uni2179
+	set: AGL1
+elevenroman
+	uni: 217A
+	fin: uni217A
+	set: AGL1
+twelveroman
+	uni: 217B
+	fin: uni217B
+	set: AGL1
 ae.sc
 	uni: F7E6
 	ali: AEsmall
@@ -1720,166 +1816,6 @@ r.sc
 	sub: r+smcp r.end+smcp
 	set: AGL1 AGL2
 	maj: R.sc
-SF010000
-	uni: 250C
-	fin: uni250C
-	set: AGL1 AGL2 AGLFN
-SF020000
-	uni: 2514
-	fin: uni2514
-	set: AGL1 AGL2 AGLFN
-SF030000
-	uni: 2510
-	fin: uni2510
-	set: AGL1 AGL2 AGLFN
-SF040000
-	uni: 2518
-	fin: uni2518
-	set: AGL1 AGL2 AGLFN
-SF050000
-	uni: 253C
-	fin: uni253C
-	set: AGL1 AGL2 AGLFN
-SF060000
-	uni: 252C
-	fin: uni252C
-	set: AGL1 AGL2 AGLFN
-SF070000
-	uni: 2534
-	fin: uni2534
-	set: AGL1 AGL2 AGLFN
-SF080000
-	uni: 251C
-	fin: uni251C
-	set: AGL1 AGL2 AGLFN
-SF090000
-	uni: 2524
-	fin: uni2524
-	set: AGL1 AGL2 AGLFN
-SF100000
-	uni: 2500
-	fin: uni2500
-	set: AGL1 AGL2 AGLFN
-SF110000
-	uni: 2502
-	fin: uni2502
-	set: AGL1 AGL2 AGLFN
-SF190000
-	uni: 2561
-	fin: uni2561
-	set: AGL1 AGL2 AGLFN
-SF200000
-	uni: 2562
-	fin: uni2562
-	set: AGL1 AGL2 AGLFN
-SF210000
-	uni: 2556
-	fin: uni2556
-	set: AGL1 AGL2 AGLFN
-SF220000
-	uni: 2555
-	fin: uni2555
-	set: AGL1 AGL2 AGLFN
-SF230000
-	uni: 2563
-	fin: uni2563
-	set: AGL1 AGL2 AGLFN
-SF240000
-	uni: 2551
-	fin: uni2551
-	set: AGL1 AGL2 AGLFN
-SF250000
-	uni: 2557
-	fin: uni2557
-	set: AGL1 AGL2 AGLFN
-SF260000
-	uni: 255D
-	fin: uni255D
-	set: AGL1 AGL2 AGLFN
-SF270000
-	uni: 255C
-	fin: uni255C
-	set: AGL1 AGL2 AGLFN
-SF280000
-	uni: 255B
-	fin: uni255B
-	set: AGL1 AGL2 AGLFN
-SF360000
-	uni: 255E
-	fin: uni255E
-	set: AGL1 AGL2 AGLFN
-SF370000
-	uni: 255F
-	fin: uni255F
-	set: AGL1 AGL2 AGLFN
-SF380000
-	uni: 255A
-	fin: uni255A
-	set: AGL1 AGL2 AGLFN
-SF390000
-	uni: 2554
-	fin: uni2554
-	set: AGL1 AGL2 AGLFN
-SF400000
-	uni: 2569
-	fin: uni2569
-	set: AGL1 AGL2 AGLFN
-SF410000
-	uni: 2566
-	fin: uni2566
-	set: AGL1 AGL2 AGLFN
-SF420000
-	uni: 2560
-	fin: uni2560
-	set: AGL1 AGL2 AGLFN
-SF430000
-	uni: 2550
-	fin: uni2550
-	set: AGL1 AGL2 AGLFN
-SF440000
-	uni: 256C
-	fin: uni256C
-	set: AGL1 AGL2 AGLFN
-SF450000
-	uni: 2567
-	fin: uni2567
-	set: AGL1 AGL2 AGLFN
-SF460000
-	uni: 2568
-	fin: uni2568
-	set: AGL1 AGL2 AGLFN
-SF470000
-	uni: 2564
-	fin: uni2564
-	set: AGL1 AGL2 AGLFN
-SF480000
-	uni: 2565
-	fin: uni2565
-	set: AGL1 AGL2 AGLFN
-SF490000
-	uni: 2559
-	fin: uni2559
-	set: AGL1 AGL2 AGLFN
-SF500000
-	uni: 2558
-	fin: uni2558
-	set: AGL1 AGL2 AGLFN
-SF510000
-	uni: 2552
-	fin: uni2552
-	set: AGL1 AGL2 AGLFN
-SF520000
-	uni: 2553
-	fin: uni2553
-	set: AGL1 AGL2 AGLFN
-SF530000
-	uni: 256B
-	fin: uni256B
-	set: AGL1 AGL2 AGLFN
-SF540000
-	uni: 256A
-	fin: uni256A
-	set: AGL1 AGL2 AGLFN
 Sacute
 	uni: 015A
 	set: AGL1 AGL2 AGLFN
@@ -2143,9 +2079,10 @@ abreve
 	set: AGL1 AGL2 AGLFN
 	maj: Abreve
 	cmp: a+breve
-acutecomb
+acutecmb
 	uni: 0301
-	ali: acutecmb
+	fin: uni0301
+	ali: acutecomb
 	set: AGL1 AGL2 AGLFN
 aeacute
 	uni: 01FD
@@ -2157,12 +2094,12 @@ horizontalbar
 	fin: uni2015
 	ali: Dash1cent afii00208
 	set: AGL1 AGL2 AGLFN
-A.cyr
+Acyr
 	uni: 0410
 	fin: uni0410
-	ali: Acyr Acyrillic afii10017
+	ali: A.cyr Acyrillic afii10017
 	set: AGL1 AGL2 AGLFN
-	min: a.cyr
+	min: acyr
 	cmp: A
 Be
 	uni: 0411
@@ -2216,19 +2153,19 @@ Ze
 	ali: Zecyrillic afii10025
 	set: AGL1 AGL2 AGLFN
 	min: ze
-I.cyr
+Icyr
 	uni: 0418
 	fin: uni0418
-	ali: Iicyrillic afii10026
+	ali: I.cyr Iicyrillic afii10026
 	set: AGL1 AGL2 AGLFN
-	min: i.cyr
-I.short
+	min: icyr
+Ishort
 	uni: 0419
 	fin: uni0419
-	ali: Iishortcyrillic afii10027
+	ali: I.short Iishortcyrillic afii10027
 	set: AGL1 AGL2 AGLFN
-	min: i.short
-	cmp: I.cyr+breve.cyrcap
+	min: ishort
+	cmp: Icyr+breve.cyrcap
 Ka
 	uni: 041A
 	fin: uni041A
@@ -2256,12 +2193,12 @@ En
 	set: AGL1 AGL2 AGLFN
 	min: en
 	cmp: H
-O.cyr
+Ocyr
 	uni: 041E
 	fin: uni041E
-	ali: Ocyrillic afii10032
+	ali: O.cyr Ocyrillic afii10032
 	set: AGL1 AGL2 AGLFN
-	min: o.cyr
+	min: ocyr
 	cmp: O
 Pe
 	uni: 041F
@@ -2291,12 +2228,12 @@ Te
 	set: AGL1 AGL2 AGLFN
 	min: te
 	cmp: T
-U.cyr
+Ucyr
 	uni: 0423
 	fin: uni0423
-	ali: Ucyrillic afii10037
+	ali: U.cyr Ucyrillic afii10037
 	set: AGL1 AGL2 AGLFN
-	min: u.cyr
+	min: ucyr
 Ef
 	uni: 0424
 	fin: uni0424
@@ -2352,12 +2289,12 @@ Soft
 	ali: Softsigncyrillic afii10046
 	set: AGL1 AGL2 AGLFN
 	min: soft
-E.cyr
+Ecyr
 	uni: 042D
 	fin: uni042D
-	ali: Ereversedcyrillic afii10047
+	ali: E.cyr Ereversedcyrillic afii10047
 	set: AGL1 AGL2 AGLFN
-	min: e.cyr
+	min: ecyr
 Yu
 	uni: 042E
 	fin: uni042E
@@ -2369,12 +2306,12 @@ Ya
 	fin: uni042F
 	ali: IAcyrillic afii10049
 	set: AGL1 AGL2 AGLFN
-Ghe.up
+Gheup
 	uni: 0490
 	fin: uni0490
-	ali: Gheup Gheupturncyrillic afii10050
+	ali: Ghe.up Gheupturncyrillic afii10050
 	set: AGL1 AGL2 AGLFN
-	min: ghe.up
+	min: gheup
 Dje
 	uni: 0402
 	fin: uni0402
@@ -2388,12 +2325,12 @@ Gje
 	set: AGL1 AGL2 AGLFN
 	min: gje
 	cmp: Gamma+acute.cap
-Ie.ukran
+Ieukran
 	uni: 0404
 	fin: uni0404
-	ali: Ecyrillic Ieukran afii10053
+	ali: Ecyrillic Ie.ukran afii10053
 	set: AGL1 AGL2 AGLFN
-	min: ie.ukran
+	min: ieukran
 Dze
 	uni: 0405
 	fin: uni0405
@@ -2401,12 +2338,12 @@ Dze
 	set: AGL1 AGL2 AGLFN
 	min: dze
 	cmp: S
-I.ukran
+Iukran
 	uni: 0406
 	fin: uni0406
-	ali: Icyrillic afii10055
+	ali: I.ukran Icyrillic afii10055
 	set: AGL1 AGL2 AGLFN
-	min: i.ukran
+	min: iukran
 	cmp: I
 Yi
 	uni: 0407
@@ -2447,13 +2384,13 @@ Kje
 	set: AGL1 AGL2 AGLFN
 	min: kje
 	cmp: Ka+acute.cap
-U.short
+Ushort
 	uni: 040E
 	fin: uni040E
-	ali: Ushortcyrillic afii10062
+	ali: U.short Ushortcyrillic afii10062
 	set: AGL1 AGL2 AGLFN
-	min: u.short
-	cmp: U.cyr+breve.cyrcap
+	min: ushort
+	cmp: Ucyr+breve.cyrcap
 ghe.ital
 	uni: F6C4
 	fin: uni0433.ital
@@ -2467,12 +2404,12 @@ be.ital
 	ali: afii10064 afii10066.ital be.alt
 	sub: be+salt be+locl
 	set: AGL1 AGL2
-a.cyr
+acyr
 	uni: 0430
 	fin: uni0430
-	ali: acyr acyrillic afii10065
+	ali: a.cyr acyrillic afii10065
 	set: AGL1 AGL2 AGLFN
-	maj: A.cyr
+	maj: Acyr
 	cmp: a
 be
 	uni: 0431
@@ -2524,19 +2461,19 @@ ze
 	ali: afii10073 zecyrillic
 	set: AGL1 AGL2 AGLFN
 	maj: Ze
-i.cyr
+icyr
 	uni: 0438
 	fin: uni0438
-	ali: afii10074 icyr iicyrillic
+	ali: afii10074 i.cyr iicyrillic
 	set: AGL1 AGL2 AGLFN
-	maj: I.cyr
-i.short
+	maj: Icyr
+ishort
 	uni: 0439
 	fin: uni0439
-	ali: afii10075 iishortcyrillic ishort
+	ali: afii10075 i.short iishortcyrillic
 	set: AGL1 AGL2 AGLFN
-	maj: I.short
-	cmp: i.cyr+breve.cyr
+	maj: Ishort
+	cmp: icyr+breve.cyr
 ka
 	uni: 043A
 	fin: uni043A
@@ -2561,12 +2498,12 @@ en
 	ali: afii10079 encyrillic
 	set: AGL1 AGL2 AGLFN
 	maj: En
-o.cyr
+ocyr
 	uni: 043E
 	fin: uni043E
-	ali: afii10080 ocyrillic
+	ali: afii10080 o.cyr ocyrillic
 	set: AGL1 AGL2 AGLFN
-	maj: O.cyr
+	maj: Ocyr
 	cmp: o
 pe
 	uni: 043F
@@ -2594,12 +2531,12 @@ te
 	ali: afii10084 tecyrillic
 	set: AGL1 AGL2 AGLFN
 	maj: Te
-u.cyr
+ucyr
 	uni: 0443
 	fin: uni0443
-	ali: afii10085 ucyr ucyrillic
+	ali: afii10085 u.cyr ucyrillic
 	set: AGL1 AGL2 AGLFN
-	maj: U.cyr
+	maj: Ucyr
 	cmp: y
 ef
 	uni: 0444
@@ -2656,12 +2593,12 @@ soft
 	ali: afii10094 softsigncyrillic
 	set: AGL1 AGL2 AGLFN
 	maj: Soft
-e.cyr
+ecyr
 	uni: 044D
 	fin: uni044D
-	ali: afii10095 ereversedcyrillic
+	ali: afii10095 e.cyr ereversedcyrillic
 	set: AGL1 AGL2 AGLFN
-	maj: E.cyr
+	maj: Ecyr
 yu
 	uni: 044E
 	fin: uni044E
@@ -2673,12 +2610,12 @@ ya
 	fin: uni044F
 	ali: afii10097 iacyrillic
 	set: AGL1 AGL2 AGLFN
-ghe.up
+gheup
 	uni: 0491
 	fin: uni0491
-	ali: afii10098 gheup gheupturncyrillic
+	ali: afii10098 ghe.up gheupturncyrillic
 	set: AGL1 AGL2 AGLFN
-	maj: Ghe.up
+	maj: Gheup
 dje
 	uni: 0452
 	fin: uni0452
@@ -2692,12 +2629,12 @@ gje
 	set: AGL1 AGL2 AGLFN
 	maj: Gje
 	cmp: ghe+acute
-ie.ukran
+ieukran
 	uni: 0454
 	fin: uni0454
-	ali: afii10101 ecyrillic
+	ali: afii10101 ecyrillic ie.ukran
 	set: AGL1 AGL2 AGLFN
-	maj: Ie.ukran
+	maj: Ieukran
 dze
 	uni: 0455
 	fin: uni0455
@@ -2705,12 +2642,12 @@ dze
 	set: AGL1 AGL2 AGLFN
 	maj: Dze
 	cmp: s
-i.ukran
+iukran
 	uni: 0456
 	fin: uni0456
-	ali: afii10103 icyrillic iukran
+	ali: afii10103 i.ukran icyrillic
 	set: AGL1 AGL2 AGLFN
-	maj: I.ukran
+	maj: Iukran
 	cmp: i
 yi
 	uni: 0457
@@ -2751,12 +2688,12 @@ kje
 	set: AGL1 AGL2 AGLFN
 	maj: Kje
 	cmp: ka+acute
-u.short
+ushort
 	uni: 045E
 	fin: uni045E
-	ali: afii10110 ushort ushortcyrillic
+	ali: afii10110 u.short ushortcyrillic
 	set: AGL1 AGL2 AGLFN
-	maj: U.short
+	maj: Ushort
 	cmp: y+breve.cyr
 Dzhe
 	uni: 040F
@@ -2830,10 +2767,9 @@ te.ital
 schwacyr
 	uni: 04D9
 	fin: uni04D9
-	ali: afii10846 schwa schwa.cyr schwacyrillic
+	ali: afii10846 schwa.cyr schwacyrillic
 	set: AGL1 AGL2 AGLFN
 	maj: Schwacyr
-	cmp: schwa.latin
 Aybarmenian
 	uni: 0531
 	fin: uni0531
@@ -3599,11 +3535,27 @@ arPercent
 	fin: uni066A
 	ali: afii57381 percentarabic
 	set: AGL1 AGL2 AGLFN
-arComma
-	uni: 060C
-	fin: uni060C
-	ali: afii57388 commaarabic
+arDecimal
+	uni: 066B
+	fin: uni066B
+	ali: decimalseparatorarabic decimalseparatorpersian
+	set: AGL1
+arThousands
+	uni: 066C
+	fin: uni066C
+	ali: thousandsseparatorarabic thousandsseparatorpersian
+	set: AGL1
+arStar
+	uni: 066D
+	fin: uni066D
+	ali: afii63167 asteriskaltonearabic asteriskarabic
 	set: AGL1 AGL2 AGLFN
+arBehDotless
+	uni: 066E
+	fin: uni066E
+arQafDotless
+	uni: 066F
+	fin: uni066F
 arZero
 	uni: 0660
 	fin: uni0660
@@ -3704,6 +3656,14 @@ arNineFAR
 	fin: uni06F9
 	ali: ninepersian
 	set: AGL1
+arFourURD
+	fin: uni06F4.URD
+arSevenURD
+	fin: uni06F7.URD
+arFourURD.tnum
+	fin: uni06F4.URDtnum
+arSevenURD.tnum
+	fin: uni06F7.URDtnum
 arSemicolon
 	uni: 061B
 	fin: uni061B
@@ -3999,10 +3959,10 @@ apostrophemod
 	fin: uni02BC
 	ali: afii57929 apostrophe
 	set: AGL1 AGL2 AGLFN
-afii61248
+careof
 	uni: 2105
 	fin: uni2105
-	ali: careof
+	ali: afii61248
 	set: AGL1 AGL2 AGLFN
 litre
 	uni: 2113
@@ -4034,11 +3994,6 @@ righttoleftoverride
 	uni: 202E
 	fin: uni202E
 	ali: afii61575
-	set: AGL1 AGL2 AGLFN
-arStar
-	uni: 066D
-	fin: uni066D
-	ali: afii63167 asteriskaltonearabic asteriskarabic
 	set: AGL1 AGL2 AGLFN
 commareversedmod
 	uni: 02BD
@@ -4159,10 +4114,6 @@ beta.alt
 	fin: uni03D0
 	ali: betasymbolgreek
 	set: AGL1
-block
-	uni: 2588
-	ali: SF610000 Tile
-	set: AGL1 AGL2 AGLFN
 braceex
 	uni: F8F4
 	fin: uniF8F4
@@ -4377,14 +4328,6 @@ dieresiscaron
 dieresismacron
 	fin: uni00A80304
 	ali: dieresis_uni0304
-dkshade
-	uni: 2593
-	ali: SF160000 shadedark
-	set: AGL1 AGL2 AGLFN
-dnblock
-	uni: 2584
-	ali: SF570000
-	set: AGL1 AGL2 AGLFN
 dollar.inferior
 	uni: F6E3
 	ali: dollarinferior
@@ -4402,9 +4345,10 @@ dollar.superior
 	sub: dollar+sups
 	set: AGL1 AGL2
 	cmp: dollar.numerator
-dotbelowcomb
+dotbelowcmb
 	uni: 0323
-	ali: dotbelowcmb
+	fin: uni0323
+	ali: dotbelowcomb
 	set: AGL1 AGL2 AGLFN
 dotlessj
 	uni: 0237
@@ -4629,9 +4573,10 @@ gradient
 	uni: 2207
 	ali: nabla
 	set: AGL1 AGL2 AGLFN
-gravecomb
+gravecmb
 	uni: 0300
-	ali: gravecmb
+	fin: uni0300
+	ali: gravecomb
 	set: AGL1 AGL2 AGLFN
 greaterequal
 	uni: 2265
@@ -4648,9 +4593,10 @@ heart
 	uni: 2665
 	ali: heartsuitblack
 	set: AGL1 AGL2 AGLFN
-hookabovecomb
+hoicmb
 	uni: 0309
-	ali: hookcmb
+	fin: uni0309
+	ali: hookabovecmb hookabovecomb hookcmb
 	set: AGL1 AGL2 AGLFN
 house
 	uni: 2302
@@ -4796,10 +4742,6 @@ ldot
 lessequal
 	uni: 2264
 	set: AGL1 AGL2 AGLFN
-lfblock
-	uni: 258C
-	ali: HalfTile SF580000
-	set: AGL1 AGL2 AGLFN
 lira
 	uni: 20A4
 	ali: afii08941
@@ -4828,10 +4770,6 @@ l.superior
 	ali: lsuperior
 	sub: l+sups
 	set: AGL1 AGL2
-ltshade
-	uni: 2591
-	ali: SF140000 shadelight
-	set: AGL1 AGL2 AGLFN
 male
 	uni: 2642
 	ali: Mars mars
@@ -5182,10 +5120,6 @@ r.superior
 	ali: rsuperior
 	sub: r+sups
 	set: AGL1 AGL2
-rtblock
-	uni: 2590
-	ali: SF590000
-	set: AGL1 AGL2 AGLFN
 sacute
 	uni: 015B
 	set: AGL1 AGL2 AGLFN
@@ -5230,10 +5164,6 @@ seven.superior
 	sub: seven+sups
 	set: AGL1 AGL2
 	cmp: seven.numerator
-shade
-	uni: 2592
-	ali: SF150000 shademedium
-	set: AGL1 AGL2 AGLFN
 sigma
 	uni: 03C3
 	set: AGL1 AGL2 AGLFN
@@ -5340,9 +5270,10 @@ threesuperior
 three.superior
 	sub: three+sups
 	cmp: three.numerator
-tildecomb
+tildecmb
 	uni: 0303
-	ali: tildecmb
+	fin: uni0303
+	ali: tildecomb
 	set: AGL1 AGL2 AGLFN
 tonos
 	uni: 0384
@@ -5433,10 +5364,6 @@ uogonek
 	uni: 0173
 	set: AGL1 AGL2 AGLFN
 	maj: Uogonek
-upblock
-	uni: 2580
-	ali: SF600000
-	set: AGL1 AGL2 AGLFN
 upsilon
 	uni: 03C5
 	set: AGL1 AGL2 AGLFN
@@ -5695,12 +5622,13 @@ Obar
 	ali: Ocenteredtilde
 	set: AGL1
 	cmp: Fita
-Schwa.latin
+Schwa
 	uni: 018F
 	fin: uni018F
-	ali: Schwa
+	ali: Schwa.latin
 	set: AGL1
-	min: schwa.latin
+	min: schwa
+	cmp: Schwacyr
 Yogh
 	uni: 021C
 	fin: uni021C
@@ -5710,10 +5638,12 @@ obar
 	ali: obarred
 	set: AGL1
 	cmp: fita
-schwa.latin
+schwa
 	uni: 0259
 	fin: uni0259
-	maj: Schwa.latin
+	ali: schwa.latin
+	maj: Schwa
+	cmp: schwacyr
 yogh
 	uni: 021D
 	fin: uni021D
@@ -5752,10 +5682,11 @@ obar.sc
 	sub: obar+smcp
 	maj: Obar.sc
 	cmp: fita.sc
-schwalatin.sc
+schwa.sc
 	fin: uni0259.sc
-	sub: schwa.latin+smcp
-	cmp: schwa.sc
+	ali: schwalatin.sc
+	sub: schwa+smcp
+	cmp: schwacyr.sc
 yogh.sc
 	fin: uni021D.sc
 	sub: yogh+smcp
@@ -9556,7 +9487,7 @@ ghedescender
 acyr.sc
 	fin: uni0430.sc
 	ali: afii10065.sc
-	sub: a.cyr+smcp
+	sub: acyr+smcp
 	cmp: a.sc
 be.sc
 	fin: uni0431.sc
@@ -9575,7 +9506,7 @@ ghe.sc
 gheup.sc
 	fin: uni0491.sc
 	ali: afii10098.sc
-	sub: ghe.up+smcp
+	sub: gheup+smcp
 de.sc
 	fin: uni0434.sc
 	ali: afii10069.sc
@@ -9600,11 +9531,11 @@ ze.sc
 icyr.sc
 	fin: uni0438.sc
 	ali: afii10074.sc
-	sub: i.cyr+smcp
+	sub: icyr+smcp
 ishort.sc
 	fin: uni0439.sc
 	ali: afii10075.sc
-	sub: i.short+smcp
+	sub: ishort+smcp
 	cmp: icyr.sc+breve.cyrsc
 ka.sc
 	fin: uni043A.sc
@@ -9631,7 +9562,7 @@ en.sc
 ocyr.sc
 	fin: uni043E.sc
 	ali: afii10080.sc
-	sub: o.cyr+smcp
+	sub: ocyr+smcp
 	cmp: o.sc
 pe.sc
 	fin: uni043F.sc
@@ -9656,7 +9587,7 @@ te.sc
 ucyr.sc
 	fin: uni0443.sc
 	ali: afii10085.sc
-	sub: u.cyr+smcp
+	sub: ucyr+smcp
 ef.sc
 	fin: uni0444.sc
 	ali: afii10086.sc
@@ -9697,7 +9628,7 @@ soft.sc
 ecyr.sc
 	fin: uni044D.sc
 	ali: afii10095.sc
-	sub: e.cyr+smcp
+	sub: ecyr+smcp
 yu.sc
 	fin: uni044E.sc
 	ali: afii10096.sc
@@ -9723,7 +9654,7 @@ gje.sc
 ieukran.sc
 	fin: uni0454.sc
 	ali: afii10101.sc
-	sub: ie.ukran+smcp
+	sub: ieukran+smcp
 dze.sc
 	fin: uni0455.sc
 	ali: afii10102.sc
@@ -9732,7 +9663,7 @@ dze.sc
 iukran.sc
 	fin: uni0456.sc
 	ali: afii10103.sc
-	sub: i.ukran+smcp
+	sub: iukran+smcp
 	cmp: i.sc
 yi.sc
 	fin: uni0457.sc
@@ -9768,7 +9699,7 @@ kje.sc
 ushort.sc
 	fin: uni045E.sc
 	ali: afii10110.sc
-	sub: u.short+smcp
+	sub: ushort+smcp
 	cmp: ucyr.sc+breve.cyrsc
 dzhe.sc
 	fin: uni045F.sc
@@ -9795,10 +9726,10 @@ palochka.sc
 	fin: uni04CF.sc
 	sub: palochka+smcp
 	cmp: i.sc
-schwa.sc
+schwacyr.sc
 	fin: uni04D9.sc
 	ali: afii10846.sc
-	sub: schwa+smcp
+	sub: schwacyr+smcp
 ghedescender.sc
 	fin: uni04F7.sc
 	sub: ghedescender+smcp
@@ -9820,7 +9751,7 @@ Igravecyr
 	fin: uni040D
 	ali: Icyrgrave Igrave.cyr
 	min: igravecyr
-	cmp: I.cyr+grave.cap
+	cmp: Icyr+grave.cap
 Igravecyr.sc
 	fin: uni040D.sc
 	ali: Icyrgrave.sc Igrave.cyrsc
@@ -9840,7 +9771,7 @@ igravecyr
 	fin: uni045D
 	ali: icyrgrave igrave.cyr
 	maj: Igravecyr
-	cmp: i.cyr+grave
+	cmp: icyr+grave
 igravecyr.sc
 	fin: uni045D.sc
 	ali: icyrgrave.sc igrave.cyrsc
@@ -9858,13 +9789,13 @@ Adotbelow
 	set: AGL1
 	min: adotbelow
 	cmp: A+dotbelow.cap
-Ahook
+Ahoi
 	uni: 1EA2
 	fin: uni1EA2
-	ali: Ahookabove
+	ali: Ahook Ahookabove
 	set: AGL1
-	min: ahook
-	cmp: A+hook.cap
+	min: ahoi
+	cmp: A+hoi.cap
 Acircumflexacute
 	uni: 1EA4
 	fin: uni1EA4
@@ -9877,13 +9808,13 @@ Acircumflexgrave
 	set: AGL1
 	min: acircumflexgrave
 	cmp: A+circumflexgrave.cap
-Acircumflexhook
+Acircumflexhoi
 	uni: 1EA8
 	fin: uni1EA8
-	ali: Acircumflexhookabove
+	ali: Acircumflexhook Acircumflexhookabove
 	set: AGL1
-	min: acircumflexhook
-	cmp: A+circumflexhook.cap
+	min: acircumflexhoi
+	cmp: A+circumflexhoi.cap
 Acircumflextilde
 	uni: 1EAA
 	fin: uni1EAA
@@ -9908,13 +9839,13 @@ Abrevegrave
 	set: AGL1
 	min: abrevegrave
 	cmp: A+brevegrave.cap
-Abrevehook
+Abrevehoi
 	uni: 1EB2
 	fin: uni1EB2
-	ali: Abrevehookabove
+	ali: Abrevehook Abrevehookabove
 	set: AGL1
-	min: abrevehook
-	cmp: A+brevehook.cap
+	min: abrevehoi
+	cmp: A+brevehoi.cap
 Abrevetilde
 	uni: 1EB4
 	fin: uni1EB4
@@ -9933,13 +9864,13 @@ Edotbelow
 	set: AGL1
 	min: edotbelow
 	cmp: E+dotbelow.cap
-Ehook
+Ehoi
 	uni: 1EBA
 	fin: uni1EBA
-	ali: Ehookabove
+	ali: Ehook Ehookabove
 	set: AGL1
-	min: ehook
-	cmp: E+hook.cap
+	min: ehoi
+	cmp: E+hoi.cap
 Etilde
 	uni: 1EBC
 	fin: uni1EBC
@@ -9958,13 +9889,13 @@ Ecircumflexgrave
 	set: AGL1
 	min: ecircumflexgrave
 	cmp: E+circumflexgrave.cap
-Ecircumflexhook
+Ecircumflexhoi
 	uni: 1EC2
 	fin: uni1EC2
-	ali: Ecircumflexhookabove
+	ali: Ecircumflexhook Ecircumflexhookabove
 	set: AGL1
-	min: ecircumflexhook
-	cmp: E+circumflexhook.cap
+	min: ecircumflexhoi
+	cmp: E+circumflexhoi.cap
 Ecircumflextilde
 	uni: 1EC4
 	fin: uni1EC4
@@ -9977,13 +9908,13 @@ Ecircumflexdotbelow
 	set: AGL1
 	min: ecircumflexdotbelow
 	cmp: E+circumflex.cap+dotbelow.cap
-Ihook
+Ihoi
 	uni: 1EC8
 	fin: uni1EC8
-	ali: Ihookabove
+	ali: Ihook Ihookabove
 	set: AGL1
-	min: ihook
-	cmp: I+hook.cap
+	min: ihoi
+	cmp: I+hoi.cap
 Idotbelow
 	uni: 1ECA
 	fin: uni1ECA
@@ -9996,13 +9927,13 @@ Odotbelow
 	set: AGL1
 	min: odotbelow
 	cmp: O+dotbelow.cap
-Ohook
+Ohoi
 	uni: 1ECE
 	fin: uni1ECE
-	ali: Ohookabove
+	ali: Ohook Ohookabove
 	set: AGL1
-	min: ohook
-	cmp: O+hook.cap
+	min: ohoi
+	cmp: O+hoi.cap
 Ocircumflexacute
 	uni: 1ED0
 	fin: uni1ED0
@@ -10015,13 +9946,13 @@ Ocircumflexgrave
 	set: AGL1
 	min: ocircumflexgrave
 	cmp: O+circumflexgrave.cap
-Ocircumflexhook
+Ocircumflexhoi
 	uni: 1ED4
 	fin: uni1ED4
-	ali: Ocircumflexhookabove
+	ali: Ocircumflexhook Ocircumflexhookabove
 	set: AGL1
-	min: ocircumflexhook
-	cmp: O+circumflexhook.cap
+	min: ocircumflexhoi
+	cmp: O+circumflexhoi.cap
 Ocircumflextilde
 	uni: 1ED6
 	fin: uni1ED6
@@ -10046,13 +9977,13 @@ Ohorngrave
 	set: AGL1
 	min: ohorngrave
 	cmp: Ohorn+grave.cap
-Ohornhook
+Ohornhoi
 	uni: 1EDE
 	fin: uni1EDE
-	ali: Ohornhookabove
+	ali: Ohornhook Ohornhookabove
 	set: AGL1
-	min: ohornhook
-	cmp: Ohorn+hook.cap
+	min: ohornhoi
+	cmp: Ohorn+hoi.cap
 Ohorntilde
 	uni: 1EE0
 	fin: uni1EE0
@@ -10071,13 +10002,13 @@ Udotbelow
 	set: AGL1
 	min: udotbelow
 	cmp: U+dotbelow.cap
-Uhook
+Uhoi
 	uni: 1EE6
 	fin: uni1EE6
-	ali: Uhookabove
+	ali: Uhook Uhookabove
 	set: AGL1
-	min: uhook
-	cmp: U+hook.cap
+	min: uhoi
+	cmp: U+hoi.cap
 Uhornacute
 	uni: 1EE8
 	fin: uni1EE8
@@ -10090,13 +10021,13 @@ Uhorngrave
 	set: AGL1
 	min: uhorngrave
 	cmp: Uhorn+grave.cap
-Uhornhook
+Uhornhoi
 	uni: 1EEC
 	fin: uni1EEC
-	ali: Uhornhookabove
+	ali: Uhornhook Uhornhookabove
 	set: AGL1
-	min: uhornhook
-	cmp: Uhorn+hook.cap
+	min: uhornhoi
+	cmp: Uhorn+hoi.cap
 Uhorntilde
 	uni: 1EEE
 	fin: uni1EEE
@@ -10115,12 +10046,13 @@ Ydotbelow
 	set: AGL1
 	min: ydotbelow
 	cmp: Y+dotbelow.cap
-Yhookabove
+Yhoi
 	uni: 1EF6
 	fin: uni1EF6
+	ali: Yhookabove
 	set: AGL1
-	min: yhookabove
-	cmp: Y+hook.cap
+	min: yhoi
+	cmp: Y+hoi.cap
 Yhook
 	uni: 01B3
 	fin: uni01B3
@@ -10137,13 +10069,13 @@ adotbelow
 	set: AGL1
 	maj: Adotbelow
 	cmp: a+dotbelow
-ahook
+ahoi
 	uni: 1EA3
 	fin: uni1EA3
-	ali: ahookabove
+	ali: ahook ahookabove
 	set: AGL1
-	maj: Ahook
-	cmp: a+hook
+	maj: Ahoi
+	cmp: a+hoi
 acircumflexacute
 	uni: 1EA5
 	fin: uni1EA5
@@ -10156,13 +10088,13 @@ acircumflexgrave
 	set: AGL1
 	maj: Acircumflexgrave
 	cmp: a+circumflexgrave
-acircumflexhook
+acircumflexhoi
 	uni: 1EA9
 	fin: uni1EA9
-	ali: acircumflexhookabove
+	ali: acircumflexhook acircumflexhookabove
 	set: AGL1
-	maj: Acircumflexhook
-	cmp: a+circumflexhook
+	maj: Acircumflexhoi
+	cmp: a+circumflexhoi
 acircumflextilde
 	uni: 1EAB
 	fin: uni1EAB
@@ -10187,13 +10119,13 @@ abrevegrave
 	set: AGL1
 	maj: Abrevegrave
 	cmp: a+brevegrave
-abrevehook
+abrevehoi
 	uni: 1EB3
 	fin: uni1EB3
-	ali: abrevehookabove
+	ali: abrevehook abrevehookabove
 	set: AGL1
-	maj: Abrevehook
-	cmp: a+brevehook
+	maj: Abrevehoi
+	cmp: a+brevehoi
 abrevetilde
 	uni: 1EB5
 	fin: uni1EB5
@@ -10212,13 +10144,13 @@ edotbelow
 	set: AGL1
 	maj: Edotbelow
 	cmp: e+dotbelow
-ehook
+ehoi
 	uni: 1EBB
 	fin: uni1EBB
-	ali: ehookabove
+	ali: ehook ehookabove
 	set: AGL1
-	maj: Ehook
-	cmp: e+hook
+	maj: Ehoi
+	cmp: e+hoi
 etilde
 	uni: 1EBD
 	fin: uni1EBD
@@ -10237,13 +10169,13 @@ ecircumflexgrave
 	set: AGL1
 	maj: Ecircumflexgrave
 	cmp: e+circumflexgrave
-ecircumflexhook
+ecircumflexhoi
 	uni: 1EC3
 	fin: uni1EC3
-	ali: ecircumflexhookabove
+	ali: ecircumflexhook ecircumflexhookabove
 	set: AGL1
-	maj: Ecircumflexhook
-	cmp: e+circumflexhook
+	maj: Ecircumflexhoi
+	cmp: e+circumflexhoi
 ecircumflextilde
 	uni: 1EC5
 	fin: uni1EC5
@@ -10256,13 +10188,13 @@ ecircumflexdotbelow
 	set: AGL1
 	maj: Ecircumflexdotbelow
 	cmp: e+circumflex+dotbelow
-ihook
+ihoi
 	uni: 1EC9
 	fin: uni1EC9
-	ali: ihookabove
+	ali: ihook ihookabove
 	set: AGL1
-	maj: Ihook
-	cmp: dotlessi+hook
+	maj: Ihoi
+	cmp: dotlessi+hoi
 idotbelow
 	uni: 1ECB
 	fin: uni1ECB
@@ -10275,13 +10207,13 @@ odotbelow
 	set: AGL1
 	maj: Odotbelow
 	cmp: o+dotbelow
-ohook
+ohoi
 	uni: 1ECF
 	fin: uni1ECF
-	ali: ohookabove
+	ali: ohook ohookabove
 	set: AGL1
-	maj: Ohook
-	cmp: o+hook
+	maj: Ohoi
+	cmp: o+hoi
 ocircumflexacute
 	uni: 1ED1
 	fin: uni1ED1
@@ -10294,13 +10226,13 @@ ocircumflexgrave
 	set: AGL1
 	maj: Ocircumflexgrave
 	cmp: o+circumflexgrave
-ocircumflexhook
+ocircumflexhoi
 	uni: 1ED5
 	fin: uni1ED5
-	ali: ocircumflexhookabove
+	ali: ocircumflexhook ocircumflexhookabove
 	set: AGL1
-	maj: Ocircumflexhook
-	cmp: o+circumflexhook
+	maj: Ocircumflexhoi
+	cmp: o+circumflexhoi
 ocircumflextilde
 	uni: 1ED7
 	fin: uni1ED7
@@ -10325,13 +10257,13 @@ ohorngrave
 	set: AGL1
 	maj: Ohorngrave
 	cmp: ohorn+grave
-ohornhook
+ohornhoi
 	uni: 1EDF
 	fin: uni1EDF
-	ali: ohornhookabove
+	ali: ohornhook ohornhookabove
 	set: AGL1
-	maj: Ohornhook
-	cmp: ohorn+hook
+	maj: Ohornhoi
+	cmp: ohorn+hoi
 ohorntilde
 	uni: 1EE1
 	fin: uni1EE1
@@ -10350,13 +10282,13 @@ udotbelow
 	set: AGL1
 	maj: Udotbelow
 	cmp: u+dotbelow
-uhook
+uhoi
 	uni: 1EE7
 	fin: uni1EE7
-	ali: uhookabove
+	ali: uhook uhookabove
 	set: AGL1
-	maj: Uhook
-	cmp: u+hook
+	maj: Uhoi
+	cmp: u+hoi
 uhornacute
 	uni: 1EE9
 	fin: uni1EE9
@@ -10369,13 +10301,13 @@ uhorngrave
 	set: AGL1
 	maj: Uhorngrave
 	cmp: uhorn+grave
-uhornhook
+uhornhoi
 	uni: 1EED
 	fin: uni1EED
-	ali: uhornhookabove
+	ali: uhornhook uhornhookabove
 	set: AGL1
-	maj: Uhornhook
-	cmp: uhorn+hook
+	maj: Uhornhoi
+	cmp: uhorn+hoi
 uhorntilde
 	uni: 1EEF
 	fin: uni1EEF
@@ -10394,12 +10326,13 @@ ydotbelow
 	set: AGL1
 	maj: Ydotbelow
 	cmp: y+dotbelow
-yhookabove
+yhoi
 	uni: 1EF7
 	fin: uni1EF7
+	ali: yhookabove
 	set: AGL1
-	maj: Yhookabove
-	cmp: y+hook
+	maj: Yhoi
+	cmp: y+hoi
 yhook
 	uni: 01B4
 	fin: uni01B4
@@ -10420,9 +10353,10 @@ Adotbelow.swash
 	fin: uni1EA0.swash
 	sub: Adotbelow+swsh
 	tag: italic
-Ahook.swash
+Ahoi.swash
 	fin: uni1EA2.swash
-	sub: Ahook+swsh
+	ali: Ahook.swash
+	sub: Ahoi+swsh
 	tag: italic
 Acircumflexacute.swash
 	fin: uni1EA4.swash
@@ -10432,9 +10366,10 @@ Acircumflexgrave.swash
 	fin: uni1EA6.swash
 	sub: Acircumflexgrave+swsh
 	tag: italic
-Acircumflexhook.swash
+Acircumflexhoi.swash
 	fin: uni1EA8.swash
-	sub: Acircumflexhook+swsh
+	ali: Acircumflexhook.swash
+	sub: Acircumflexhoi+swsh
 	tag: italic
 Acircumflextilde.swash
 	fin: uni1EAA.swash
@@ -10452,9 +10387,10 @@ Abrevegrave.swash
 	fin: uni1EB0.swash
 	sub: Abrevegrave+swsh
 	tag: italic
-Abrevehook.swash
+Abrevehoi.swash
 	fin: uni1EB2.swash
-	sub: Abrevehook+swsh
+	ali: Abrevehook.swash
+	sub: Abrevehoi+swsh
 	tag: italic
 Abrevetilde.swash
 	fin: uni1EB4.swash
@@ -10468,9 +10404,10 @@ Edotbelow.swash
 	fin: uni1EB8.swash
 	sub: Edotbelow+swsh
 	tag: italic
-Ehook.swash
+Ehoi.swash
 	fin: uni1EBA.swash
-	sub: Ehook+swsh
+	ali: Ehook.swash
+	sub: Ehoi+swsh
 	tag: italic
 Etilde.swash
 	fin: uni1EBC.swash
@@ -10484,9 +10421,10 @@ Ecircumflexgrave.swash
 	fin: uni1EC0.swash
 	sub: Ecircumflexgrave+swsh
 	tag: italic
-Ecircumflexhook.swash
+Ecircumflexhoi.swash
 	fin: uni1EC2.swash
-	sub: Ecircumflexhook+swsh
+	ali: Ecircumflexhook.swash
+	sub: Ecircumflexhoi+swsh
 	tag: italic
 Ecircumflextilde.swash
 	fin: uni1EC4.swash
@@ -10496,9 +10434,10 @@ Ecircumflexdotbelow.swash
 	fin: uni1EC6.swash
 	sub: Ecircumflexdotbelow+swsh
 	tag: italic
-Ihook.swash
+Ihoi.swash
 	fin: uni1EC8.swash
-	sub: Ihook+swsh
+	ali: Ihook.swash
+	sub: Ihoi+swsh
 	tag: italic
 Idotbelow.swash
 	fin: uni1ECA.swash
@@ -10508,9 +10447,10 @@ Odotbelow.swash
 	fin: uni1ECC.swash
 	sub: Odotbelow+swsh
 	tag: italic
-Ohook.swash
+Ohoi.swash
 	fin: uni1ECE.swash
-	sub: Ohook+swsh
+	ali: Ohook.swash
+	sub: Ohoi+swsh
 	tag: italic
 Ocircumflexacute.swash
 	fin: uni1ED0.swash
@@ -10520,9 +10460,10 @@ Ocircumflexgrave.swash
 	fin: uni1ED2.swash
 	sub: Ocircumflexgrave+swsh
 	tag: italic
-Ocircumflexhook.swash
+Ocircumflexhoi.swash
 	fin: uni1ED4.swash
-	sub: Ocircumflexhook+swsh
+	ali: Ocircumflexhook.swash
+	sub: Ocircumflexhoi+swsh
 	tag: italic
 Ocircumflextilde.swash
 	fin: uni1ED6.swash
@@ -10540,9 +10481,10 @@ Ohorngrave.swash
 	fin: uni1EDC.swash
 	sub: Ohorngrave+swsh
 	tag: italic
-Ohornhook.swash
+Ohornhoi.swash
 	fin: uni1EDE.swash
-	sub: Ohornhook+swsh
+	ali: Ohornhook.swash
+	sub: Ohornhoi+swsh
 	tag: italic
 Ohorntilde.swash
 	fin: uni1EE0.swash
@@ -10556,9 +10498,10 @@ Udotbelow.swash
 	fin: uni1EE4.swash
 	sub: Udotbelow+swsh
 	tag: italic
-Uhook.swash
+Uhoi.swash
 	fin: uni1EE6.swash
-	sub: Uhook+swsh
+	ali: Uhook.swash
+	sub: Uhoi+swsh
 	tag: italic
 Uhornacute.swash
 	fin: uni1EE8.swash
@@ -10568,9 +10511,10 @@ Uhorngrave.swash
 	fin: uni1EEA.swash
 	sub: Uhorngrave+swsh
 	tag: italic
-Uhornhook.swash
+Uhornhoi.swash
 	fin: uni1EEC.swash
-	sub: Uhornhook+swsh
+	ali: Uhornhook.swash
+	sub: Uhornhoi+swsh
 	tag: italic
 Uhorntilde.swash
 	fin: uni1EEE.swash
@@ -10584,9 +10528,10 @@ Ydotbelow.swash
 	fin: uni1EF4.swash
 	sub: Ydotbelow+swsh
 	tag: italic
-Yhookabove.swash
+Yhoi.swash
 	fin: uni1EF6.swash
-	sub: Yhookabove+swsh
+	ali: Yhookabove.swash
+	sub: Yhoi+swsh
 	tag: italic
 Ytilde.swash
 	fin: uni1EF8.swash
@@ -10604,10 +10549,11 @@ abrevegrave.end
 	fin: uni1EB1.end
 	sub: abrevegrave+salt
 	cmp: a.end+brevegrave
-abrevehook.end
+abrevehoi.end
 	fin: uni1EB3.end
-	sub: abrevehook+salt
-	cmp: a.end+brevehook
+	ali: abrevehook.end
+	sub: abrevehoi+salt
+	cmp: a.end+brevehoi
 abrevetilde.end
 	fin: uni1EB5.end
 	sub: abrevetilde+salt
@@ -10624,10 +10570,11 @@ acircumflexgrave.end
 	fin: uni1EA7.end
 	sub: acircumflexgrave+salt
 	cmp: a.end+circumflexgrave
-acircumflexhook.end
+acircumflexhoi.end
 	fin: uni1EA9.end
-	sub: acircumflexhook+salt
-	cmp: a.end+circumflexhook
+	ali: acircumflexhook.end
+	sub: acircumflexhoi+salt
+	cmp: a.end+circumflexhoi
 acircumflextilde.end
 	fin: uni1EAB.end
 	sub: acircumflextilde+salt
@@ -10636,10 +10583,11 @@ adotbelow.end
 	fin: uni1EA1.end
 	sub: adotbelow+salt
 	cmp: a.end+dotbelow
-ahook.end
+ahoi.end
 	fin: uni1EA3.end
-	sub: ahook+salt
-	cmp: a.end+hook
+	ali: ahook.end
+	sub: ahoi+salt
+	cmp: a.end+hoi
 ecircumflexacute.end
 	fin: uni1EBF.end
 	sub: ecircumflexacute+salt
@@ -10652,10 +10600,11 @@ ecircumflexgrave.end
 	fin: uni1EC1.end
 	sub: ecircumflexgrave+salt
 	cmp: e.end+circumflexgrave
-ecircumflexhook.end
+ecircumflexhoi.end
 	fin: uni1EC3.end
-	sub: ecircumflexhook+salt
-	cmp: e.end+circumflexhook
+	ali: ecircumflexhook.end
+	sub: ecircumflexhoi+salt
+	cmp: e.end+circumflexhoi
 ecircumflextilde.end
 	fin: uni1EC5.end
 	sub: ecircumflextilde+salt
@@ -10664,10 +10613,11 @@ edotbelow.end
 	fin: uni1EB9.end
 	sub: edotbelow+salt
 	cmp: e.end+dotbelow
-ehook.end
+ehoi.end
 	fin: uni1EBB.end
-	sub: ehook+salt
-	cmp: e.end+hook
+	ali: ehook.end
+	sub: ehoi+salt
+	cmp: e.end+hoi
 etilde.end
 	fin: uni1EBD.end
 	sub: etilde+salt
@@ -10684,10 +10634,11 @@ abrevegrave.sc
 	fin: uni1EB1.sc
 	sub: abrevegrave+smcp abrevegrave.end+smcp
 	cmp: a.sc+brevegrave.sc
-abrevehook.sc
+abrevehoi.sc
 	fin: uni1EB3.sc
-	sub: abrevehook+smcp abrevehook.end+smcp
-	cmp: a.sc+brevehook.sc
+	ali: abrevehook.sc
+	sub: abrevehoi+smcp abrevehoi.end+smcp
+	cmp: a.sc+brevehoi.sc
 abrevetilde.sc
 	fin: uni1EB5.sc
 	sub: abrevetilde+smcp abrevetilde.end+smcp
@@ -10704,10 +10655,11 @@ acircumflexgrave.sc
 	fin: uni1EA7.sc
 	sub: acircumflexgrave+smcp acircumflexgrave.end+smcp
 	cmp: a.sc+circumflexgrave.sc
-acircumflexhook.sc
+acircumflexhoi.sc
 	fin: uni1EA9.sc
-	sub: acircumflexhook+smcp acircumflexhook.end+smcp
-	cmp: a.sc+circumflexhook.sc
+	ali: acircumflexhook.sc
+	sub: acircumflexhoi+smcp acircumflexhoi.end+smcp
+	cmp: a.sc+circumflexhoi.sc
 acircumflextilde.sc
 	fin: uni1EAB.sc
 	sub: acircumflextilde+smcp acircumflextilde.end+smcp
@@ -10716,10 +10668,11 @@ adotbelow.sc
 	fin: uni1EA1.sc
 	sub: adotbelow+smcp adotbelow.end+smcp
 	cmp: a.sc+dotbelow.sc
-ahook.sc
+ahoi.sc
 	fin: uni1EA3.sc
-	sub: ahook+smcp ahook.end+smcp
-	cmp: a.sc+hook.sc
+	ali: ahook.sc
+	sub: ahoi+smcp ahoi.end+smcp
+	cmp: a.sc+hoi.sc
 ecircumflexacute.sc
 	fin: uni1EBF.sc
 	sub: ecircumflexacute+smcp ecircumflexacute.end+smcp
@@ -10732,10 +10685,11 @@ ecircumflexgrave.sc
 	fin: uni1EC1.sc
 	sub: ecircumflexgrave+smcp ecircumflexgrave.end+smcp
 	cmp: e.sc+circumflexgrave.sc
-ecircumflexhook.sc
+ecircumflexhoi.sc
 	fin: uni1EC3.sc
-	sub: ecircumflexhook+smcp ecircumflexhook.end+smcp
-	cmp: e.sc+circumflexhook.sc
+	ali: ecircumflexhook.sc
+	sub: ecircumflexhoi+smcp ecircumflexhoi.end+smcp
+	cmp: e.sc+circumflexhoi.sc
 ecircumflextilde.sc
 	fin: uni1EC5.sc
 	sub: ecircumflextilde+smcp ecircumflextilde.end+smcp
@@ -10744,10 +10698,11 @@ edotbelow.sc
 	fin: uni1EB9.sc
 	sub: edotbelow+smcp edotbelow.end+smcp
 	cmp: e.sc+dotbelow.sc
-ehook.sc
+ehoi.sc
 	fin: uni1EBB.sc
-	sub: ehook+smcp ehook.end+smcp
-	cmp: e.sc+hook.sc
+	ali: ehook.sc
+	sub: ehoi+smcp ehoi.end+smcp
+	cmp: e.sc+hoi.sc
 etilde.sc
 	fin: uni1EBD.sc
 	sub: etilde+smcp etilde.end+smcp
@@ -10756,10 +10711,11 @@ idotbelow.sc
 	fin: uni1ECB.sc
 	sub: idotbelow+smcp
 	cmp: i.sc+dotbelow.sc
-ihook.sc
+ihoi.sc
 	fin: uni1EC9.sc
-	sub: ihook+smcp
-	cmp: i.sc+hook.sc
+	ali: ihook.sc
+	sub: ihoi+smcp
+	cmp: i.sc+hoi.sc
 ocircumflexacute.sc
 	fin: uni1ED1.sc
 	sub: ocircumflexacute+smcp
@@ -10772,10 +10728,11 @@ ocircumflexgrave.sc
 	fin: uni1ED3.sc
 	sub: ocircumflexgrave+smcp
 	cmp: o.sc+circumflexgrave.sc
-ocircumflexhook.sc
+ocircumflexhoi.sc
 	fin: uni1ED5.sc
-	sub: ocircumflexhook+smcp
-	cmp: o.sc+circumflexhook.sc
+	ali: ocircumflexhook.sc
+	sub: ocircumflexhoi+smcp
+	cmp: o.sc+circumflexhoi.sc
 ocircumflextilde.sc
 	fin: uni1ED7.sc
 	sub: ocircumflextilde+smcp
@@ -10784,10 +10741,11 @@ odotbelow.sc
 	fin: uni1ECD.sc
 	sub: odotbelow+smcp
 	cmp: o.sc+dotbelow.sc
-ohook.sc
+ohoi.sc
 	fin: uni1ECF.sc
-	sub: ohook+smcp
-	cmp: o.sc+hook.sc
+	ali: ohook.sc
+	sub: ohoi+smcp
+	cmp: o.sc+hoi.sc
 ohorn.sc
 	fin: uni01A1.sc
 	sub: ohorn+smcp
@@ -10803,10 +10761,11 @@ ohorngrave.sc
 	fin: uni1EDD.sc
 	sub: ohorngrave+smcp
 	cmp: ohorn.sc+grave.sc
-ohornhook.sc
+ohornhoi.sc
 	fin: uni1EDF.sc
-	sub: ohornhook+smcp
-	cmp: ohorn.sc+hook.sc
+	ali: ohornhook.sc
+	sub: ohornhoi+smcp
+	cmp: ohorn.sc+hoi.sc
 ohorntilde.sc
 	fin: uni1EE1.sc
 	sub: ohorntilde+smcp
@@ -10815,10 +10774,11 @@ udotbelow.sc
 	fin: uni1EE5.sc
 	sub: udotbelow+smcp
 	cmp: u.sc+dotbelow.sc
-uhook.sc
+uhoi.sc
 	fin: uni1EE7.sc
-	sub: uhook+smcp
-	cmp: u.sc+hook.sc
+	ali: uhook.sc
+	sub: uhoi+smcp
+	cmp: u.sc+hoi.sc
 uhorn.sc
 	fin: uni01B0.sc
 	sub: uhorn+smcp
@@ -10834,10 +10794,11 @@ uhorngrave.sc
 	fin: uni1EEB.sc
 	sub: uhorngrave+smcp
 	cmp: uhorn.sc+grave.sc
-uhornhook.sc
+uhornhoi.sc
 	fin: uni1EED.sc
-	sub: uhornhook+smcp
-	cmp: uhorn.sc+hook.sc
+	ali: uhornhook.sc
+	sub: uhornhoi+smcp
+	cmp: uhorn.sc+hoi.sc
 uhorntilde.sc
 	fin: uni1EEF.sc
 	sub: uhorntilde+smcp
@@ -10846,11 +10807,11 @@ ydotbelow.sc
 	fin: uni1EF5.sc
 	sub: ydotbelow+smcp
 	cmp: y.sc+dotbelow.sc
-yhookabove.sc
+yhoi.sc
 	fin: uni1EF7.sc
-	ali: yhook.sc
-	sub: yhookabove+smcp
-	cmp: y.sc+hook.sc
+	ali: yhook.sc yhookabove.sc
+	sub: yhoi+smcp
+	cmp: y.sc+hoi.sc
 ytilde.sc
 	fin: uni1EF9.sc
 	sub: ytilde+smcp
@@ -10861,9 +10822,9 @@ breveacute
 brevegrave
 	fin: uni02D80300
 	ali: breve_gravecomb
-brevehook
+brevehoi
 	fin: uni02D80309
-	ali: breve_hookabovecomb
+	ali: breve_hookabovecomb brevehook
 brevetilde
 	fin: uni02D80303
 	ali: breve_tildecomb
@@ -10873,18 +10834,18 @@ circumflexacute
 circumflexgrave
 	fin: uni02C60300
 	ali: circumflex_gravecomb
-circumflexhook
+circumflexhoi
 	fin: uni02C60309
-	ali: circumflex_hookabovecomb
+	ali: circumflex_hookabovecomb circumflexhook
 circumflextilde
 	fin: uni02C60303
 	ali: circumflex_tildecomb
 dotbelow
 	fin: uni00200323
 	ali: space_dotbelowcomb
-hook
+hoi
 	fin: uni00200309
-	ali: space_hookabovecomb
+	ali: hook space_hookabovecomb
 horn
 	fin: uni0020031B
 	ali: space_uni031B
@@ -10896,10 +10857,10 @@ brevegrave.cap
 	fin: uni02D80300.cap
 	ali: breve_gravecomb.cap
 	sub: brevegrave+case
-brevehook.cap
+brevehoi.cap
 	fin: uni02D80309.cap
-	ali: breve_hookabovecomb.cap
-	sub: brevehook+case
+	ali: breve_hookabovecomb.cap brevehook.cap
+	sub: brevehoi+case
 brevetilde.cap
 	fin: uni02D80303.cap
 	ali: breve_tildecomb.cap
@@ -10912,10 +10873,10 @@ circumflexgrave.cap
 	fin: uni02C60300.cap
 	ali: circumflex_gravecomb.cap
 	sub: circumflexgrave+case
-circumflexhook.cap
+circumflexhoi.cap
 	fin: uni02C60309.cap
-	ali: circumflex_hookabovecomb.cap
-	sub: circumflexhook+case
+	ali: circumflex_hookabovecomb.cap circumflexhook.cap
+	sub: circumflexhoi+case
 circumflextilde.cap
 	fin: uni02C60303.cap
 	ali: circumflex_tildecomb.cap
@@ -10925,9 +10886,9 @@ dotbelow.cap
 	ali: space_dotbelowcomb.cap
 	sub: dotbelow+case
 	cmp: dotbelow
-hook.cap
+hoi.cap
 	fin: uni00200309.cap
-	ali: space_hookabovecomb.cap
+	ali: hook.cap space_hookabovecomb.cap
 	sub: hook+case
 horn.cap
 	fin: uni0020031B.cap
@@ -10942,10 +10903,10 @@ brevegrave.sc
 	fin: uni02D80300.sc
 	ali: breve_gravecomb.sc
 	sub: brevegrave+smcp
-brevehook.sc
+brevehoi.sc
 	fin: uni02D80309.sc
-	ali: breve_hookabovecomb.sc
-	sub: brevehook+smcp
+	ali: breve_hookabovecomb.sc brevehook.sc
+	sub: brevehoi+smcp
 brevetilde.sc
 	fin: uni02D80303.sc
 	ali: breve_tildecomb.sc
@@ -10958,10 +10919,10 @@ circumflexgrave.sc
 	fin: uni02C60300.sc
 	ali: circumflex_gravecomb.sc
 	sub: circumflexgrave+smcp
-circumflexhook.sc
+circumflexhoi.sc
 	fin: uni02C60309.sc
-	ali: circumflex_hookabovecomb.sc
-	sub: circumflexhook+smcp
+	ali: circumflex_hookabovecomb.sc circumflexhook.sc
+	sub: circumflexhoi+smcp
 circumflextilde.sc
 	fin: uni02C60303.sc
 	ali: circumflex_tildecomb.sc
@@ -10971,10 +10932,10 @@ dotbelow.sc
 	ali: space_dotbelowcomb.sc
 	sub: dotbelow+smcp
 	cmp: dotbelow
-hook.sc
+hoi.sc
 	fin: uni00200309.sc
-	ali: space_hookabovecomb.sc
-	sub: hook+smcp
+	ali: hook.sc space_hookabovecomb.sc
+	sub: hoi+smcp
 horn.sc
 	fin: uni0020031B.sc
 	ali: space_uni031B.sc
@@ -11132,10 +11093,11 @@ Yogh.sc
 	sub: Yogh+c2sc
 	min: yogh.sc
 	cmp: yogh.sc
-Schwalatin.sc
+Schwa.sc
 	fin: uni018F.sc
-	sub: Schwa.latin+c2sc
-	cmp: schwa.sc
+	ali: Schwalatin.sc
+	sub: Schwa+c2sc
+	cmp: schwacyr.sc
 AE.sc
 	sub: AE+c2sc
 	min: ae.sc
@@ -11477,10 +11439,11 @@ Abrevegrave.sc
 	fin: uni1EB0.sc
 	sub: Abrevegrave+c2sc
 	cmp: abrevegrave.sc
-Abrevehook.sc
+Abrevehoi.sc
 	fin: uni1EB2.sc
-	sub: Abrevehook+c2sc
-	cmp: abrevehook.sc
+	ali: Abrevehook.sc
+	sub: Abrevehoi+c2sc
+	cmp: abrevehoi.sc
 Abrevetilde.sc
 	fin: uni1EB4.sc
 	sub: Abrevetilde+c2sc
@@ -11497,10 +11460,11 @@ Acircumflexgrave.sc
 	fin: uni1EA6.sc
 	sub: Acircumflexgrave+c2sc
 	cmp: acircumflexgrave.sc
-Acircumflexhook.sc
+Acircumflexhoi.sc
 	fin: uni1EA8.sc
-	sub: Acircumflexhook+c2sc
-	cmp: acircumflexhook.sc
+	ali: Acircumflexhook.sc
+	sub: Acircumflexhoi+c2sc
+	cmp: acircumflexhoi.sc
 Acircumflextilde.sc
 	fin: uni1EAA.sc
 	sub: Acircumflextilde+c2sc
@@ -11509,10 +11473,11 @@ Adotbelow.sc
 	fin: uni1EA0.sc
 	sub: Adotbelow+c2sc
 	cmp: adotbelow.sc
-Ahook.sc
+Ahoi.sc
 	fin: uni1EA2.sc
-	sub: Ahook+c2sc
-	cmp: ahook.sc
+	ali: Ahook.sc
+	sub: Ahoi+c2sc
+	cmp: ahoi.sc
 Ecircumflexacute.sc
 	fin: uni1EBE.sc
 	sub: Ecircumflexacute+c2sc
@@ -11525,10 +11490,11 @@ Ecircumflexgrave.sc
 	fin: uni1EC0.sc
 	sub: Ecircumflexgrave+c2sc
 	cmp: ecircumflexgrave.sc
-Ecircumflexhook.sc
+Ecircumflexhoi.sc
 	fin: uni1EC2.sc
-	sub: Ecircumflexhook+c2sc
-	cmp: ecircumflexhook.sc
+	ali: Ecircumflexhook.sc
+	sub: Ecircumflexhoi+c2sc
+	cmp: ecircumflexhoi.sc
 Ecircumflextilde.sc
 	fin: uni1EC4.sc
 	sub: Ecircumflextilde+c2sc
@@ -11537,10 +11503,11 @@ Edotbelow.sc
 	fin: uni1EB8.sc
 	sub: Edotbelow+c2sc
 	cmp: edotbelow.sc
-Ehook.sc
+Ehoi.sc
 	fin: uni1EBA.sc
-	sub: Ehook+c2sc
-	cmp: ehook.sc
+	ali: Ehook.sc
+	sub: Ehoi+c2sc
+	cmp: ehoi.sc
 Etilde.sc
 	fin: uni1EBC.sc
 	sub: Etilde+c2sc
@@ -11549,10 +11516,11 @@ Idotbelow.sc
 	fin: uni1ECA.sc
 	sub: Idotbelow+c2sc
 	cmp: idotbelow.sc
-Ihook.sc
+Ihoi.sc
 	fin: uni1EC8.sc
-	sub: Ihook+c2sc
-	cmp: ihook.sc
+	ali: Ihook.sc
+	sub: Ihoi+c2sc
+	cmp: ihoi.sc
 Ocircumflexacute.sc
 	fin: uni1ED0.sc
 	sub: Ocircumflexacute+c2sc
@@ -11565,10 +11533,11 @@ Ocircumflexgrave.sc
 	fin: uni1ED2.sc
 	sub: Ocircumflexgrave+c2sc
 	cmp: ocircumflexgrave.sc
-Ocircumflexhook.sc
+Ocircumflexhoi.sc
 	fin: uni1ED4.sc
-	sub: Ocircumflexhook+c2sc
-	cmp: ocircumflexhook.sc
+	ali: Ocircumflexhook.sc
+	sub: Ocircumflexhoi+c2sc
+	cmp: ocircumflexhoi.sc
 Ocircumflextilde.sc
 	fin: uni1ED6.sc
 	sub: Ocircumflextilde+c2sc
@@ -11577,10 +11546,11 @@ Odotbelow.sc
 	fin: uni1ECC.sc
 	sub: Odotbelow+c2sc
 	cmp: odotbelow.sc
-Ohook.sc
+Ohoi.sc
 	fin: uni1ECE.sc
-	sub: Ohook+c2sc
-	cmp: ohook.sc
+	ali: Ohook.sc
+	sub: Ohoi+c2sc
+	cmp: ohoi.sc
 Ohorn.sc
 	fin: uni01A0.sc
 	sub: Ohorn+c2sc
@@ -11597,10 +11567,11 @@ Ohorngrave.sc
 	fin: uni1EDC.sc
 	sub: Ohorngrave+c2sc
 	cmp: ohorngrave.sc
-Ohornhook.sc
+Ohornhoi.sc
 	fin: uni1EDE.sc
-	sub: Ohornhook+c2sc
-	cmp: ohornhook.sc
+	ali: Ohornhook.sc
+	sub: Ohornhoi+c2sc
+	cmp: ohornhoi.sc
 Ohorntilde.sc
 	fin: uni1EE0.sc
 	sub: Ohorntilde+c2sc
@@ -11609,10 +11580,11 @@ Udotbelow.sc
 	fin: uni1EE4.sc
 	sub: Udotbelow+c2sc
 	cmp: udotbelow.sc
-Uhook.sc
+Uhoi.sc
 	fin: uni1EE6.sc
-	sub: Uhook+c2sc
-	cmp: uhook.sc
+	ali: Uhook.sc
+	sub: Uhoi+c2sc
+	cmp: uhoi.sc
 Uhorn.sc
 	fin: uni01AF.sc
 	sub: Uhorn+c2sc
@@ -11629,10 +11601,11 @@ Uhorngrave.sc
 	fin: uni1EEA.sc
 	sub: Uhorngrave+c2sc
 	cmp: uhorngrave.sc
-Uhornhook.sc
+Uhornhoi.sc
 	fin: uni1EEC.sc
-	sub: Uhornhook+c2sc
-	cmp: uhornhook.sc
+	ali: Uhornhook.sc
+	sub: Uhornhoi+c2sc
+	cmp: uhornhoi.sc
 Uhorntilde.sc
 	fin: uni1EEE.sc
 	sub: Uhorntilde+c2sc
@@ -11641,11 +11614,11 @@ Ydotbelow.sc
 	fin: uni1EF4.sc
 	sub: Ydotbelow+c2sc
 	cmp: ydotbelow.sc
-Yhookabove.sc
+Yhoi.sc
 	fin: uni1EF6.sc
-	ali: Yhook.sc
-	sub: Yhookabove+c2sc
-	cmp: yhookabove.sc
+	ali: Yhook.sc Yhookabove.sc
+	sub: Yhoi+c2sc
+	cmp: yhoi.sc
 Ytilde.sc
 	fin: uni1EF8.sc
 	sub: Ytilde+c2sc
@@ -11688,7 +11661,7 @@ Dz.sc
 Acyr.sc
 	fin: uni0410.sc
 	ali: afii10017.sc
-	sub: A.cyr+c2sc
+	sub: Acyr+c2sc
 	cmp: a.sc
 Be.sc
 	fin: uni0411.sc
@@ -11708,7 +11681,7 @@ Ghe.sc
 Gheup.sc
 	fin: uni0490.sc
 	ali: afii10050.sc
-	sub: Ghe.up+c2sc
+	sub: Gheup+c2sc
 	cmp: gheup.sc
 De.sc
 	fin: uni0414.sc
@@ -11738,12 +11711,12 @@ Ze.sc
 Icyr.sc
 	fin: uni0418.sc
 	ali: afii10026.sc
-	sub: I.cyr+c2sc
+	sub: Icyr+c2sc
 	cmp: icyr.sc
 Ishort.sc
 	fin: uni0419.sc
 	ali: afii10027.sc
-	sub: I.short+c2sc
+	sub: Ishort+c2sc
 	cmp: ishort.sc
 Ka.sc
 	fin: uni041A.sc
@@ -11773,7 +11746,7 @@ En.sc
 Ocyr.sc
 	fin: uni041E.sc
 	ali: afii10032.sc
-	sub: O.cyr+c2sc
+	sub: Ocyr+c2sc
 	cmp: o.sc
 Pe.sc
 	fin: uni041F.sc
@@ -11798,7 +11771,7 @@ Te.sc
 Ucyr.sc
 	fin: uni0423.sc
 	ali: afii10037.sc
-	sub: U.cyr+c2sc
+	sub: Ucyr+c2sc
 	cmp: ucyr.sc
 Ef.sc
 	fin: uni0424.sc
@@ -11848,7 +11821,7 @@ Soft.sc
 Ecyr.sc
 	fin: uni042D.sc
 	ali: afii10047.sc
-	sub: E.cyr+c2sc
+	sub: Ecyr+c2sc
 	cmp: ecyr.sc
 Yu.sc
 	fin: uni042E.sc
@@ -11878,7 +11851,7 @@ Gje.sc
 Ieukran.sc
 	fin: uni0404.sc
 	ali: afii10053.sc
-	sub: Ie.ukran+c2sc
+	sub: Ieukran+c2sc
 	cmp: ieukran.sc
 Dze.sc
 	fin: uni0405.sc
@@ -11888,7 +11861,7 @@ Dze.sc
 Iukran.sc
 	fin: uni0406.sc
 	ali: afii10055.sc
-	sub: I.ukran+c2sc
+	sub: Iukran+c2sc
 	cmp: i.sc
 Yi.sc
 	fin: uni0407.sc
@@ -11928,7 +11901,7 @@ Kje.sc
 Ushort.sc
 	fin: uni040E.sc
 	ali: afii10062.sc
-	sub: U.short+c2sc
+	sub: Ushort+c2sc
 	cmp: ushort.sc
 Dzhe.sc
 	fin: uni040F.sc
@@ -12651,16 +12624,17 @@ hairspace
 zerowidthspace
 	uni: 200B
 	fin: uni200B
+	ali: ZWS
 	set: AGL1
 zerowidthnonjoiner
 	uni: 200C
 	fin: uni200C
-	ali: afii61664
+	ali: ZWNJ afii61664
 	set: AGL1 AGL2 AGLFN
 zerowidthjoiner
 	uni: 200D
 	fin: uni200D
-	ali: afii301
+	ali: ZWJ afii301
 	set: AGL1 AGL2 AGLFN
 lefttorightmark
 	uni: 200E
@@ -12675,6 +12649,7 @@ righttoleftmark
 zerowidthnbspace
 	uni: FEFF
 	fin: uniFEFF
+	ali: ZWNBS
 	set: AGL1
 control
 	uni: 007F
@@ -14005,10 +13980,9 @@ underscore.alt
 	ali: altscore
 deutschmark
 	fin: uni0044_uni004D
-TeXtext32
+solidusshortoverlaycmb
 	uni: 0337
 	fin: uni0337
-	ali: solidusshortoverlaycmb
 	set: AGL1
 Dash1l
 	fin: uni2015.alt1
@@ -14022,10 +13996,10 @@ Dash1r
 	fin: uni2015.revalt1
 Dash2r
 	fin: uni2015.revalt3
-overscore
+overline
 	uni: 203E
 	fin: uni203E
-	ali: overline
+	ali: overscore
 	set: AGL1
 caretinverted
 	uni: 2304
@@ -14036,7 +14010,7 @@ SA420000
 BorderULCorner1
 	uni: 231C
 	fin: uni231C
-	ali: DD010
+	ali: DD010 ceilingleft
 BorderULCorner2
 	fin: uni231C.alt
 DD040
@@ -14055,7 +14029,7 @@ DD120
 BorderURCorner1
 	uni: 231D
 	fin: uni231D
-	ali: DD012
+	ali: DD012 ceilingright
 BorderURCorner2
 	fin: uni231D.alt
 Flower4tr
@@ -14074,7 +14048,7 @@ DD122
 BorderLLCorner1
 	uni: 231E
 	fin: uni231E
-	ali: DD014
+	ali: DD014 floorleft
 BorderLLCorner2
 	fin: uni231E.alt
 Flower4bl
@@ -14093,7 +14067,7 @@ DD125
 BorderLRCorner1
 	uni: 231F
 	fin: uni231F
-	ali: DD015
+	ali: DD015 floorright
 BorderLRCorner2
 	fin: uni231F.alt
 Flower4br
@@ -14115,10 +14089,6 @@ chair
 fork
 	uni: 2442
 	fin: uni2442
-BorderLower1
-	uni: 2581
-	fin: uni2581
-	ali: DD011 Flower1l
 BorderLower2
 	fin: uni2581.alt
 Flower2hbl
@@ -14153,10 +14123,6 @@ Flower2hbr
 	fin: uni2581.revalt1
 Flower3hbr
 	fin: uni2581.revalt2
-BorderLeftVertical1
-	uni: 258F
-	fin: uni258F
-	ali: DD013 Flower1d
 BorderLeftVertical2
 	fin: uni258F.alt
 Flower2dl
@@ -14184,10 +14150,6 @@ Flower2ul
 	fin: uni258F.revalt1
 Flower3ul
 	fin: uni258F.revalt2
-BorderUpper1
-	uni: 2594
-	fin: uni2594
-	ali: DD023
 BorderUpper2
 	fin: uni2594.alt
 Flower2htl
@@ -14208,10 +14170,6 @@ Flower2htr
 	fin: uni2594.revalt1
 Flower3htr
 	fin: uni2594.revalt2
-BorderRightVertical1
-	uni: 2595
-	fin: uni2595
-	ali: DD030 Flower2dr
 BorderRightVertical2
 	fin: uni2595.alt
 Flower3dr
@@ -14701,7 +14659,7 @@ Adieresiscyr
 	ali: Adieresiscyrillic
 	set: AGL1
 	min: adieresiscyr
-	cmp: A.cyr+diereis.cap
+	cmp: Acyr+diereis.cap
 Adieresismacron
 	uni: 01DE
 	fin: uni01DE
@@ -14724,9 +14682,10 @@ Ainvertedbreve
 	fin: uni0202
 	set: AGL1
 	cmp: A+breveinvertedcmb.cap
-Amonospace
+Afullwidth
 	uni: FF21
 	fin: uniFF21
+	ali: Amonospace
 	set: AGL1
 Aringbelow
 	uni: 1E00
@@ -14756,9 +14715,10 @@ Blinebelow
 	fin: uni1E06
 	set: AGL1
 	cmp: B+macronbelowcmb
-Bmonospace
+Bfullwidth
 	uni: FF22
 	fin: uniFF22
+	ali: Bmonospace
 	set: AGL1
 Btopbar
 	uni: 0182
@@ -14814,9 +14774,10 @@ Chook
 	uni: 0187
 	fin: uni0187
 	set: AGL1
-Cmonospace
+Cfullwidth
 	uni: FF23
 	fin: uniFF23
+	ali: Cmonospace
 	set: AGL1
 Dafrican
 	uni: 0189
@@ -14824,13 +14785,13 @@ Dafrican
 	set: AGL1
 	min: dtail
 	cmp: Eth
-Dcommaaccent
+Dcedilla
 	uni: 1E10
 	fin: uni1E10
-	ali: Dcedilla
+	ali: Dcommaaccent
 	set: AGL1
-	min: dcommaaccent
-	cmp: D+commabelowcmb
+	min: dcedilla
+	cmp: D+cedillacmb
 Dcircle
 	uni: 24B9
 	fin: uni24B9
@@ -14867,9 +14828,10 @@ Dlinebelow
 	fin: uni1E0E
 	set: AGL1
 	cmp: D+macronbelowcmb
-Dmonospace
+Dfullwidth
 	uni: FF24
 	fin: uniFF24
+	ali: Dmonospace
 	set: AGL1
 Dtopbar
 	uni: 018B
@@ -14900,10 +14862,6 @@ Edblgrave
 	fin: uni0204
 	set: AGL1
 	cmp: E+dblgravecmb.cap
-Eightroman
-	uni: 2167
-	fin: uni2167
-	set: AGL1
 Einvertedbreve
 	uni: 0206
 	fin: uni0206
@@ -14912,10 +14870,6 @@ Einvertedbreve
 Eiotifiedcyrillic
 	uni: 0464
 	fin: uni0464
-	set: AGL1
-Elevenroman
-	uni: 216A
-	fin: uni216A
 	set: AGL1
 Emacronacute
 	uni: 1E16
@@ -14927,9 +14881,10 @@ Emacrongrave
 	fin: uni1E14
 	set: AGL1
 	cmp: E+macrongrave.cap
-Emonospace
+Efullwidth
 	uni: FF25
 	fin: uniFF25
+	ali: Emonospace
 	set: AGL1
 Endescender
 	uni: 04A2
@@ -15003,21 +14958,15 @@ Fhook
 	fin: uni0191
 	set: AGL1
 	min: fhook
-Fiveroman
-	uni: 2164
-	fin: uni2164
-	set: AGL1
-Fmonospace
+Ffullwidth
 	uni: FF26
 	fin: uniFF26
+	ali: Fmonospace
 	set: AGL1
-Fourroman
-	uni: 2163
-	fin: uni2163
-	set: AGL1
-GBsquare
+GBfullwidth
 	uni: 3387
 	fin: uni3387
+	ali: GBsquare
 	set: AGL1
 Gacute
 	uni: 01F4
@@ -15057,9 +15006,10 @@ Gmacron
 	uni: 1E20
 	fin: uni1E20
 	set: AGL1
-Gmonospace
+Gfullwidth
 	uni: FF27
 	fin: uniFF27
+	ali: Gmonospace
 	set: AGL1
 Gsmall
 	uni: 0262
@@ -15072,9 +15022,10 @@ Gstroke
 	uni: 01E4
 	fin: uni01E4
 	set: AGL1
-HPsquare
+HPfullwidth
 	uni: 33CB
 	fin: uni33CB
+	ali: HPsquare
 	set: AGL1
 Haabkhaz
 	uni: 04A8
@@ -15116,17 +15067,19 @@ Hdotbelow
 	fin: uni1E24
 	set: AGL1
 	cmp: H+dotbelowcmb
-Hmonospace
+Hfullwidth
 	uni: FF28
 	fin: uniFF28
+	ali: Hmonospace
 	set: AGL1
 Horicoptic
 	uni: 03E8
 	fin: uni03E8
 	set: AGL1
-Hzsquare
+Hzfullwidth
 	uni: 3390
 	fin: uni3390
+	ali: Hzsquare
 	set: AGL1
 Icaron
 	uni: 01CF
@@ -15152,7 +15105,7 @@ Idieresiscyr
 	ali: Idieresiscyrillic
 	set: AGL1
 	min: idieresiscyr
-	cmp: I.cyr+diereis.cap
+	cmp: Icyr+diereis.cap
 Iebreve
 	uni: 04D6
 	fin: uni04D6
@@ -15169,16 +15122,17 @@ Imacroncyr
 	ali: Imacroncyrillic
 	set: AGL1
 	min: imacroncyr
-	cmp: I.cyr+macron.cap
+	cmp: Icyr+macron.cap
 Imacroncyr.sc
 	fin: uni04E2.sc
 	ali: Imacroncyrillic.sc
 	sub: Imacroncyr+c2sc
 	min: imacroncyr.sc
 	cmp: imacroncyr.sc
-Imonospace
+Ifullwidth
 	uni: FF29
 	fin: uniFF29
+	ali: Imonospace
 	set: AGL1
 Iotalatin
 	uni: 0196
@@ -15202,17 +15156,20 @@ Jcircle
 	uni: 24BF
 	fin: uni24BF
 	set: AGL1
-Jmonospace
+Jfullwidth
 	uni: FF2A
 	fin: uniFF2A
+	ali: Jmonospace
 	set: AGL1
-KBsquare
+KBfullwidth
 	uni: 3385
 	fin: uni3385
+	ali: KBsquare
 	set: AGL1
-KKsquare
+KKfullwidth
 	uni: 33CD
 	fin: uni33CD
+	ali: KKsquare
 	set: AGL1
 Kabashkir
 	uni: 04A0
@@ -15275,9 +15232,10 @@ Klinebelow
 	fin: uni1E34
 	set: AGL1
 	cmp: K+macronbelowcmb
-Kmonospace
+Kfullwidth
 	uni: FF2B
 	fin: uniFF2B
+	ali: Kmonospace
 	set: AGL1
 Koppacyrillic
 	uni: 0480
@@ -15314,13 +15272,15 @@ Llinebelow
 	fin: uni1E3A
 	set: AGL1
 	cmp: L+macronbelowcmb
-Lmonospace
+Lfullwidth
 	uni: FF2C
 	fin: uniFF2C
+	ali: Lmonospace
 	set: AGL1
-MBsquare
+MBfullwidth
 	uni: 3386
 	fin: uni3386
+	ali: MBsquare
 	set: AGL1
 Macute
 	uni: 1E3E
@@ -15340,9 +15300,10 @@ Mdotbelow
 	fin: uni1E42
 	set: AGL1
 	cmp: M+dotbelowcmb
-Mmonospace
+Mfullwidth
 	uni: FF2D
 	fin: uniFF2D
+	ali: Mmonospace
 	set: AGL1
 Mturned
 	uni: 019C
@@ -15372,18 +15333,15 @@ Nhookleft
 	uni: 019D
 	fin: uni019D
 	set: AGL1
-Nineroman
-	uni: 2168
-	fin: uni2168
-	set: AGL1
 Nlinebelow
 	uni: 1E48
 	fin: uni1E48
 	set: AGL1
 	cmp: N+macronbelowcmb
-Nmonospace
+Nfullwidth
 	uni: FF2E
 	fin: uniFF2E
+	ali: Nmonospace
 	set: AGL1
 Obarcyr
 	uni: 04E8
@@ -15444,13 +15402,10 @@ Omegatitlocyrillic
 	uni: 047C
 	fin: uni047C
 	set: AGL1
-Omonospace
+Ofullwidth
 	uni: FF2F
 	fin: uniFF2F
-	set: AGL1
-Oneroman
-	uni: 2160
-	fin: uni2160
+	ali: Omonospace
 	set: AGL1
 Oogonek
 	uni: 01EA
@@ -15503,9 +15458,10 @@ Phook
 	uni: 01A4
 	fin: uni01A4
 	set: AGL1
-Pmonospace
+Pfullwidth
 	uni: FF30
 	fin: uniFF30
+	ali: Pmonospace
 	set: AGL1
 Psicyrillic
 	uni: 0470
@@ -15515,9 +15471,10 @@ Qcircle
 	uni: 24C6
 	fin: uni24C6
 	set: AGL1
-Qmonospace
+Qfullwidth
 	uni: FF31
 	fin: uniFF31
+	ali: Qmonospace
 	set: AGL1
 Rcircle
 	uni: 24C7
@@ -15552,9 +15509,10 @@ Rlinebelow
 	fin: uni1E5E
 	set: AGL1
 	cmp: R+macronbelowcmb
-Rmonospace
+Rfullwidth
 	uni: FF32
 	fin: uniFF32
+	ali: Rmonospace
 	set: AGL1
 Rsmall
 	uni: 0280
@@ -15588,9 +15546,10 @@ Schwacyr
 	ali: Schwa.cyr Schwacyrillic
 	set: AGL1
 	min: schwacyr
-Schwadieresiscyrillic
+Schwadieresiscyr
 	uni: 04DA
 	fin: uni04DA
+	ali: Schwadieresiscyrillic
 	set: AGL1
 Scircle
 	uni: 24C8
@@ -15611,10 +15570,6 @@ Sdotbelowdotaccent
 	fin: uni1E68
 	set: AGL1
 	cmp: S+dotbelowcmb+dotaccentcmb.cap
-Sevenroman
-	uni: 2166
-	fin: uni2166
-	set: AGL1
 Sheicoptic
 	uni: 03E2
 	fin: uni03E2
@@ -15629,13 +15584,10 @@ Shimacoptic
 	uni: 03EC
 	fin: uni03EC
 	set: AGL1
-Sixroman
-	uni: 2165
-	fin: uni2165
-	set: AGL1
-Smonospace
+Sfullwidth
 	uni: FF33
 	fin: uniFF33
+	ali: Smonospace
 	set: AGL1
 Stigmagreek
 	uni: 03DA
@@ -15666,10 +15618,6 @@ Tedescender
 	ali: Tedescendercyrillic
 	set: AGL1
 	min: tedescender
-Tenroman
-	uni: 2169
-	fin: uni2169
-	set: AGL1
 Tetse
 	uni: 04B4
 	fin: uni04B4
@@ -15680,18 +15628,15 @@ Thook
 	uni: 01AC
 	fin: uni01AC
 	set: AGL1
-Threeroman
-	uni: 2162
-	fin: uni2162
-	set: AGL1
 Tlinebelow
 	uni: 1E6E
 	fin: uni1E6E
 	set: AGL1
 	cmp: T+macronbelowcmb
-Tmonospace
+Tfullwidth
 	uni: FF34
 	fin: uniFF34
+	ali: Tmonospace
 	set: AGL1
 Tonefive
 	uni: 01BC
@@ -15705,20 +15650,12 @@ Tonetwo
 	uni: 01A7
 	fin: uni01A7
 	set: AGL1
-Thookretroflex
+Tretroflex
 	uni: 01AE
 	fin: uni01AE
-	ali: Tretroflexhook
+	ali: Thookretroflex Tretroflexhook
 	set: AGL1
-	min: thookretroflex
-Twelveroman
-	uni: 216B
-	fin: uni216B
-	set: AGL1
-Tworoman
-	uni: 2161
-	fin: uni2161
-	set: AGL1
+	min: tretroflex
 Ucaron
 	uni: 01D3
 	fin: uni01D3
@@ -15757,7 +15694,7 @@ Udieresiscyr
 	ali: Udieresiscyrillic
 	set: AGL1
 	min: udieresiscyr
-	cmp: U.cyr+diereis.cap
+	cmp: Ucyr+diereis.cap
 Udieresisgrave
 	uni: 01DB
 	fin: uni01DB
@@ -15767,10 +15704,10 @@ Udieresismacron
 	fin: uni01D5
 	set: AGL1
 	cmp: U+dieresismacron.cap
-Uhungarumlautcyr
+Uacutedblcyr
 	uni: 04F2
 	fin: uni04F2
-	ali: Uhungarumlautcyrillic
+	ali: Uhungarumlautcyr Uhungarumlautcyrillic
 	set: AGL1
 Uinvertedbreve
 	uni: 0216
@@ -15787,7 +15724,7 @@ Umacroncyr
 	ali: Umacroncyrillic
 	set: AGL1
 	min: umacroncyr
-	cmp: U.cyr+macron.cap
+	cmp: Ucyr+macron.cap
 Umacroncyr.sc
 	fin: uni04EE.sc
 	ali: Umacroncyrillic.sc
@@ -15799,9 +15736,10 @@ Umacrondieresis
 	fin: uni1E7A
 	set: AGL1
 	cmp: U+macrondieresis.cap
-Umonospace
+Ufullwidth
 	uni: FF35
 	fin: uniFF35
+	ali: Umonospace
 	set: AGL1
 Upsilonacutehooksymbolgreek
 	uni: 03D3
@@ -15816,18 +15754,18 @@ Upsilondieresishooksymbolgreek
 	uni: 03D4
 	fin: uni03D4
 	set: AGL1
-Ucyr.straight
+Ustraight
 	uni: 04AE
 	fin: uni04AE
-	ali: U.cyrstraight Ucyrstraight Ustraightcyrillic
+	ali: U.cyrstraight Ucyr.straight Ucyrstraight Ustraightcyrillic
 	set: AGL1
-	min: ucyr.straight
-Ucyr.straightstroke
+	min: ustraight
+Ustraightstroke
 	uni: 04B0
 	fin: uni04B0
-	ali: U.cyrstraightstroke Ucyrstraightstroke Ustraightstrokecyrillic
+	ali: U.cyrstraightstroke Ucyr.straightstroke Ucyrstraightstroke Ustraightstrokecyrillic
 	set: AGL1
-	min: ucyr.straightstroke
+	min: ustraightstroke
 Utildeacute
 	uni: 1E78
 	fin: uni1E78
@@ -15851,9 +15789,10 @@ Vhook
 	uni: 01B2
 	fin: uni01B2
 	set: AGL1
-Vmonospace
+Vfullwidth
 	uni: FF36
 	fin: uniFF36
+	ali: Vmonospace
 	set: AGL1
 Vtilde
 	uni: 1E7C
@@ -15874,9 +15813,10 @@ Wdotbelow
 	fin: uni1E88
 	set: AGL1
 	cmp: W+dotbelowcmb
-Wmonospace
+Wfullwidth
 	uni: FF37
 	fin: uniFF37
+	ali: Wmonospace
 	set: AGL1
 Xcircle
 	uni: 24CD
@@ -15892,9 +15832,10 @@ Xdotaccent
 	fin: uni1E8A
 	set: AGL1
 	cmp: X+dotaccentcmb.cap
-Xmonospace
+Xfullwidth
 	uni: FF38
 	fin: uniFF38
+	ali: Xmonospace
 	set: AGL1
 Ycircle
 	uni: 24CE
@@ -15912,9 +15853,10 @@ Yerudieresis
 	set: AGL1
 	min: yerudieresis
 	cmp: Yeru+diereis.cap
-Ymonospace
+Yfullwidth
 	uni: FF39
 	fin: uniFF39
+	ali: Ymonospace
 	set: AGL1
 Yusbig
 	uni: 046A
@@ -15983,9 +15925,10 @@ Zlinebelow
 	fin: uni1E94
 	set: AGL1
 	cmp: Z+macronbelowcmb
-Zmonospace
+Zfullwidth
 	uni: FF3A
 	fin: uniFF3A
+	ali: Zmonospace
 	set: AGL1
 Zstroke
 	uni: 01B5
@@ -16035,7 +15978,7 @@ adieresiscyr
 	ali: adieresiscyrillic
 	set: AGL1
 	maj: Adieresiscyr
-	cmp: a.cyr+diereis
+	cmp: acyr+diereis
 adieresismacron
 	uni: 01DF
 	fin: uni01DF
@@ -16070,17 +16013,20 @@ aie
 	set: AGL1
 	maj: Aie
 	cmp: ae
-ainfinalarabic
+arAinPF.f
 	uni: FECA
 	fin: uniFECA
+	ali: ainfinalarabic
 	set: AGL1
-aininitialarabic
+arAinPF.i
 	uni: FECB
 	fin: uniFECB
+	ali: aininitialarabic
 	set: AGL1
-ainmedialarabic
+arAinPF.m
 	uni: FECC
 	fin: uniFECC
+	ali: ainmedialarabic
 	set: AGL1
 ainvertedbreve
 	uni: 0203
@@ -16104,40 +16050,45 @@ heAlefDagesh
 	fin: uniFB30
 	ali: alefdageshhebrew
 	set: AGL1
-aleffinalarabic
+arAlefPF.f
 	uni: FE8E
 	fin: uniFE8E
+	ali: aleffinalarabic
 	set: AGL1
-alefhamzaabovefinalarabic
+arAlefHamzaPF.f
 	uni: FE84
 	fin: uniFE84
+	ali: alefhamzaabovefinalarabic
 	set: AGL1
-alefhamzabelowfinalarabic
+arAlefHamzaBelowPF.f
 	uni: FE88
 	fin: uniFE88
+	ali: alefhamzabelowfinalarabic
 	set: AGL1
 heAlefLamed
 	uni: FB4F
 	fin: uniFB4F
 	ali: aleflamedhebrew
 	set: AGL1
-alefmaddaabovefinalarabic
+arAlefMaddaPF.f
 	uni: FE82
 	fin: uniFE82
+	ali: alefmaddaabovefinalarabic
 	set: AGL1
-alefmaksurafinalarabic
+arAlefMaksuraPF.f
 	uni: FEF0
 	fin: uniFEF0
+	ali: alefmaksurafinalarabic
 	set: AGL1
-alefmaksurainitialarabic
+arYehPF.i
 	uni: FEF3
 	fin: uniFEF3
-	ali: yehinitialarabic
+	ali: alefmaksurainitialarabic yehinitialarabic
 	set: AGL1
-alefmaksuramedialarabic
+arYehPF.m
 	uni: FEF4
 	fin: uniFEF4
-	ali: yehmedialarabic
+	ali: alefmaksuramedialarabic yehmedialarabic
 	set: AGL1
 heAlefPatah
 	uni: FB2E
@@ -16153,17 +16104,20 @@ allequal
 	uni: 224C
 	fin: uni224C
 	set: AGL1
-amonospace
+afullwidth
 	uni: FF41
 	fin: uniFF41
+	ali: amonospace
 	set: AGL1
-ampersandmonospace
+ampersandfullwidth
 	uni: FF06
 	fin: uniFF06
+	ali: ampersandmonospace
 	set: AGL1
-amsquare
+amfullwidth
 	uni: 33C2
 	fin: uni33C2
+	ali: amsquare
 	set: AGL1
 anbopomofo
 	uni: 3122
@@ -16172,10 +16126,6 @@ anbopomofo
 angbopomofo
 	uni: 3124
 	fin: uni3124
-	set: AGL1
-angkhankhuthai
-	uni: 0E5A
-	fin: uni0E5A
 	set: AGL1
 anglebracketleft
 	uni: 3008
@@ -16201,9 +16151,10 @@ apaatosquare
 	uni: 3300
 	fin: uni3300
 	set: AGL1
-aparen
+aparens
 	uni: 249C
 	fin: uni249C
+	ali: aparen
 	set: AGL1
 apple
 	set: AGL1
@@ -16332,13 +16283,15 @@ arrowupwhite
 	uni: 21E7
 	fin: uni21E7
 	set: AGL1
-asciicircummonospace
+asciicircumfullwidth
 	uni: FF3E
 	fin: uniFF3E
+	ali: asciicircummonospace
 	set: AGL1
-asciitildemonospace
+asciitildefullwidth
 	uni: FF5E
 	fin: uniFF5E
+	ali: asciitildemonospace
 	set: AGL1
 alphalatin
 	uni: 0251
@@ -16366,9 +16319,10 @@ asmallkatakanahalfwidth
 	uni: FF67
 	fin: uniFF67
 	set: AGL1
-asteriskmonospace
+asteriskfullwidth
 	uni: FF0A
 	fin: uniFF0A
+	ali: asteriskmonospace
 	set: AGL1
 asterisksmall
 	uni: FE61
@@ -16382,9 +16336,10 @@ asymptoticallyequal
 	uni: 2243
 	fin: uni2243
 	set: AGL1
-atmonospace
+atfullwidth
 	uni: FF20
 	fin: uniFF20
+	ali: atmonospace
 	set: AGL1
 atsmall
 	uni: FE6B
@@ -16404,25 +16359,23 @@ heAyinAlt
 	fin: uniFB20
 	ali: ayinaltonehebrew
 	set: AGL1
-backslashmonospace
+backslashfullwidth
 	uni: FF3C
 	fin: uniFF3C
+	ali: backslashmonospace
 	set: AGL1
 bahiragana
 	uni: 3070
 	fin: uni3070
 	set: AGL1
-bahtthai
-	uni: 0E3F
-	fin: uni0E3F
-	set: AGL1
 bakatakana
 	uni: 30D0
 	fin: uni30D0
 	set: AGL1
-barmonospace
+linevertfullwidth
 	uni: FF5C
 	fin: uniFF5C
+	ali: barmonospace
 	set: AGL1
 bbopomofo
 	uni: 3105
@@ -16450,21 +16403,24 @@ because
 	uni: 2235
 	fin: uni2235
 	set: AGL1
-behfinalarabic
+arBehPF.f
 	uni: FE90
 	fin: uniFE90
+	ali: behfinalarabic
 	set: AGL1
-behinitialarabic
+arBehPF.i
 	uni: FE91
 	fin: uniFE91
+	ali: behinitialarabic
 	set: AGL1
 behiragana
 	uni: 3079
 	fin: uni3079
 	set: AGL1
-behmedialarabic
+arBehPF.m
 	uni: FE92
 	fin: uniFE92
+	ali: behmedialarabic
 	set: AGL1
 behmeeminitialarabic
 	uni: FC9F
@@ -16558,13 +16514,10 @@ blinebelow
 	fin: uni1E07
 	set: AGL1
 	cmp: b+macronbelowcmb
-bmonospace
+bfullwidth
 	uni: FF42
 	fin: uniFF42
-	set: AGL1
-bobaimaithai
-	uni: 0E1A
-	fin: uni0E1A
+	ali: bmonospace
 	set: AGL1
 bohiragana
 	uni: 307C
@@ -16574,17 +16527,20 @@ bokatakana
 	uni: 30DC
 	fin: uni30DC
 	set: AGL1
-bparen
+bparens
 	uni: 249D
 	fin: uni249D
+	ali: bparen
 	set: AGL1
-bqsquare
+Bqfullwidth
 	uni: 33C3
 	fin: uni33C3
+	ali: bqsquare
 	set: AGL1
-braceleftmonospace
+braceleftfullwidth
 	uni: FF5B
 	fin: uniFF5B
+	ali: braceleftmonospace
 	set: AGL1
 braceleftsmall
 	uni: FE5B
@@ -16594,9 +16550,10 @@ braceleftvertical
 	uni: FE37
 	fin: uniFE37
 	set: AGL1
-bracerightmonospace
+bracerightfullwidth
 	uni: FF5D
 	fin: uniFF5D
+	ali: bracerightmonospace
 	set: AGL1
 bracerightsmall
 	uni: FE5C
@@ -16606,13 +16563,15 @@ bracerightvertical
 	uni: FE38
 	fin: uniFE38
 	set: AGL1
-bracketleftmonospace
+bracketleftfullwidth
 	uni: FF3B
 	fin: uniFF3B
+	ali: bracketleftmonospace
 	set: AGL1
-bracketrightmonospace
+bracketrightfullwidth
 	uni: FF3D
 	fin: uniFF3D
+	ali: bracketrightmonospace
 	set: AGL1
 brevebelowcmb
 	uni: 032E
@@ -16663,9 +16622,10 @@ bullseye
 	uni: 25CE
 	fin: uni25CE
 	set: AGL1
-calsquare
+calfullwidth
 	uni: 3388
 	fin: uni3388
+	ali: calsquare
 	set: AGL1
 candrabinducmb
 	uni: 0310
@@ -16700,9 +16660,10 @@ ccurl
 	uni: 0255
 	fin: uni0255
 	set: AGL1
-cdsquare
+cdfullwidth
 	uni: 33C5
 	fin: uni33C5
+	ali: cdsquare
 	set: AGL1
 cedillacmb
 	uni: 0327
@@ -16712,9 +16673,10 @@ centigrade
 	uni: 2103
 	fin: uni2103
 	set: AGL1
-centmonospace
+centfullwidth
 	uni: FFE0
 	fin: uniFFE0
+	ali: centmonospace
 	set: AGL1
 chbopomofo
 	uni: 3114
@@ -16777,22 +16739,6 @@ chieuchparenkorean
 	uni: 3209
 	fin: uni3209
 	set: AGL1
-chochangthai
-	uni: 0E0A
-	fin: uni0E0A
-	set: AGL1
-chochanthai
-	uni: 0E08
-	fin: uni0E08
-	set: AGL1
-chochingthai
-	uni: 0E09
-	fin: uni0E09
-	set: AGL1
-chochoethai
-	uni: 0E0C
-	fin: uni0E0C
-	set: AGL1
 chook
 	uni: 0188
 	fin: uni0188
@@ -16841,10 +16787,10 @@ circumflexbelowcmb
 	uni: 032D
 	fin: uni032D
 	set: AGL1
-circumflexcomb
+circumflexcmb
 	uni: 0302
 	fin: uni0302
-	ali: circumflexcmb
+	ali: circumflexcomb
 	set: AGL1
 clear
 	uni: 2327
@@ -16870,21 +16816,25 @@ clubsuitwhite
 	uni: 2667
 	fin: uni2667
 	set: AGL1
-cmcubedsquare
+cm3fullwidth
 	uni: 33A4
 	fin: uni33A4
+	ali: cmcubedsquare
 	set: AGL1
-cmonospace
+cfullwidth
 	uni: FF43
 	fin: uniFF43
+	ali: cmonospace
 	set: AGL1
-cmsquaredsquare
+cm2fullwidth
 	uni: 33A0
 	fin: uni33A0
+	ali: cmsquaredsquare
 	set: AGL1
-colonmonospace
+colonfullwidth
 	uni: FF1A
 	fin: uniFF1A
+	ali: colonmonospace
 	set: AGL1
 colonsmall
 	uni: FE55
@@ -16906,9 +16856,10 @@ commaaboverightcmb
 	uni: 0315
 	fin: uni0315
 	set: AGL1
-commamonospace
+commafullwidth
 	uni: FF0C
 	fin: uniFF0C
+	ali: commamonospace
 	set: AGL1
 commareversedabovecmb
 	uni: 0314
@@ -17083,17 +17034,20 @@ corporationsquare
 	uni: 337F
 	fin: uni337F
 	set: AGL1
-cosquare
+Cofullwidth
 	uni: 33C7
 	fin: uni33C7
+	ali: cosquare
 	set: AGL1
-coverkgsquare
+Coverkgfullwidth
 	uni: 33C6
 	fin: uni33C6
+	ali: coverkgsquare
 	set: AGL1
-cparen
+cparens
 	uni: 249E
 	fin: uni249E
+	ali: cparen
 	set: AGL1
 cruzeiro
 	uni: 20A2
@@ -17111,17 +17065,20 @@ curlyor
 	uni: 22CE
 	fin: uni22CE
 	set: AGL1
-dadfinalarabic
+arDadPF.f
 	uni: FEBE
 	fin: uniFEBE
+	ali: dadfinalarabic
 	set: AGL1
-dadinitialarabic
+arDadPF.i
 	uni: FEBF
 	fin: uniFEBF
+	ali: dadinitialarabic
 	set: AGL1
-dadmedialarabic
+arDadPF.m
 	uni: FEC0
 	fin: uniFEC0
+	ali: dadmedialarabic
 	set: AGL1
 dahiragana
 	uni: 3060
@@ -17136,9 +17093,10 @@ heDaletDagesh
 	fin: uniFB33
 	ali: daletdagesh daletdageshhebrew
 	set: AGL1
-dalfinalarabic
+arDalPF.f
 	uni: FEAA
 	fin: uniFEAA
+	ali: dalfinalarabic
 	set: AGL1
 dasiapneumatacyrilliccmb
 	uni: 0485
@@ -17197,17 +17155,18 @@ dbopomofo
 	uni: 3109
 	fin: uni3109
 	set: AGL1
-dbsquare
+dBfullwidth
 	uni: 33C8
 	fin: uni33C8
+	ali: dbsquare
 	set: AGL1
-dcommaaccent
+dcedilla
 	uni: 1E11
 	fin: uni1E11
-	ali: dcedilla
+	ali: dcommaaccent
 	set: AGL1
-	maj: Dcommaaccent
-	cmp: d+commabelowcmb
+	maj: Dcedilla
+	cmp: d+cedillacmb
 dcircle
 	uni: 24D3
 	fin: uni24D3
@@ -17217,9 +17176,10 @@ dcircumflexbelow
 	fin: uni1E13
 	set: AGL1
 	cmp: d+circumflexbelowcmb
-ddalfinalarabic
+arDdalPF.f
 	uni: FB89
 	fin: uniFB89
+	ali: ddalfinalarabic
 	set: AGL1
 ddotaccent
 	uni: 1E0B
@@ -17231,11 +17191,6 @@ ddotbelow
 	fin: uni1E0D
 	set: AGL1
 	cmp: d+dotbelowcmb
-arDecimal
-	uni: 066B
-	fin: uni066B
-	ali: decimalseparatorarabic decimalseparatorpersian
-	set: AGL1
 dehiragana
 	uni: 3067
 	fin: uni3067
@@ -17301,21 +17256,15 @@ dlinebelow
 	fin: uni1E0F
 	set: AGL1
 	cmp: d+macronbelowcmb
-dlsquare
+dlfullwidth
 	uni: 3397
 	fin: uni3397
+	ali: dlsquare
 	set: AGL1
-dmonospace
+dfullwidth
 	uni: FF44
 	fin: uniFF44
-	set: AGL1
-dochadathai
-	uni: 0E0E
-	fin: uni0E0E
-	set: AGL1
-dodekthai
-	uni: 0E14
-	fin: uni0E14
+	ali: dmonospace
 	set: AGL1
 dohiragana
 	uni: 3069
@@ -17325,9 +17274,10 @@ dokatakana
 	uni: 30C9
 	fin: uni30C9
 	set: AGL1
-dollarmonospace
+dollarfullwidth
 	uni: FF04
 	fin: uniFF04
+	ali: dollarmonospace
 	set: AGL1
 dollarsmall
 	uni: FE69
@@ -17362,9 +17312,10 @@ downtackmod
 	uni: 02D5
 	fin: uni02D5
 	set: AGL1
-dparen
+dparens
 	uni: 249F
 	fin: uni249F
+	ali: dparen
 	set: AGL1
 dtail
 	uni: 0256
@@ -17446,9 +17397,10 @@ eighteencircle
 	uni: 2471
 	fin: uni2471
 	set: AGL1
-eighteenparen
+eighteenparens
 	uni: 2485
 	fin: uni2485
+	ali: eighteenparen
 	set: AGL1
 eighteenperiod
 	uni: 2499
@@ -17462,25 +17414,19 @@ eightideographicparen
 	uni: 3227
 	fin: uni3227
 	set: AGL1
-eightmonospace
+eightfullwidth
 	uni: FF18
 	fin: uniFF18
+	ali: eightmonospace
 	set: AGL1
-eightparen
+eightparens
 	uni: 247B
 	fin: uni247B
+	ali: eightparen
 	set: AGL1
 eightperiod
 	uni: 248F
 	fin: uni248F
-	set: AGL1
-eightroman
-	uni: 2177
-	fin: uni2177
-	set: AGL1
-eightthai
-	uni: 0E58
-	fin: uni0E58
 	set: AGL1
 einvertedbreve
 	uni: 0207
@@ -17507,17 +17453,14 @@ elevencircle
 	uni: 246A
 	fin: uni246A
 	set: AGL1
-elevenparen
+elevenparens
 	uni: 247E
 	fin: uni247E
+	ali: elevenparen
 	set: AGL1
 elevenperiod
 	uni: 2492
 	fin: uni2492
-	set: AGL1
-elevenroman
-	uni: 217A
-	fin: uni217A
 	set: AGL1
 ellipsisvertical
 	uni: 22EE
@@ -17537,9 +17480,10 @@ emdashvertical
 	uni: FE31
 	fin: uniFE31
 	set: AGL1
-emonospace
+efullwidth
 	uni: FF45
 	fin: uniFF45
+	ali: emonospace
 	set: AGL1
 enbopomofo
 	uni: 3123
@@ -17589,18 +17533,20 @@ eopenreversedclosed
 	uni: 025E
 	fin: uni025E
 	set: AGL1
-eopenreversedhookrhotic
+eopenreversedrhotic
 	uni: 025D
 	fin: uni025D
-	ali: eopenreversedhook
+	ali: eopenreversedhook eopenreversedhookrhotic
 	set: AGL1
-eparen
+eparens
 	uni: 24A0
 	fin: uni24A0
+	ali: eparen
 	set: AGL1
-equalmonospace
+equalfullwidth
 	uni: FF1D
 	fin: uniFF1D
+	ali: equalmonospace
 	set: AGL1
 equalsmall
 	uni: FE66
@@ -17661,14 +17607,15 @@ eturned
 	fin: uni01DD
 	set: AGL1
 	maj: Eturned
-	cmp: schwa.latin
+	cmp: schwa
 eukorean
 	uni: 3161
 	fin: uni3161
 	set: AGL1
-exclammonospace
+exclamfullwidth
 	uni: FF01
 	fin: uniFF01
+	ali: exclammonospace
 	set: AGL1
 ezh
 	uni: 0292
@@ -17708,17 +17655,20 @@ fdotaccent
 	fin: uni1E1F
 	set: AGL1
 	cmp: f+dotaccentcmb
-fehfinalarabic
+arFehPF.f
 	uni: FED2
 	fin: uniFED2
+	ali: fehfinalarabic
 	set: AGL1
-fehinitialarabic
+arFehPF.i
 	uni: FED3
 	fin: uniFED3
+	ali: fehinitialarabic
 	set: AGL1
-fehmedialarabic
+arFehPF.m
 	uni: FED4
 	fin: uniFED4
+	ali: fehmedialarabic
 	set: AGL1
 feicoptic
 	uni: 03E5
@@ -17728,9 +17678,10 @@ fifteencircle
 	uni: 246E
 	fin: uni246E
 	set: AGL1
-fifteenparen
+fifteenparens
 	uni: 2482
 	fin: uni2482
+	ali: fifteenparen
 	set: AGL1
 fifteenperiod
 	uni: 2496
@@ -17757,45 +17708,29 @@ fiveideographicparen
 	uni: 3224
 	fin: uni3224
 	set: AGL1
-fivemonospace
+fivefullwidth
 	uni: FF15
 	fin: uniFF15
+	ali: fivemonospace
 	set: AGL1
-fiveparen
+fiveparens
 	uni: 2478
 	fin: uni2478
+	ali: fiveparen
 	set: AGL1
 fiveperiod
 	uni: 248C
 	fin: uni248C
 	set: AGL1
-fiveroman
-	uni: 2174
-	fin: uni2174
-	set: AGL1
-fivethai
-	uni: 0E55
-	fin: uni0E55
-	set: AGL1
-fmonospace
+ffullwidth
 	uni: FF46
 	fin: uniFF46
+	ali: fmonospace
 	set: AGL1
-fmsquare
+fmfullwidth
 	uni: 3399
 	fin: uni3399
-	set: AGL1
-fofanthai
-	uni: 0E1F
-	fin: uni0E1F
-	set: AGL1
-fofathai
-	uni: 0E1D
-	fin: uni0E1D
-	set: AGL1
-fongmanthai
-	uni: 0E4F
-	fin: uni0E4F
+	ali: fmsquare
 	set: AGL1
 fourcircle
 	uni: 2463
@@ -17813,62 +17748,61 @@ fourideographicparen
 	uni: 3223
 	fin: uni3223
 	set: AGL1
-fourmonospace
+fourfullwidth
 	uni: FF14
 	fin: uniFF14
+	ali: fourmonospace
 	set: AGL1
-fourparen
+fourparens
 	uni: 2477
 	fin: uni2477
+	ali: fourparen
 	set: AGL1
 fourperiod
 	uni: 248B
 	fin: uni248B
 	set: AGL1
-fourroman
-	uni: 2173
-	fin: uni2173
-	set: AGL1
 fourteencircle
 	uni: 246D
 	fin: uni246D
 	set: AGL1
-fourteenparen
+fourteenparens
 	uni: 2481
 	fin: uni2481
+	ali: fourteenparen
 	set: AGL1
 fourteenperiod
 	uni: 2495
 	fin: uni2495
-	set: AGL1
-fourthai
-	uni: 0E54
-	fin: uni0E54
 	set: AGL1
 gravemod
 	uni: 02CB
 	fin: uni02CB
 	ali: fourthtonechinese
 	set: AGL1
-fparen
+fparens
 	uni: 24A1
 	fin: uni24A1
+	ali: fparen
 	set: AGL1
 gacute
 	uni: 01F5
 	fin: uni01F5
 	set: AGL1
-gaffinalarabic
+arGafPF.f
 	uni: FB93
 	fin: uniFB93
+	ali: gaffinalarabic
 	set: AGL1
-gafinitialarabic
+arGafPF.i
 	uni: FB94
 	fin: uniFB94
+	ali: gafinitialarabic
 	set: AGL1
-gafmedialarabic
+arGafPF.m
 	uni: FB95
 	fin: uniFB95
+	ali: gafmedialarabic
 	set: AGL1
 gahiragana
 	uni: 304C
@@ -17917,17 +17851,20 @@ getamark
 	uni: 3013
 	fin: uni3013
 	set: AGL1
-ghainfinalarabic
+arGhainPF.f
 	uni: FECE
 	fin: uniFECE
+	ali: ghainfinalarabic
 	set: AGL1
-ghaininitialarabic
+arGhainPF.i
 	uni: FECF
 	fin: uniFECF
+	ali: ghaininitialarabic
 	set: AGL1
-ghainmedialarabic
+arGhainPF.m
 	uni: FED0
 	fin: uniFED0
+	ali: ghainmedialarabic
 	set: AGL1
 ghemiddlehook
 	uni: 0495
@@ -17945,9 +17882,10 @@ ghook
 	uni: 0260
 	fin: uni0260
 	set: AGL1
-ghzsquare
+GHzfullwidth
 	uni: 3393
 	fin: uni3393
+	ali: ghzsquare
 	set: AGL1
 gihiragana
 	uni: 304E
@@ -18003,9 +17941,10 @@ gmacron
 	uni: 1E21
 	fin: uni1E21
 	set: AGL1
-gmonospace
+gfullwidth
 	uni: FF47
 	fin: uniFF47
+	ali: gmonospace
 	set: AGL1
 gohiragana
 	uni: 3054
@@ -18015,13 +17954,15 @@ gokatakana
 	uni: 30B4
 	fin: uni30B4
 	set: AGL1
-gparen
+gparens
 	uni: 24A2
 	fin: uni24A2
+	ali: gparen
 	set: AGL1
-gpasquare
+GPafullwidth
 	uni: 33AC
 	fin: uni33AC
+	ali: gpasquare
 	set: AGL1
 gravebelowcmb
 	uni: 0316
@@ -18031,9 +17972,10 @@ gravelowmod
 	uni: 02CE
 	fin: uni02CE
 	set: AGL1
-gravemonospace
+gravefullwidth
 	uni: FF40
 	fin: uniFF40
+	ali: gravemonospace
 	set: AGL1
 gravetonecmb
 	uni: 0340
@@ -18043,9 +17985,10 @@ greaterequalorless
 	uni: 22DB
 	fin: uni22DB
 	set: AGL1
-greatermonospace
+greaterfullwidth
 	uni: FF1E
 	fin: uniFF1E
+	ali: greatermonospace
 	set: AGL1
 greaterorequivalent
 	uni: 2273
@@ -18083,9 +18026,10 @@ guramusquare
 	uni: 3318
 	fin: uni3318
 	set: AGL1
-gysquare
+Gyfullwidth
 	uni: 33C9
 	fin: uni33C9
+	ali: gysquare
 	set: AGL1
 haabkhaz
 	uni: 04A9
@@ -18104,21 +18048,24 @@ hadescender
 	ali: hadescendercyrillic
 	set: AGL1 AGL2
 	maj: Hadescender
-hahfinalarabic
+arHahPF.f
 	uni: FEA2
 	fin: uniFEA2
+	ali: hahfinalarabic
 	set: AGL1
-hahinitialarabic
+arHahPF.i
 	uni: FEA3
 	fin: uniFEA3
+	ali: hahinitialarabic
 	set: AGL1
 hahiragana
 	uni: 306F
 	fin: uni306F
 	set: AGL1
-hahmedialarabic
+arHahPF.m
 	uni: FEA4
 	fin: uniFEA4
+	ali: hahmedialarabic
 	set: AGL1
 haitusquare
 	uni: 332A
@@ -18144,9 +18091,10 @@ harpoonrightbarbup
 	uni: 21C0
 	fin: uni21C0
 	set: AGL1
-hasquare
+hafullwidth
 	uni: 33CA
 	fin: uni33CA
+	ali: hasquare
 	set: AGL1
 hbopomofo
 	uni: 310F
@@ -18189,42 +18137,49 @@ heHeDagesh
 	fin: uniFB34
 	ali: hedagesh hedageshhebrew
 	set: AGL1
-hehfinalaltonearabic
+arHehGoalPF.f
 	uni: FBA7
 	fin: uniFBA7
+	ali: hehfinalaltonearabic
 	set: AGL1
-hehfinalalttwoarabic
+arHehPF.f
 	uni: FEEA
 	fin: uniFEEA
-	ali: hehfinalarabic
+	ali: hehfinalalttwoarabic hehfinalarabic
 	set: AGL1
-hehhamzaabovefinalarabic
+arHehYehPF.f
 	uni: FBA5
 	fin: uniFBA5
+	ali: hehhamzaabovefinalarabic
 	set: AGL1
-hehhamzaaboveisolatedarabic
+arHehYehPF
 	uni: FBA4
 	fin: uniFBA4
+	ali: hehhamzaaboveisolatedarabic
 	set: AGL1
-hehinitialaltonearabic
+arHehGoalPF.i
 	uni: FBA8
 	fin: uniFBA8
+	ali: hehinitialaltonearabic
 	set: AGL1
-hehinitialarabic
+arHehPF.i
 	uni: FEEB
 	fin: uniFEEB
+	ali: hehinitialarabic
 	set: AGL1
 hehiragana
 	uni: 3078
 	fin: uni3078
 	set: AGL1
-hehmedialaltonearabic
+arHehGoalPF.m
 	uni: FBA9
 	fin: uniFBA9
+	ali: hehmedialaltonearabic
 	set: AGL1
-hehmedialarabic
+arHehPF.m
 	uni: FEEC
 	fin: uniFEEC
+	ali: hehmedialarabic
 	set: AGL1
 heiseierasquare
 	uni: 337B
@@ -18296,13 +18251,10 @@ hlinebelow
 	fin: uni1E96
 	set: AGL1
 	cmp: h+macronbelowcmb
-hmonospace
+hfullwidth
 	uni: FF48
 	fin: uniFF48
-	set: AGL1
-hohipthai
-	uni: 0E2B
-	fin: uni0E2B
+	ali: hmonospace
 	set: AGL1
 hohiragana
 	uni: 307B
@@ -18315,10 +18267,6 @@ hokatakana
 hokatakanahalfwidth
 	uni: FF8E
 	fin: uniFF8E
-	set: AGL1
-honokhukthai
-	uni: 0E2E
-	fin: uni0E2E
 	set: AGL1
 hookpalatalizedbelowcmb
 	uni: 0321
@@ -18344,9 +18292,10 @@ hotsprings
 	uni: 2668
 	fin: uni2668
 	set: AGL1
-hparen
+hparens
 	uni: 24A3
 	fin: uni24A3
+	ali: hparen
 	set: AGL1
 hsupmod
 	uni: 02B0
@@ -18382,9 +18331,10 @@ hv
 	uni: 0195
 	fin: uni0195
 	set: AGL1
-hyphenmonospace
+hyphenfullwidth
 	uni: FF0D
 	fin: uniFF0D
+	ali: hyphenmonospace
 	set: AGL1
 hyphensmall
 	uni: FE63
@@ -18630,7 +18580,7 @@ idieresiscyr
 	ali: idieresiscyrillic
 	set: AGL1
 	maj: Idieresiscyr
-	cmp: i.cyr+diereis
+	cmp: icyr+diereis
 iebreve
 	uni: 04D7
 	fin: uni04D7
@@ -18683,7 +18633,7 @@ imacroncyr
 	ali: imacroncyrillic
 	set: AGL1
 	maj: Imacroncyr
-	cmp: i.cyr+macron
+	cmp: icyr+macron
 imacroncyr.sc
 	fin: uni04E3.sc
 	ali: imacroncyrillic.sc
@@ -18694,9 +18644,10 @@ imageorapproximatelyequal
 	uni: 2253
 	fin: uni2253
 	set: AGL1
-imonospace
+ifullwidth
 	uni: FF49
 	fin: uniFF49
+	ali: imonospace
 	set: AGL1
 intisquare
 	uni: 3305
@@ -18706,9 +18657,10 @@ iotalatin
 	uni: 0269
 	fin: uni0269
 	set: AGL1
-iparen
+iparens
 	uni: 24A4
 	fin: uni24A4
+	ali: iparen
 	set: AGL1
 ismallhiragana
 	uni: 3043
@@ -18768,33 +18720,39 @@ dotlessjstroke
 	fin: uni025F
 	ali: jdotlessstroke
 	set: AGL1
-jeemfinalarabic
+arJeemPF.f
 	uni: FE9E
 	fin: uniFE9E
+	ali: jeemfinalarabic
 	set: AGL1
-jeeminitialarabic
+arJeemPF.i
 	uni: FE9F
 	fin: uniFE9F
+	ali: jeeminitialarabic
 	set: AGL1
-jeemmedialarabic
+arJeemPF.m
 	uni: FEA0
 	fin: uniFEA0
+	ali: jeemmedialarabic
 	set: AGL1
-jehfinalarabic
+arJehPF.f
 	uni: FB8B
 	fin: uniFB8B
+	ali: jehfinalarabic
 	set: AGL1
 jis
 	uni: 3004
 	fin: uni3004
 	set: AGL1
-jmonospace
+jfullwidth
 	uni: FF4A
 	fin: uniFF4A
+	ali: jmonospace
 	set: AGL1
-jparen
+jparens
 	uni: 24A5
 	fin: uni24A5
+	ali: jparen
 	set: AGL1
 jsupmod
 	uni: 02B2
@@ -18822,17 +18780,20 @@ heKafDagesh
 	fin: uniFB3B
 	ali: kafdagesh kafdageshhebrew
 	set: AGL1
-kaffinalarabic
+arKafPF.f
 	uni: FEDA
 	fin: uniFEDA
+	ali: kaffinalarabic
 	set: AGL1
-kafinitialarabic
+arKafPF.i
 	uni: FEDB
 	fin: uniFEDB
+	ali: kafinitialarabic
 	set: AGL1
-kafmedialarabic
+arKafPF.m
 	uni: FEDC
 	fin: uniFEDC
+	ali: kafmedialarabic
 	set: AGL1
 heKafRafe
 	uni: FB4D
@@ -18881,9 +18842,10 @@ kasmallkatakana
 	uni: 30F5
 	fin: uni30F5
 	set: AGL1
-kasquare
+kAfullwidth
 	uni: 3384
 	fin: uni3384
+	ali: kasquare
 	set: AGL1
 kastroke
 	uni: 049F
@@ -18905,9 +18867,10 @@ kbopomofo
 	uni: 310E
 	fin: uni310E
 	set: AGL1
-kcalsquare
+kcalfullwidth
 	uni: 3389
 	fin: uni3389
+	ali: kcalsquare
 	set: AGL1
 kcaron
 	uni: 01E9
@@ -18939,17 +18902,20 @@ kesmallkatakana
 	uni: 30F6
 	fin: uni30F6
 	set: AGL1
-khahfinalarabic
+arKhahPF.f
 	uni: FEA6
 	fin: uniFEA6
+	ali: khahfinalarabic
 	set: AGL1
-khahinitialarabic
+arKhahPF.i
 	uni: FEA7
 	fin: uniFEA7
+	ali: khahinitialarabic
 	set: AGL1
-khahmedialarabic
+arKhahPF.m
 	uni: FEA8
 	fin: uniFEA8
+	ali: khahmedialarabic
 	set: AGL1
 kheicoptic
 	uni: 03E7
@@ -18975,37 +18941,14 @@ khieukhparenkorean
 	uni: 320A
 	fin: uni320A
 	set: AGL1
-khokhaithai
-	uni: 0E02
-	fin: uni0E02
-	set: AGL1
-khokhonthai
-	uni: 0E05
-	fin: uni0E05
-	set: AGL1
-khokhuatthai
-	uni: 0E03
-	fin: uni0E03
-	set: AGL1
-khokhwaithai
-	uni: 0E04
-	fin: uni0E04
-	set: AGL1
-khomutthai
-	uni: 0E5B
-	fin: uni0E5B
-	set: AGL1
 khook
 	uni: 0199
 	fin: uni0199
 	set: AGL1
-khorakhangthai
-	uni: 0E06
-	fin: uni0E06
-	set: AGL1
-khzsquare
+kHzfullwidth
 	uni: 3391
 	fin: uni3391
+	ali: khzsquare
 	set: AGL1
 kihiragana
 	uni: 304D
@@ -19060,33 +19003,34 @@ klinebelow
 	fin: uni1E35
 	set: AGL1
 	cmp: k+macronbelowcmb
-klsquare
+klfullwidth
 	uni: 3398
 	fin: uni3398
+	ali: klsquare
 	set: AGL1
-kmcubedsquare
+km3fullwidth
 	uni: 33A6
 	fin: uni33A6
+	ali: kmcubedsquare
 	set: AGL1
-kmonospace
+kfullwidth
 	uni: FF4B
 	fin: uniFF4B
+	ali: kmonospace
 	set: AGL1
-kmsquaredsquare
+km2fullwidth
 	uni: 33A2
 	fin: uni33A2
+	ali: kmsquaredsquare
 	set: AGL1
 kohiragana
 	uni: 3053
 	fin: uni3053
 	set: AGL1
-kohmsquare
+kOhmfullwidth
 	uni: 33C0
 	fin: uni33C0
-	set: AGL1
-kokaithai
-	uni: 0E01
-	fin: uni0E01
+	ali: kohmsquare
 	set: AGL1
 kokatakana
 	uni: 30B3
@@ -19108,21 +19052,24 @@ koreanstandardsymbol
 	uni: 327F
 	fin: uni327F
 	set: AGL1
-kparen
+kparens
 	uni: 24A6
 	fin: uni24A6
+	ali: kparen
 	set: AGL1
-kpasquare
+kPafullwidth
 	uni: 33AA
 	fin: uni33AA
+	ali: kpasquare
 	set: AGL1
 ksicyrillic
 	uni: 046F
 	fin: uni046F
 	set: AGL1
-ktsquare
+ktfullwidth
 	uni: 33CF
 	fin: uni33CF
+	ali: ktsquare
 	set: AGL1
 kturned
 	uni: 029E
@@ -19140,49 +19087,55 @@ kukatakanahalfwidth
 	uni: FF78
 	fin: uniFF78
 	set: AGL1
-kvsquare
+kVfullwidth
 	uni: 33B8
 	fin: uni33B8
+	ali: kvsquare
 	set: AGL1
-kwsquare
+kWfullwidth
 	uni: 33BE
 	fin: uni33BE
+	ali: kwsquare
 	set: AGL1
-lakkhangyaothai
-	uni: 0E45
-	fin: uni0E45
-	set: AGL1
-lamaleffinalarabic
+arLamAlefPF.f
 	uni: FEFC
 	fin: uniFEFC
+	ali: lamaleffinalarabic
 	set: AGL1
-lamalefhamzaabovefinalarabic
+arLamAlefHamzaPF.f
 	uni: FEF8
 	fin: uniFEF8
+	ali: lamalefhamzaabovefinalarabic
 	set: AGL1
-lamalefhamzaaboveisolatedarabic
+arLamAlefHamzaPF
 	uni: FEF7
 	fin: uniFEF7
+	ali: lamalefhamzaaboveisolatedarabic
 	set: AGL1
-lamalefhamzabelowfinalarabic
+arLamAlefHamzaBelowPF.f
 	uni: FEFA
 	fin: uniFEFA
+	ali: lamalefhamzabelowfinalarabic
 	set: AGL1
-lamalefhamzabelowisolatedarabic
+arLamAlefHamzaBelowPF
 	uni: FEF9
 	fin: uniFEF9
+	ali: lamalefhamzabelowisolatedarabic
 	set: AGL1
-lamalefisolatedarabic
+arLamAlefPF
 	uni: FEFB
 	fin: uniFEFB
+	ali: lamalefisolatedarabic
 	set: AGL1
-lamalefmaddaabovefinalarabic
+arLamAlefMaddaPF.f
 	uni: FEF6
 	fin: uniFEF6
+	ali: lamalefmaddaabovefinalarabic
 	set: AGL1
-lamalefmaddaaboveisolatedarabic
+arLamAlefMaddaPF
 	uni: FEF5
 	fin: uniFEF5
+	ali: lamalefmaddaaboveisolatedarabic
 	set: AGL1
 lambdastroke
 	uni: 019B
@@ -19193,17 +19146,19 @@ heLamedDagesh
 	fin: uniFB3C
 	ali: lameddagesh lameddageshhebrew
 	set: AGL1
-lamfinalarabic
+arLamPF.f
 	uni: FEDE
 	fin: uniFEDE
+	ali: lamfinalarabic
 	set: AGL1
 lamhahinitialarabic
 	uni: FCCA
 	fin: uniFCCA
 	set: AGL1
-laminitialarabic
+arLamPF.i
 	uni: FEDF
 	fin: uniFEDF
+	ali: laminitialarabic
 	set: AGL1
 lamjeeminitialarabic
 	uni: FCC9
@@ -19213,21 +19168,19 @@ lamkhahinitialarabic
 	uni: FCCB
 	fin: uniFCCB
 	set: AGL1
-lamlamhehisolatedarabic
-	uni: FDF2
-	fin: uniFDF2
-	set: AGL1
-lammedialarabic
+arLamPF.m
 	uni: FEE0
 	fin: uniFEE0
+	ali: lammedialarabic
 	set: AGL1
 lammeemhahinitialarabic
 	uni: FD88
 	fin: uniFD88
 	set: AGL1
-lammeeminitialarabic
+arLamMeemPF.i
 	uni: FCCC
 	fin: uniFCCC
+	ali: lammeeminitialarabic
 	set: AGL1
 largecircle
 	uni: 25EF
@@ -19276,9 +19229,10 @@ lessequalorgreater
 	uni: 22DA
 	fin: uni22DA
 	set: AGL1
-lessmonospace
+lessfullwidth
 	uni: FF1C
 	fin: uniFF1C
+	ali: lessmonospace
 	set: AGL1
 lessorequivalent
 	uni: 2272
@@ -19300,9 +19254,10 @@ lezh
 	uni: 026E
 	fin: uni026E
 	set: AGL1
-lhookretroflex
+lretroflex
 	uni: 026D
 	fin: uni026D
+	ali: lhookretroflex
 	set: AGL1
 llinebelow
 	uni: 1E3B
@@ -19314,21 +19269,15 @@ lmiddletilde
 	fin: uni026B
 	set: AGL1
 	maj: Lmiddletilde
-lmonospace
+lfullwidth
 	uni: FF4C
 	fin: uniFF4C
+	ali: lmonospace
 	set: AGL1
-lmsquare
+lmfullwidth
 	uni: 33D0
 	fin: uni33D0
-	set: AGL1
-lochulathai
-	uni: 0E2C
-	fin: uni0E2C
-	set: AGL1
-lolingthai
-	uni: 0E25
-	fin: uni0E25
+	ali: lmsquare
 	set: AGL1
 lowlinecenterline
 	uni: FE4E
@@ -19342,17 +19291,15 @@ lowlinedashed
 	uni: FE4D
 	fin: uniFE4D
 	set: AGL1
-lparen
+lparens
 	uni: 24A7
 	fin: uni24A7
+	ali: lparen
 	set: AGL1
-luthai
-	uni: 0E26
-	fin: uni0E26
-	set: AGL1
-lxsquare
+lxfullwidth
 	uni: 33D3
 	fin: uni33D3
+	ali: lxsquare
 	set: AGL1
 macronbelowcmb
 	uni: 0331
@@ -19366,9 +19313,10 @@ macronlowmod
 	uni: 02CD
 	fin: uni02CD
 	set: AGL1
-macronmonospace
+macronfullwidth
 	uni: FFE3
 	fin: uniFFE3
+	ali: macronmonospace
 	set: AGL1
 macute
 	uni: 1E3F
@@ -19377,62 +19325,6 @@ macute
 mahiragana
 	uni: 307E
 	fin: uni307E
-	set: AGL1
-maichattawalowleftthai
-	set: AGL1
-maichattawalowrightthai
-	set: AGL1
-maichattawathai
-	uni: 0E4B
-	fin: uni0E4B
-	set: AGL1
-maichattawaupperleftthai
-	set: AGL1
-maieklowleftthai
-	set: AGL1
-maieklowrightthai
-	set: AGL1
-maiekthai
-	uni: 0E48
-	fin: uni0E48
-	set: AGL1
-maiekupperleftthai
-	set: AGL1
-maihanakatleftthai
-	set: AGL1
-maihanakatthai
-	uni: 0E31
-	fin: uni0E31
-	set: AGL1
-maitaikhuleftthai
-	set: AGL1
-maitaikhuthai
-	uni: 0E47
-	fin: uni0E47
-	set: AGL1
-maitholowleftthai
-	set: AGL1
-maitholowrightthai
-	set: AGL1
-maithothai
-	uni: 0E49
-	fin: uni0E49
-	set: AGL1
-maithoupperleftthai
-	set: AGL1
-maitrilowleftthai
-	set: AGL1
-maitrilowrightthai
-	set: AGL1
-maitrithai
-	uni: 0E4A
-	fin: uni0E4A
-	set: AGL1
-maitriupperleftthai
-	set: AGL1
-maiyamokthai
-	uni: 0E46
-	fin: uni0E46
 	set: AGL1
 makatakana
 	uni: 30DE
@@ -19446,25 +19338,28 @@ mansyonsquare
 	uni: 3347
 	fin: uni3347
 	set: AGL1
-masquare
+mAfullwidth
 	uni: 3383
 	fin: uni3383
+	ali: masquare
 	set: AGL1
 mbopomofo
 	uni: 3107
 	fin: uni3107
 	set: AGL1
-mbsquare
+mbfullwidth
 	uni: 33D4
 	fin: uni33D4
+	ali: mbsquare
 	set: AGL1
 mcircle
 	uni: 24DC
 	fin: uni24DC
 	set: AGL1
-mcubedsquare
+m3fullwidth
 	uni: 33A5
 	fin: uni33A5
+	ali: mcubedsquare
 	set: AGL1
 mdotaccent
 	uni: 1E41
@@ -19476,17 +19371,20 @@ mdotbelow
 	fin: uni1E43
 	set: AGL1
 	cmp: m+dotbelowcmb
-meemfinalarabic
+arMeemPF.f
 	uni: FEE2
 	fin: uniFEE2
+	ali: meemfinalarabic
 	set: AGL1
-meeminitialarabic
+arMeemPF.i
 	uni: FEE3
 	fin: uniFEE3
+	ali: meeminitialarabic
 	set: AGL1
-meemmedialarabic
+arMeemPF.m
 	uni: FEE4
 	fin: uniFEE4
+	ali: meemmedialarabic
 	set: AGL1
 meemmeeminitialarabic
 	uni: FCD1
@@ -19526,9 +19424,10 @@ mhook
 	fin: uni0271
 	set: AGL1
 	maj: Mhook
-mhzsquare
+MHzfullwidth
 	uni: 3392
 	fin: uni3392
+	ali: mhzsquare
 	set: AGL1
 middledotkatakanahalfwidth
 	uni: FF65
@@ -19602,29 +19501,34 @@ mlonglegturned
 	uni: 0270
 	fin: uni0270
 	set: AGL1
-mlsquare
+mlfullwidth
 	uni: 3396
 	fin: uni3396
+	ali: mlsquare
 	set: AGL1
-mmcubedsquare
+mm3fullwidth
 	uni: 33A3
 	fin: uni33A3
+	ali: mmcubedsquare
 	set: AGL1
-mmonospace
+mfullwidth
 	uni: FF4D
 	fin: uniFF4D
+	ali: mmonospace
 	set: AGL1
-mmsquaredsquare
+mm2fullwidth
 	uni: 339F
 	fin: uni339F
+	ali: mmsquaredsquare
 	set: AGL1
 mohiragana
 	uni: 3082
 	fin: uni3082
 	set: AGL1
-mohmsquare
+MOhmfullwidth
 	uni: 33C1
 	fin: uni33C1
+	ali: mohmsquare
 	set: AGL1
 mokatakana
 	uni: 30E2
@@ -19634,42 +19538,45 @@ mokatakanahalfwidth
 	uni: FF93
 	fin: uniFF93
 	set: AGL1
-molsquare
+molfullwidth
 	uni: 33D6
 	fin: uni33D6
+	ali: molsquare
 	set: AGL1
-momathai
-	uni: 0E21
-	fin: uni0E21
-	set: AGL1
-moverssquare
+moversfullwidth
 	uni: 33A7
 	fin: uni33A7
+	ali: moverssquare
 	set: AGL1
-moverssquaredsquare
+movers2fullwidth
 	uni: 33A8
 	fin: uni33A8
+	ali: moverssquaredsquare
 	set: AGL1
-mparen
+mparens
 	uni: 24A8
 	fin: uni24A8
+	ali: mparen
 	set: AGL1
-mpasquare
+MPafullwidth
 	uni: 33AB
 	fin: uni33AB
+	ali: mpasquare
 	set: AGL1
-mssquare
+msfullwidth
 	uni: 33B3
 	fin: uni33B3
+	ali: mssquare
 	set: AGL1
 mturned
 	uni: 026F
 	fin: uni026F
 	set: AGL1
 	maj: Mturned
-muasquare
+muAfullwidth
 	uni: 3382
 	fin: uni3382
+	ali: muasquare
 	set: AGL1
 muchgreater
 	uni: 226B
@@ -19679,13 +19586,15 @@ muchless
 	uni: 226A
 	fin: uni226A
 	set: AGL1
-mufsquare
+muFfullwidth
 	uni: 338C
 	fin: uni338C
+	ali: mufsquare
 	set: AGL1
-mugsquare
+mugfullwidth
 	uni: 338D
 	fin: uni338D
+	ali: mugsquare
 	set: AGL1
 muhiragana
 	uni: 3080
@@ -19699,13 +19608,15 @@ mukatakanahalfwidth
 	uni: FF91
 	fin: uniFF91
 	set: AGL1
-mulsquare
+mulfullwidth
 	uni: 3395
 	fin: uni3395
+	ali: mulsquare
 	set: AGL1
-mumsquare
+mumfullwidth
 	uni: 339B
 	fin: uni339B
+	ali: mumsquare
 	set: AGL1
 musicflatsign
 	uni: 266D
@@ -19715,33 +19626,40 @@ musicsharpsign
 	uni: 266F
 	fin: uni266F
 	set: AGL1
-mussquare
+musfullwidth
 	uni: 33B2
 	fin: uni33B2
+	ali: mussquare
 	set: AGL1
-muvsquare
+muVfullwidth
 	uni: 33B6
 	fin: uni33B6
+	ali: muvsquare
 	set: AGL1
-muwsquare
+muWfullwidth
 	uni: 33BC
 	fin: uni33BC
+	ali: muwsquare
 	set: AGL1
-mvmegasquare
+MVfullwidth
 	uni: 33B9
 	fin: uni33B9
+	ali: mvmegasquare
 	set: AGL1
-mvsquare
+mVfullwidth
 	uni: 33B7
 	fin: uni33B7
+	ali: mvsquare
 	set: AGL1
-mwmegasquare
+MWfullwidth
 	uni: 33BF
 	fin: uni33BF
+	ali: mwmegasquare
 	set: AGL1
-mwsquare
+mWfullwidth
 	uni: 33BD
 	fin: uni33BD
+	ali: mwsquare
 	set: AGL1
 nahiragana
 	uni: 306A
@@ -19755,9 +19673,10 @@ nakatakanahalfwidth
 	uni: FF85
 	fin: uniFF85
 	set: AGL1
-nasquare
+nAfullwidth
 	uni: 3381
 	fin: uni3381
+	ali: nasquare
 	set: AGL1
 nbopomofo
 	uni: 310B
@@ -19794,13 +19713,10 @@ nekatakanahalfwidth
 	uni: FF88
 	fin: uniFF88
 	set: AGL1
-nfsquare
+nFfullwidth
 	uni: 338B
 	fin: uni338B
-	set: AGL1
-ngonguthai
-	uni: 0E07
-	fin: uni0E07
+	ali: nfsquare
 	set: AGL1
 nhiragana
 	uni: 3093
@@ -19810,9 +19726,10 @@ nhookleft
 	uni: 0272
 	fin: uni0272
 	set: AGL1
-nhookretroflex
+nretroflex
 	uni: 0273
 	fin: uni0273
+	ali: nhookretroflex
 	set: AGL1
 nieunacirclekorean
 	uni: 326F
@@ -19866,12 +19783,6 @@ nikatakanahalfwidth
 	uni: FF86
 	fin: uniFF86
 	set: AGL1
-nikhahitleftthai
-	set: AGL1
-nikhahitthai
-	uni: 0E4D
-	fin: uni0E4D
-	set: AGL1
 ninecircle
 	uni: 2468
 	fin: uni2468
@@ -19888,37 +19799,32 @@ nineideographicparen
 	uni: 3228
 	fin: uni3228
 	set: AGL1
-ninemonospace
+ninefullwidth
 	uni: FF19
 	fin: uniFF19
+	ali: ninemonospace
 	set: AGL1
-nineparen
+nineparens
 	uni: 247C
 	fin: uni247C
+	ali: nineparen
 	set: AGL1
 nineperiod
 	uni: 2490
 	fin: uni2490
 	set: AGL1
-nineroman
-	uni: 2178
-	fin: uni2178
-	set: AGL1
 nineteencircle
 	uni: 2472
 	fin: uni2472
 	set: AGL1
-nineteenparen
+nineteenparens
 	uni: 2486
 	fin: uni2486
+	ali: nineteenparen
 	set: AGL1
 nineteenperiod
 	uni: 249A
 	fin: uni249A
-	set: AGL1
-ninethai
-	uni: 0E59
-	fin: uni0E59
 	set: AGL1
 nkatakana
 	uni: 30F3
@@ -19937,13 +19843,15 @@ nlinebelow
 	fin: uni1E49
 	set: AGL1
 	cmp: n+macronbelowcmb
-nmonospace
+nfullwidth
 	uni: FF4E
 	fin: uniFF4E
+	ali: nmonospace
 	set: AGL1
-nmsquare
+nmfullwidth
 	uni: 339A
 	fin: uni339A
+	ali: nmsquare
 	set: AGL1
 nohiragana
 	uni: 306E
@@ -19957,25 +19865,20 @@ nokatakanahalfwidth
 	uni: FF89
 	fin: uniFF89
 	set: AGL1
-nonenthai
-	uni: 0E13
-	fin: uni0E13
-	set: AGL1
-nonuthai
-	uni: 0E19
-	fin: uni0E19
-	set: AGL1
-noonfinalarabic
+arNoonPF.f
 	uni: FEE6
 	fin: uniFEE6
+	ali: noonfinalarabic
 	set: AGL1
-noonghunnafinalarabic
+arNoonGhunnaPF.f
 	uni: FB9F
 	fin: uniFB9F
+	ali: noonghunnafinalarabic
 	set: AGL1
-nooninitialarabic
+arNoonPF.i
 	uni: FEE7
 	fin: uniFEE7
+	ali: nooninitialarabic
 	set: AGL1
 noonjeeminitialarabic
 	uni: FCD2
@@ -19985,9 +19888,10 @@ noonjeemisolatedarabic
 	uni: FC4B
 	fin: uniFC4B
 	set: AGL1
-noonmedialarabic
+arNoonPF.m
 	uni: FEE8
 	fin: uniFEE8
+	ali: noonmedialarabic
 	set: AGL1
 noonmeeminitialarabic
 	uni: FCD5
@@ -20045,13 +19949,15 @@ notsuperset
 	uni: 2285
 	fin: uni2285
 	set: AGL1
-nparen
+nparens
 	uni: 24A9
 	fin: uni24A9
+	ali: nparen
 	set: AGL1
-nssquare
+nsfullwidth
 	uni: 33B1
 	fin: uni33B1
+	ali: nssquare
 	set: AGL1
 nuhiragana
 	uni: 306C
@@ -20065,9 +19971,10 @@ nukatakanahalfwidth
 	uni: FF87
 	fin: uniFF87
 	set: AGL1
-numbersignmonospace
+numbersignfullwidth
 	uni: FF03
 	fin: uniFF03
+	ali: numbersignmonospace
 	set: AGL1
 numbersignsmall
 	uni: FE5F
@@ -20078,17 +19985,15 @@ heNunDagesh
 	fin: uniFB40
 	ali: nundagesh nundageshhebrew
 	set: AGL1
-nvsquare
+nVfullwidth
 	uni: 33B5
 	fin: uni33B5
+	ali: nvsquare
 	set: AGL1
-nwsquare
+nWfullwidth
 	uni: 33BB
 	fin: uni33BB
-	set: AGL1
-oangthai
-	uni: 0E2D
-	fin: uni0E2D
+	ali: nwsquare
 	set: AGL1
 obarcyr
 	uni: 04E9
@@ -20181,9 +20086,10 @@ omegatitlocyrillic
 	uni: 047D
 	fin: uni047D
 	set: AGL1
-omonospace
+ofullwidth
 	uni: FF4F
 	fin: uniFF4F
+	ali: omonospace
 	set: AGL1
 onecircle
 	uni: 2460
@@ -20201,25 +20107,19 @@ oneideographicparen
 	uni: 3220
 	fin: uni3220
 	set: AGL1
-onemonospace
+onefullwidth
 	uni: FF11
 	fin: uniFF11
+	ali: onemonospace
 	set: AGL1
-oneparen
+oneparens
 	uni: 2474
 	fin: uni2474
+	ali: oneparen
 	set: AGL1
 oneperiod
 	uni: 2488
 	fin: uni2488
-	set: AGL1
-oneroman
-	uni: 2170
-	fin: uni2170
-	set: AGL1
-onethai
-	uni: 0E51
-	fin: uni0E51
 	set: AGL1
 oogonek
 	uni: 01EB
@@ -20234,9 +20134,10 @@ oopen
 	uni: 0254
 	fin: uni0254
 	set: AGL1
-oparen
+oparens
 	uni: 24AA
 	fin: uni24AA
+	ali: oparen
 	set: AGL1
 option
 	uni: 2325
@@ -20292,9 +20193,10 @@ overlinewavy
 	uni: FE4B
 	fin: uniFE4B
 	set: AGL1
-paampssquare
+pAfullwidth
 	uni: 3380
 	fin: uni3380
+	ali: paampssquare
 	set: AGL1
 paasentosquare
 	uni: 332B
@@ -20317,10 +20219,6 @@ pahiragana
 	uni: 3071
 	fin: uni3071
 	set: AGL1
-paiyannoithai
-	uni: 0E2F
-	fin: uni0E2F
-	set: AGL1
 pakatakana
 	uni: 30D1
 	fin: uni30D1
@@ -20342,9 +20240,10 @@ arParenLeft
 	fin: uniFD3E
 	ali: parenleftaltonearabic
 	set: AGL1
-parenleftmonospace
+parenleftfullwidth
 	uni: FF08
 	fin: uniFF08
+	ali: parenleftmonospace
 	set: AGL1
 parenleftsmall
 	uni: FE59
@@ -20359,9 +20258,10 @@ arParenRight
 	fin: uniFD3F
 	ali: parenrightaltonearabic
 	set: AGL1
-parenrightmonospace
+parenrightfullwidth
 	uni: FF09
 	fin: uniFF09
+	ali: parenrightmonospace
 	set: AGL1
 parenrightsmall
 	uni: FE5A
@@ -20371,9 +20271,10 @@ parenrightvertical
 	uni: FE36
 	fin: uniFE36
 	set: AGL1
-pasquare
+Pafullwidth
 	uni: 33A9
 	fin: uni33A9
+	ali: pasquare
 	set: AGL1
 pbopomofo
 	uni: 3106
@@ -20402,21 +20303,24 @@ hePeDageshFin
 	fin: uniFB43
 	ali: pefinaldageshhebrew
 	set: AGL1
-pehfinalarabic
+arPehPF.f
 	uni: FB57
 	fin: uniFB57
+	ali: pehfinalarabic
 	set: AGL1
-pehinitialarabic
+arPehPF.i
 	uni: FB58
 	fin: uniFB58
+	ali: pehinitialarabic
 	set: AGL1
 pehiragana
 	uni: 307A
 	fin: uni307A
 	set: AGL1
-pehmedialarabic
+arPehPF.m
 	uni: FB59
 	fin: uniFB59
+	ali: pehmedialarabic
 	set: AGL1
 pekatakana
 	uni: 30DA
@@ -20433,9 +20337,10 @@ hePeRafe
 	fin: uniFB4E
 	ali: perafehebrew
 	set: AGL1
-percentmonospace
+percentfullwidth
 	uni: FF05
 	fin: uniFF05
+	ali: percentmonospace
 	set: AGL1
 percentsmall
 	uni: FE6A
@@ -20445,17 +20350,19 @@ periodhalfwidth
 	uni: FF61
 	fin: uniFF61
 	set: AGL1
-periodmonospace
+periodfullwidth
 	uni: FF0E
 	fin: uniFF0E
+	ali: periodmonospace
 	set: AGL1
 periodsmall
 	uni: FE52
 	fin: uniFE52
 	set: AGL1
-pfsquare
+pFfullwidth
 	uni: 338A
 	fin: uni338A
+	ali: pfsquare
 	set: AGL1
 phieuphacirclekorean
 	uni: 327A
@@ -20481,25 +20388,9 @@ philatin
 	uni: 0278
 	fin: uni0278
 	set: AGL1
-phinthuthai
-	uni: 0E3A
-	fin: uni0E3A
-	set: AGL1
 phook
 	uni: 01A5
 	fin: uni01A5
-	set: AGL1
-phophanthai
-	uni: 0E1E
-	fin: uni0E1E
-	set: AGL1
-phophungthai
-	uni: 0E1C
-	fin: uni0E1C
-	set: AGL1
-phosamphaothai
-	uni: 0E20
-	fin: uni0E20
 	set: AGL1
 pieupacirclekorean
 	uni: 3273
@@ -20565,9 +20456,10 @@ plusmod
 	uni: 02D6
 	fin: uni02D6
 	set: AGL1
-plusmonospace
+plusfullwidth
 	uni: FF0B
 	fin: uniFF0B
+	ali: plusmonospace
 	set: AGL1
 plussmall
 	uni: FE62
@@ -20577,13 +20469,15 @@ plussuperior
 	uni: 207A
 	fin: uni207A
 	set: AGL1
-pmonospace
+pfullwidth
 	uni: FF50
 	fin: uniFF50
+	ali: pmonospace
 	set: AGL1
-pmsquare
+pmfullwidth
 	uni: 33D8
 	fin: uni33D8
+	ali: pmsquare
 	set: AGL1
 pohiragana
 	uni: 307D
@@ -20609,10 +20503,6 @@ pokatakana
 	uni: 30DD
 	fin: uni30DD
 	set: AGL1
-poplathai
-	uni: 0E1B
-	fin: uni0E1B
-	set: AGL1
 postalmark
 	uni: 3012
 	fin: uni3012
@@ -20621,9 +20511,10 @@ postalmarkface
 	uni: 3020
 	fin: uni3020
 	set: AGL1
-pparen
+pparens
 	uni: 24AB
 	fin: uni24AB
+	ali: pparen
 	set: AGL1
 precedes
 	uni: 227A
@@ -20661,9 +20552,10 @@ psilipneumatacyrilliccmb
 	uni: 0486
 	fin: uni0486
 	set: AGL1
-pssquare
+psfullwidth
 	uni: 33B0
 	fin: uni33B0
+	ali: pssquare
 	set: AGL1
 puhiragana
 	uni: 3077
@@ -20673,25 +20565,30 @@ pukatakana
 	uni: 30D7
 	fin: uni30D7
 	set: AGL1
-pvsquare
+pVfullwidth
 	uni: 33B4
 	fin: uni33B4
+	ali: pvsquare
 	set: AGL1
-pwsquare
+pWfullwidth
 	uni: 33BA
 	fin: uni33BA
+	ali: pwsquare
 	set: AGL1
-qaffinalarabic
+arQafPF.f
 	uni: FED6
 	fin: uniFED6
+	ali: qaffinalarabic
 	set: AGL1
-qafinitialarabic
+arQafPF.i
 	uni: FED7
 	fin: uniFED7
+	ali: qafinitialarabic
 	set: AGL1
-qafmedialarabic
+arQafPF.m
 	uni: FED8
 	fin: uniFED8
+	ali: qafmedialarabic
 	set: AGL1
 qbopomofo
 	uni: 3111
@@ -20705,30 +20602,34 @@ qhook
 	uni: 02A0
 	fin: uni02A0
 	set: AGL1
-qmonospace
+qfullwidth
 	uni: FF51
 	fin: uniFF51
+	ali: qmonospace
 	set: AGL1
 heQofDagesh
 	uni: FB47
 	fin: uniFB47
 	ali: qofdagesh qofdageshhebrew
 	set: AGL1
-qparen
+qparens
 	uni: 24AC
 	fin: uni24AC
+	ali: qparen
 	set: AGL1
 quarternote
 	uni: 2669
 	fin: uni2669
 	set: AGL1
-questionmonospace
+questionfullwidth
 	uni: FF1F
 	fin: uniFF1F
+	ali: questionmonospace
 	set: AGL1
-quotedblmonospace
+quotedblfullwidth
 	uni: FF02
 	fin: uniFF02
+	ali: quotedblmonospace
 	set: AGL1
 quotedblprime
 	uni: 301E
@@ -20738,21 +20639,25 @@ quotedblprimereversed
 	uni: 301D
 	fin: uni301D
 	set: AGL1
-quotesinglemonospace
+quotesinglefullwidth
 	uni: FF07
 	fin: uniFF07
+	ali: quotesinglemonospace
 	set: AGL1
-radoverssquare
+radoversfullwidth
 	uni: 33AE
 	fin: uni33AE
+	ali: radoverssquare
 	set: AGL1
-radoverssquaredsquare
+radovers2fullwidth
 	uni: 33AF
 	fin: uni33AF
+	ali: radoverssquaredsquare
 	set: AGL1
-radsquare
+radfullwidth
 	uni: 33AD
 	fin: uni33AD
+	ali: radsquare
 	set: AGL1
 rahiragana
 	uni: 3089
@@ -20805,9 +20710,10 @@ referencemark
 	uni: 203B
 	fin: uni203B
 	set: AGL1
-rehfinalarabic
+arRehPF.f
 	uni: FEAE
 	fin: uniFEAE
+	ali: rehfinalarabic
 	set: AGL1
 rehiragana
 	uni: 308C
@@ -21007,9 +20913,10 @@ rlonglegturned
 	uni: 027A
 	fin: uni027A
 	set: AGL1
-rmonospace
+rfullwidth
 	uni: FF52
 	fin: uniFF52
+	ali: rmonospace
 	set: AGL1
 rohiragana
 	uni: 308D
@@ -21023,17 +20930,15 @@ rokatakanahalfwidth
 	uni: FF9B
 	fin: uniFF9B
 	set: AGL1
-roruathai
-	uni: 0E23
-	fin: uni0E23
-	set: AGL1
-rparen
+rparens
 	uni: 24AD
 	fin: uni24AD
+	ali: rparen
 	set: AGL1
-rrehfinalarabic
+arRrehPF.f
 	uni: FB8D
 	fin: uniFB8D
+	ali: rrehfinalarabic
 	set: AGL1
 rturned
 	uni: 0279
@@ -21056,26 +20961,25 @@ rukatakanahalfwidth
 	uni: FF99
 	fin: uniFF99
 	set: AGL1
-ruthai
-	uni: 0E24
-	fin: uni0E24
-	set: AGL1
 sacutedotaccent
 	uni: 1E65
 	fin: uni1E65
 	set: AGL1
 	cmp: s+acutedotaccent
-sadfinalarabic
+arSadPF.f
 	uni: FEBA
 	fin: uniFEBA
+	ali: sadfinalarabic
 	set: AGL1
-sadinitialarabic
+arSadPF.i
 	uni: FEBB
 	fin: uniFEBB
+	ali: sadinitialarabic
 	set: AGL1
-sadmedialarabic
+arSadPF.m
 	uni: FEBC
 	fin: uniFEBC
+	ali: sadmedialarabic
 	set: AGL1
 sahiragana
 	uni: 3055
@@ -21089,6 +20993,13 @@ sakatakanahalfwidth
 	uni: FF7B
 	fin: uniFF7B
 	set: AGL1
+arAllah
+	uni: FDF2
+	fin: uniFDF2
+	ali: lamlamhehisolatedarabic
+	set: AGL1
+arMohammad
+	fin: uni0645062D0645062F
 arSallallahouAlayheWasallam
 	uni: FDFA
 	fin: uniFDFA
@@ -21099,70 +21010,6 @@ heSamekhDagesh
 	fin: uniFB41
 	ali: samekhdagesh samekhdageshhebrew
 	set: AGL1
-saraaathai
-	uni: 0E32
-	fin: uni0E32
-	set: AGL1
-saraaethai
-	uni: 0E41
-	fin: uni0E41
-	set: AGL1
-saraaimaimalaithai
-	uni: 0E44
-	fin: uni0E44
-	set: AGL1
-saraaimaimuanthai
-	uni: 0E43
-	fin: uni0E43
-	set: AGL1
-saraamthai
-	uni: 0E33
-	fin: uni0E33
-	set: AGL1
-saraathai
-	uni: 0E30
-	fin: uni0E30
-	set: AGL1
-saraethai
-	uni: 0E40
-	fin: uni0E40
-	set: AGL1
-saraiileftthai
-	set: AGL1
-saraiithai
-	uni: 0E35
-	fin: uni0E35
-	set: AGL1
-saraileftthai
-	set: AGL1
-saraithai
-	uni: 0E34
-	fin: uni0E34
-	set: AGL1
-saraothai
-	uni: 0E42
-	fin: uni0E42
-	set: AGL1
-saraueeleftthai
-	set: AGL1
-saraueethai
-	uni: 0E37
-	fin: uni0E37
-	set: AGL1
-saraueleftthai
-	set: AGL1
-sarauethai
-	uni: 0E36
-	fin: uni0E36
-	set: AGL1
-sarauthai
-	uni: 0E38
-	fin: uni0E38
-	set: AGL1
-sarauuthai
-	uni: 0E39
-	fin: uni0E39
-	set: AGL1
 sbopomofo
 	uni: 3119
 	fin: uni3119
@@ -21172,14 +21019,15 @@ scarondotaccent
 	fin: uni1E67
 	set: AGL1
 	cmp: s+carondotaccent
-schwadieresiscyrillic
+schwadieresiscyr
 	uni: 04DB
 	fin: uni04DB
+	ali: schwadieresiscyrillic
 	set: AGL1
-schwahookrhotic
+schwarhotic
 	uni: 025A
 	fin: uni025A
-	ali: schwahook
+	ali: schwahook schwahookrhotic
 	set: AGL1
 scircle
 	uni: 24E2
@@ -21209,17 +21057,20 @@ acutemod
 	fin: uni02CA
 	ali: secondtonechinese
 	set: AGL1
-seenfinalarabic
+arSeenPF.f
 	uni: FEB2
 	fin: uniFEB2
+	ali: seenfinalarabic
 	set: AGL1
-seeninitialarabic
+arSeenPF.i
 	uni: FEB3
 	fin: uniFEB3
+	ali: seeninitialarabic
 	set: AGL1
-seenmedialarabic
+arSeenPF.m
 	uni: FEB4
 	fin: uniFEB4
+	ali: seenmedialarabic
 	set: AGL1
 sehiragana
 	uni: 305B
@@ -21233,9 +21084,10 @@ sekatakanahalfwidth
 	uni: FF7E
 	fin: uniFF7E
 	set: AGL1
-semicolonmonospace
+semicolonfullwidth
 	uni: FF1B
 	fin: uniFF1B
+	ali: semicolonmonospace
 	set: AGL1
 semicolonsmall
 	uni: FE54
@@ -21273,73 +21125,76 @@ sevenideographicparen
 	uni: 3226
 	fin: uni3226
 	set: AGL1
-sevenmonospace
+sevenfullwidth
 	uni: FF17
 	fin: uniFF17
+	ali: sevenmonospace
 	set: AGL1
-sevenparen
+sevenparens
 	uni: 247A
 	fin: uni247A
+	ali: sevenparen
 	set: AGL1
 sevenperiod
 	uni: 248E
 	fin: uni248E
 	set: AGL1
-sevenroman
-	uni: 2176
-	fin: uni2176
-	set: AGL1
 seventeencircle
 	uni: 2470
 	fin: uni2470
 	set: AGL1
-seventeenparen
+seventeenparens
 	uni: 2484
 	fin: uni2484
+	ali: seventeenparen
 	set: AGL1
 seventeenperiod
 	uni: 2498
 	fin: uni2498
 	set: AGL1
-seventhai
-	uni: 0E57
-	fin: uni0E57
-	set: AGL1
-shaddadammaarabic
+arShaddaDammaPF
 	uni: FC61
 	fin: uniFC61
+	ali: shaddadammaarabic
 	set: AGL1
-shaddadammatanarabic
+arShaddaDammatanPF
 	uni: FC5E
 	fin: uniFC5E
+	ali: shaddadammatanarabic
 	set: AGL1
-shaddafathaarabic
+arShaddaFathaPF
 	uni: FC60
 	fin: uniFC60
+	ali: shaddafathaarabic
 	set: AGL1
-shaddakasraarabic
+arShaddaKasraPF
 	uni: FC62
 	fin: uniFC62
+	ali: shaddakasraarabic
 	set: AGL1
-shaddakasratanarabic
+arShaddaKasratanPF
 	uni: FC5F
 	fin: uniFC5F
+	ali: shaddakasratanarabic
 	set: AGL1
 shbopomofo
 	uni: 3115
 	fin: uni3115
 	set: AGL1
-sheenfinalarabic
+arSheenPF.f
 	uni: FEB6
 	fin: uniFEB6
+	ali: sheenfinalarabic
 	set: AGL1
-sheeninitialarabic
+arSheenPF.i
 	uni: FEB7
 	fin: uniFEB7
+	ali: sheeninitialarabic
 	set: AGL1
-sheenmedialarabic
+arSheenPF.m
 	uni: FEB8
 	fin: uniFEB8
+	ali: sheenmedialarabic
 	set: AGL1
 sheicoptic
 	uni: 03E3
@@ -21446,49 +21301,46 @@ sixideographicparen
 	uni: 3225
 	fin: uni3225
 	set: AGL1
-sixmonospace
+sixfullwidth
 	uni: FF16
 	fin: uniFF16
+	ali: sixmonospace
 	set: AGL1
-sixparen
+sixparens
 	uni: 2479
 	fin: uni2479
+	ali: sixparen
 	set: AGL1
 sixperiod
 	uni: 248D
 	fin: uni248D
 	set: AGL1
-sixroman
-	uni: 2175
-	fin: uni2175
-	set: AGL1
 sixteencircle
 	uni: 246F
 	fin: uni246F
 	set: AGL1
-sixteenparen
+sixteenparens
 	uni: 2483
 	fin: uni2483
+	ali: sixteenparen
 	set: AGL1
 sixteenperiod
 	uni: 2497
 	fin: uni2497
 	set: AGL1
-sixthai
-	uni: 0E56
-	fin: uni0E56
-	set: AGL1
-slashmonospace
+slashfullwidth
 	uni: FF0F
 	fin: uniFF0F
+	ali: slashmonospace
 	set: AGL1
 slongdotaccent
 	uni: 1E9B
 	fin: uni1E9B
 	set: AGL1
-smonospace
+sfullwidth
 	uni: FF53
 	fin: uniFF53
+	ali: smonospace
 	set: AGL1
 sohiragana
 	uni: 305D
@@ -21506,41 +21358,28 @@ soliduslongoverlaycmb
 	uni: 0338
 	fin: uni0338
 	set: AGL1
-sorusithai
-	uni: 0E29
-	fin: uni0E29
-	set: AGL1
-sosalathai
-	uni: 0E28
-	fin: uni0E28
-	set: AGL1
-sosothai
-	uni: 0E0B
-	fin: uni0E0B
-	set: AGL1
-sosuathai
-	uni: 0E2A
-	fin: uni0E2A
-	set: AGL1
 spadesuitwhite
 	uni: 2664
 	fin: uni2664
 	set: AGL1
-sparen
+sparens
 	uni: 24AE
 	fin: uni24AE
+	ali: sparen
 	set: AGL1
 squarebelowcmb
 	uni: 033B
 	fin: uni033B
 	set: AGL1
-squarecc
+ccfullwidth
 	uni: 33C4
 	fin: uni33C4
+	ali: squarecc
 	set: AGL1
-squarecm
+cmfullwidth
 	uni: 339D
 	fin: uni339D
+	ali: squarecm
 	set: AGL1
 squarediagonalcrosshatchfill
 	uni: 25A9
@@ -21550,41 +21389,50 @@ squarehorizontalfill
 	uni: 25A4
 	fin: uni25A4
 	set: AGL1
-squarekg
+kgfullwidth
 	uni: 338F
 	fin: uni338F
+	ali: squarekg
 	set: AGL1
-squarekm
+kmfullwidth
 	uni: 339E
 	fin: uni339E
+	ali: squarekm
 	set: AGL1
-squarekmcapital
+KMfullwidth
 	uni: 33CE
 	fin: uni33CE
+	ali: squarekmcapital
 	set: AGL1
-squareln
+lnfullwidth
 	uni: 33D1
 	fin: uni33D1
+	ali: squareln
 	set: AGL1
-squarelog
+logfullwidth
 	uni: 33D2
 	fin: uni33D2
+	ali: squarelog
 	set: AGL1
-squaremg
+mgfullwidth
 	uni: 338E
 	fin: uni338E
+	ali: squaremg
 	set: AGL1
-squaremil
+milfullwidth
 	uni: 33D5
 	fin: uni33D5
+	ali: squaremil
 	set: AGL1
-squaremm
+mmfullwidth
 	uni: 339C
 	fin: uni339C
+	ali: squaremm
 	set: AGL1
-squaremsquared
+m2fullwidth
 	uni: 33A1
 	fin: uni33A1
+	ali: squaremsquared
 	set: AGL1
 squareorthogonalcrosshatchfill
 	uni: 25A6
@@ -21606,9 +21454,10 @@ squarewhitewithsmallblack
 	uni: 25A3
 	fin: uni25A3
 	set: AGL1
-srsquare
+srfullwidth
 	uni: 33DB
 	fin: uni33DB
+	ali: srsquare
 	set: AGL1
 ssangcieuckorean
 	uni: 3149
@@ -21642,9 +21491,10 @@ ssangtikeutkorean
 	uni: 3138
 	fin: uni3138
 	set: AGL1
-sterlingmonospace
+sterlingfullwidth
 	uni: FFE1
 	fin: uniFFE1
+	ali: sterlingmonospace
 	set: AGL1
 strokelongoverlaycmb
 	uni: 0336
@@ -21678,9 +21528,10 @@ supersetnotequal
 	uni: 228B
 	fin: uni228B
 	set: AGL1
-svsquare
+Svfullwidth
 	uni: 33DC
 	fin: uni33DC
+	ali: svsquare
 	set: AGL1
 syouwaerasquare
 	uni: 337C
@@ -21694,21 +21545,24 @@ tackleft
 	uni: 22A3
 	fin: uni22A3
 	set: AGL1
-tahfinalarabic
+arTahPF.f
 	uni: FEC2
 	fin: uniFEC2
+	ali: tahfinalarabic
 	set: AGL1
-tahinitialarabic
+arTahPF.i
 	uni: FEC3
 	fin: uniFEC3
+	ali: tahinitialarabic
 	set: AGL1
 tahiragana
 	uni: 305F
 	fin: uni305F
 	set: AGL1
-tahmedialarabic
+arTahPF.m
 	uni: FEC4
 	fin: uniFEC4
+	ali: tahmedialarabic
 	set: AGL1
 taisyouerasquare
 	uni: 337D
@@ -21735,17 +21589,20 @@ tccurl
 	uni: 02A8
 	fin: uni02A8
 	set: AGL1
-tchehfinalarabic
+arTchehPF.f
 	uni: FB7B
 	fin: uniFB7B
+	ali: tchehfinalarabic
 	set: AGL1
-tchehinitialarabic
+arTchehPF.i
 	uni: FB7C
 	fin: uniFB7C
+	ali: tchehinitialarabic
 	set: AGL1
-tchehmedialarabic
+arTchehPF.m
 	uni: FB7D
 	fin: uniFB7D
+	ali: tchehmedialarabic
 	set: AGL1
 tcircle
 	uni: 24E3
@@ -21776,9 +21633,10 @@ tedescender
 	ali: tedescendercyrillic
 	set: AGL1
 	maj: Tedescender
-tehfinalarabic
+arTehPF.f
 	uni: FE96
 	fin: uniFE96
+	ali: tehfinalarabic
 	set: AGL1
 tehhahinitialarabic
 	uni: FCA2
@@ -21788,9 +21646,10 @@ tehhahisolatedarabic
 	uni: FC0C
 	fin: uniFC0C
 	set: AGL1
-tehinitialarabic
+arTehPF.i
 	uni: FE97
 	fin: uniFE97
+	ali: tehinitialarabic
 	set: AGL1
 tehiragana
 	uni: 3066
@@ -21804,13 +21663,15 @@ tehjeemisolatedarabic
 	uni: FC0B
 	fin: uniFC0B
 	set: AGL1
-tehmarbutafinalarabic
+arTehMarbutaPF.f
 	uni: FE94
 	fin: uniFE94
+	ali: tehmarbutafinalarabic
 	set: AGL1
-tehmedialarabic
+arTehPF.m
 	uni: FE98
 	fin: uniFE98
+	ali: tehmedialarabic
 	set: AGL1
 tehmeeminitialarabic
 	uni: FCA4
@@ -21848,17 +21709,14 @@ tenideographicparen
 	uni: 3229
 	fin: uni3229
 	set: AGL1
-tenparen
+tenparens
 	uni: 247D
 	fin: uni247D
+	ali: tenparen
 	set: AGL1
 tenperiod
 	uni: 2491
 	fin: uni2491
-	set: AGL1
-tenroman
-	uni: 2179
-	fin: uni2179
 	set: AGL1
 tesh
 	uni: 02A7
@@ -21875,31 +21733,25 @@ tetse
 	ali: tetsecyrillic
 	set: AGL1
 	maj: Tetse
-thalfinalarabic
+arThalPF.f
 	uni: FEAC
 	fin: uniFEAC
+	ali: thalfinalarabic
 	set: AGL1
-thanthakhatlowleftthai
-	set: AGL1
-thanthakhatlowrightthai
-	set: AGL1
-thanthakhatthai
-	uni: 0E4C
-	fin: uni0E4C
-	set: AGL1
-thanthakhatupperleftthai
-	set: AGL1
-thehfinalarabic
+arThehPF.f
 	uni: FE9A
 	fin: uniFE9A
+	ali: thehfinalarabic
 	set: AGL1
-thehinitialarabic
+arThehPF.i
 	uni: FE9B
 	fin: uniFE9B
+	ali: thehinitialarabic
 	set: AGL1
-thehmedialarabic
+arThehPF.m
 	uni: FE9C
 	fin: uniFE9C
+	ali: thehmedialarabic
 	set: AGL1
 thieuthacirclekorean
 	uni: 3279
@@ -21925,50 +21777,22 @@ thirteencircle
 	uni: 246C
 	fin: uni246C
 	set: AGL1
-thirteenparen
+thirteenparens
 	uni: 2480
 	fin: uni2480
+	ali: thirteenparen
 	set: AGL1
 thirteenperiod
 	uni: 2494
 	fin: uni2494
 	set: AGL1
-thonangmonthothai
-	uni: 0E11
-	fin: uni0E11
-	set: AGL1
 thook
 	uni: 01AD
 	fin: uni01AD
 	set: AGL1
-thophuthaothai
-	uni: 0E12
-	fin: uni0E12
-	set: AGL1
-thothahanthai
-	uni: 0E17
-	fin: uni0E17
-	set: AGL1
-thothanthai
-	uni: 0E10
-	fin: uni0E10
-	set: AGL1
-thothongthai
-	uni: 0E18
-	fin: uni0E18
-	set: AGL1
-thothungthai
-	uni: 0E16
-	fin: uni0E16
-	set: AGL1
 thousandcyrillic
 	uni: 0482
 	fin: uni0482
-	set: AGL1
-arThousands
-	uni: 066C
-	fin: uni066C
-	ali: thousandsseparatorarabic thousandsseparatorpersian
 	set: AGL1
 threecircle
 	uni: 2462
@@ -21986,29 +21810,24 @@ threeideographicparen
 	uni: 3222
 	fin: uni3222
 	set: AGL1
-threemonospace
+threefullwidth
 	uni: FF13
 	fin: uniFF13
+	ali: threemonospace
 	set: AGL1
-threeparen
+threeparens
 	uni: 2476
 	fin: uni2476
+	ali: threeparen
 	set: AGL1
 threeperiod
 	uni: 248A
 	fin: uni248A
 	set: AGL1
-threeroman
-	uni: 2172
-	fin: uni2172
-	set: AGL1
-threethai
-	uni: 0E53
-	fin: uni0E53
-	set: AGL1
-thzsquare
+THzfullwidth
 	uni: 3394
 	fin: uni3394
+	ali: thzsquare
 	set: AGL1
 tihiragana
 	uni: 3061
@@ -22067,9 +21886,10 @@ tlinebelow
 	fin: uni1E6F
 	set: AGL1
 	cmp: t+macronbelowcmb
-tmonospace
+tfullwidth
 	uni: FF54
 	fin: uniFF54
+	ali: tmonospace
 	set: AGL1
 tohiragana
 	uni: 3068
@@ -22119,10 +21939,6 @@ tonsquare
 	uni: 3327
 	fin: uni3327
 	set: AGL1
-topatakthai
-	uni: 0E0F
-	fin: uni0E0F
-	set: AGL1
 tortoiseshellbracketleft
 	uni: 3014
 	fin: uni3014
@@ -22147,24 +21963,21 @@ tortoiseshellbracketrightvertical
 	uni: FE3A
 	fin: uniFE3A
 	set: AGL1
-totaothai
-	uni: 0E15
-	fin: uni0E15
-	set: AGL1
 tpalatalhook
 	uni: 01AB
 	fin: uni01AB
 	set: AGL1
-tparen
+tparens
 	uni: 24AF
 	fin: uni24AF
+	ali: tparen
 	set: AGL1
-thookretroflex
+tretroflex
 	uni: 0288
 	fin: uni0288
-	ali: tretroflexhook
+	ali: thookretroflex tretroflexhook
 	set: AGL1
-	maj: Thookretroflex
+	maj: Tretroflex
 ts
 	uni: 02A6
 	fin: uni02A6
@@ -22174,17 +21987,20 @@ heTsadiDagesh
 	fin: uniFB46
 	ali: tsadidagesh tsadidageshhebrew
 	set: AGL1
-ttehfinalarabic
+arTtehPF.f
 	uni: FB67
 	fin: uniFB67
+	ali: ttehfinalarabic
 	set: AGL1
-ttehinitialarabic
+arTtehPF.i
 	uni: FB68
 	fin: uniFB68
+	ali: ttehinitialarabic
 	set: AGL1
-ttehmedialarabic
+arTtehPF.m
 	uni: FB69
 	fin: uniFB69
+	ali: ttehmedialarabic
 	set: AGL1
 tturned
 	uni: 0287
@@ -22218,17 +22034,14 @@ twelvecircle
 	uni: 246B
 	fin: uni246B
 	set: AGL1
-twelveparen
+twelveparens
 	uni: 247F
 	fin: uni247F
+	ali: twelveparen
 	set: AGL1
 twelveperiod
 	uni: 2493
 	fin: uni2493
-	set: AGL1
-twelveroman
-	uni: 217B
-	fin: uni217B
 	set: AGL1
 twentycircle
 	uni: 2473
@@ -22238,9 +22051,10 @@ twentyhangzhou
 	uni: 5344
 	fin: uni5344
 	set: AGL1
-twentyparen
+twentyparens
 	uni: 2487
 	fin: uni2487
+	ali: twentyparen
 	set: AGL1
 twentyperiod
 	uni: 249B
@@ -22266,29 +22080,23 @@ twoideographicparen
 	uni: 3221
 	fin: uni3221
 	set: AGL1
-twomonospace
+twofullwidth
 	uni: FF12
 	fin: uniFF12
+	ali: twomonospace
 	set: AGL1
-twoparen
+twoparens
 	uni: 2475
 	fin: uni2475
+	ali: twoparen
 	set: AGL1
 twoperiod
 	uni: 2489
 	fin: uni2489
 	set: AGL1
-tworoman
-	uni: 2171
-	fin: uni2171
-	set: AGL1
 twostroke
 	uni: 01BB
 	fin: uni01BB
-	set: AGL1
-twothai
-	uni: 0E52
-	fin: uni0E52
 	set: AGL1
 ubar
 	uni: 0289
@@ -22337,7 +22145,7 @@ udieresiscyr
 	ali: udieresiscyrillic
 	set: AGL1
 	maj: Udieresiscyr
-	cmp: u.cyr+diereis
+	cmp: ucyr+diereis
 udieresisgrave
 	uni: 01DC
 	fin: uni01DC
@@ -22351,10 +22159,10 @@ uhiragana
 	uni: 3046
 	fin: uni3046
 	set: AGL1
-uhungarumlautcyr
+uacutedblcyr
 	uni: 04F3
 	fin: uni04F3
-	ali: uhungarumlautcyrillic
+	ali: uhungarumlautcyr uhungarumlautcyrillic
 	set: AGL1
 uinvertedbreve
 	uni: 0217
@@ -22383,7 +22191,7 @@ umacroncyr
 	ali: umacroncyrillic
 	set: AGL1
 	maj: Umacroncyr
-	cmp: u.cyr+macron
+	cmp: ucyr+macron
 umacroncyr.sc
 	fin: uni04EF.sc
 	ali: umacroncyrillic.sc
@@ -22395,13 +22203,15 @@ umacrondieresis
 	fin: uni1E7B
 	set: AGL1
 	cmp: u+macrondieresis
-umonospace
+ufullwidth
 	uni: FF55
 	fin: uniFF55
+	ali: umonospace
 	set: AGL1
-underscoremonospace
+underscorefullwidth
 	uni: FF3F
 	fin: uniFF3F
+	ali: underscoremonospace
 	set: AGL1
 underscorevertical
 	uni: FE33
@@ -22411,9 +22221,10 @@ underscorewavy
 	uni: FE4F
 	fin: uniFE4F
 	set: AGL1
-uparen
+uparens
 	uni: 24B0
 	fin: uni24B0
+	ali: uparen
 	set: AGL1
 upsilonlatin
 	uni: 028A
@@ -22439,18 +22250,18 @@ usmallkatakanahalfwidth
 	uni: FF69
 	fin: uniFF69
 	set: AGL1
-ucyr.straight
+ustraight
 	uni: 04AF
 	fin: uni04AF
-	ali: u.cyrstraight ucyrstraight ustraightcyr ustraightcyrillic
+	ali: u.cyrstraight ucyr.straight ucyrstraight ustraightcyr ustraightcyrillic
 	set: AGL1
-	maj: Ucyr.straight
-ucyr.straightstroke
+	maj: Ustraight
+ustraightstroke
 	uni: 04B1
 	fin: uni04B1
-	ali: u.cyrstraightstroke ucyrstraightstroke ustraightstrokecyrillic
+	ali: u.cyrstraightstroke ucyr.straightstroke ucyrstraightstroke ustraightstrokecyrillic
 	set: AGL1
-	maj: Ucyr.straightstroke
+	maj: Ustraightstroke
 utildeacute
 	uni: 1E79
 	fin: uni1E79
@@ -22474,17 +22285,20 @@ vdotbelow
 	fin: uni1E7F
 	set: AGL1
 	cmp: v+dotbelowcmb
-vehfinalarabic
+arVehPF.f
 	uni: FB6B
 	fin: uniFB6B
+	ali: vehfinalarabic
 	set: AGL1
-vehinitialarabic
+arVehPF.i
 	uni: FB6C
 	fin: uniFB6C
+	ali: vehinitialarabic
 	set: AGL1
-vehmedialarabic
+arVehPF.m
 	uni: FB6D
 	fin: uniFB6D
+	ali: vehmedialarabic
 	set: AGL1
 vekatakana
 	uni: 30F9
@@ -22514,9 +22328,10 @@ vikatakana
 	uni: 30F8
 	fin: uni30F8
 	set: AGL1
-vmonospace
+vfullwidth
 	uni: FF56
 	fin: uniFF56
+	ali: vmonospace
 	set: AGL1
 voicediterationhiragana
 	uni: 309E
@@ -22538,9 +22353,10 @@ vokatakana
 	uni: 30FA
 	fin: uni30FA
 	set: AGL1
-vparen
+vparens
 	uni: 24B1
 	fin: uni24B1
+	ali: vparen
 	set: AGL1
 vtilde
 	uni: 1E7D
@@ -22600,17 +22416,20 @@ wavyunderscorevertical
 	uni: FE34
 	fin: uniFE34
 	set: AGL1
-wawfinalarabic
+arWawPF.f
 	uni: FEEE
 	fin: uniFEEE
+	ali: wawfinalarabic
 	set: AGL1
-wawhamzaabovefinalarabic
+arWawHamzaPF.f
 	uni: FE86
 	fin: uniFE86
+	ali: wawhamzaabovefinalarabic
 	set: AGL1
-wbsquare
+Wbfullwidth
 	uni: 33DD
 	fin: uni33DD
+	ali: wbsquare
 	set: AGL1
 wcircle
 	uni: 24E6
@@ -22718,9 +22537,10 @@ wikorean
 	uni: 315F
 	fin: uni315F
 	set: AGL1
-wmonospace
+wfullwidth
 	uni: FF57
 	fin: uniFF57
+	ali: wmonospace
 	set: AGL1
 wohiragana
 	uni: 3092
@@ -22738,17 +22558,15 @@ won
 	uni: 20A9
 	fin: uni20A9
 	set: AGL1
-wonmonospace
+wonfullwidth
 	uni: FFE6
 	fin: uniFFE6
+	ali: wonmonospace
 	set: AGL1
-wowaenthai
-	uni: 0E27
-	fin: uni0E27
-	set: AGL1
-wparen
+wparens
 	uni: 24B2
 	fin: uni24B2
+	ali: wparen
 	set: AGL1
 wring
 	uni: 1E98
@@ -22789,13 +22607,15 @@ xdotaccent
 	fin: uni1E8B
 	set: AGL1
 	cmp: x+dotaccentcmb
-xmonospace
+xfullwidth
 	uni: FF58
 	fin: uniFF58
+	ali: xmonospace
 	set: AGL1
-xparen
+xparens
 	uni: 24B3
 	fin: uni24B3
+	ali: xparen
 	set: AGL1
 xsupmod
 	uni: 02E3
@@ -22826,10 +22646,6 @@ yakorean
 	uni: 3151
 	fin: uni3151
 	set: AGL1
-yamakkanthai
-	uni: 0E4E
-	fin: uni0E4E
-	set: AGL1
 yasmallhiragana
 	uni: 3083
 	fin: uni3083
@@ -22851,25 +22667,30 @@ ydotaccent
 	fin: uni1E8F
 	set: AGL1
 	cmp: y+dotaccentcmb
-yehbarreefinalarabic
+arYehBarreePF.f
 	uni: FBAF
 	fin: uniFBAF
+	ali: yehbarreefinalarabic
 	set: AGL1
-yehfinalarabic
+arYehPF.f
 	uni: FEF2
 	fin: uniFEF2
+	ali: yehfinalarabic
 	set: AGL1
-yehhamzaabovefinalarabic
+arYehHamzaPF.f
 	uni: FE8A
 	fin: uniFE8A
+	ali: yehhamzaabovefinalarabic
 	set: AGL1
-yehhamzaaboveinitialarabic
+arYehHamzaPF.i
 	uni: FE8B
 	fin: uniFE8B
+	ali: yehhamzaaboveinitialarabic
 	set: AGL1
-yehhamzaabovemedialarabic
+arYehHamzaPF.m
 	uni: FE8C
 	fin: uniFE8C
+	ali: yehhamzaabovemedialarabic
 	set: AGL1
 yehmeeminitialarabic
 	uni: FCDD
@@ -22892,9 +22713,10 @@ yekorean
 	uni: 3156
 	fin: uni3156
 	set: AGL1
-yenmonospace
+yenfullwidth
 	uni: FFE5
 	fin: uniFFE5
+	ali: yenmonospace
 	set: AGL1
 yeokorean
 	uni: 3155
@@ -22931,9 +22753,10 @@ yinyang
 	uni: 262F
 	fin: uni262F
 	set: AGL1
-ymonospace
+yfullwidth
 	uni: FF59
 	fin: uniFF59
+	ali: ymonospace
 	set: AGL1
 heYodDagesh
 	uni: FB39
@@ -22984,17 +22807,10 @@ yoyakorean
 	uni: 3187
 	fin: uni3187
 	set: AGL1
-yoyakthai
-	uni: 0E22
-	fin: uni0E22
-	set: AGL1
-yoyingthai
-	uni: 0E0D
-	fin: uni0E0D
-	set: AGL1
-yparen
+yparens
 	uni: 24B4
 	fin: uni24B4
+	ali: yparen
 	set: AGL1
 iotasubscriptcmb
 	uni: 0345
@@ -23076,25 +22892,29 @@ yuyeokorean
 	uni: 318A
 	fin: uni318A
 	set: AGL1
-zahfinalarabic
+arZahPF.f
 	uni: FEC6
 	fin: uniFEC6
+	ali: zahfinalarabic
 	set: AGL1
-zahinitialarabic
+arZahPF.i
 	uni: FEC7
 	fin: uniFEC7
+	ali: zahinitialarabic
 	set: AGL1
 zahiragana
 	uni: 3056
 	fin: uni3056
 	set: AGL1
-zahmedialarabic
+arZahPF.m
 	uni: FEC8
 	fin: uniFEC8
+	ali: zahmedialarabic
 	set: AGL1
-zainfinalarabic
+arZainPF.f
 	uni: FEB0
 	fin: uniFEB0
+	ali: zainfinalarabic
 	set: AGL1
 zakatakana
 	uni: 30B6
@@ -23147,13 +22967,10 @@ zekatakana
 	uni: 30BC
 	fin: uni30BC
 	set: AGL1
-zeromonospace
+zerofullwidth
 	uni: FF10
 	fin: uniFF10
-	set: AGL1
-zerothai
-	uni: 0E50
-	fin: uni0E50
+	ali: zeromonospace
 	set: AGL1
 zhbopomofo
 	uni: 3113
@@ -23190,9 +23007,10 @@ zlinebelow
 	fin: uni1E95
 	set: AGL1
 	cmp: z+macronbelowcmb
-zmonospace
+zfullwidth
 	uni: FF5A
 	fin: uniFF5A
+	ali: zmonospace
 	set: AGL1
 zohiragana
 	uni: 305E
@@ -23202,14 +23020,15 @@ zokatakana
 	uni: 30BE
 	fin: uni30BE
 	set: AGL1
-zparen
+zparens
 	uni: 24B5
 	fin: uni24B5
+	ali: zparen
 	set: AGL1
-zhookretroflex
+zretroflex
 	uni: 0290
 	fin: uni0290
-	ali: zretroflexhook
+	ali: zhookretroflex zretroflexhook
 	set: AGL1
 zstroke
 	uni: 01B6
@@ -23252,31 +23071,31 @@ scedilla.dup
 	cmp: scedilla
 Iukran.swash
 	fin: uni0406.swash
-	sub: I.ukran+swsh
+	sub: Iukran+swsh
 	tag: italic
 Ushort.swash
 	fin: uni040E.swash
-	sub: U.short+swsh
+	sub: Ushort+swsh
 	tag: italic
 Icyr.swash
 	fin: uni0418.swash
-	sub: I.cyr+swsh
+	sub: Icyr+swsh
 	tag: italic
 Ishort.swash
 	fin: uni0419.swash
-	sub: I.short+swsh
+	sub: Ishort+swsh
 	tag: italic
 Ocyr.swash
 	fin: uni041E.swash
-	sub: O.cyr+swsh
+	sub: Ocyr+swsh
 	tag: italic
 Ucyr.swash
 	fin: uni0423.swash
-	sub: U.cyr+swsh
+	sub: Ucyr+swsh
 	tag: italic
 Ecyr.swash
 	fin: uni042D.swash
-	sub: E.cyr+swsh
+	sub: Ecyr+swsh
 	tag: italic
 beital.swash
 	fin: uni0431.italswash
@@ -23427,6 +23246,12 @@ rupee
 rupeeindian
 	uni: 20B9
 	fin: uni20B9
+liraturkish
+	uni: 20BA
+	fin: uni20BA
+ruble
+	uni: 20BD
+	fin: uni20BD
 kip
 	uni: 20AD
 	fin: uni20AD
@@ -23854,9 +23679,10 @@ Hturned
 	uni: A78D
 	fin: uniA78D
 	min: hturned
-lbelthookretroflex
+lbeltretroflex
 	uni: A78E
 	fin: uniA78E
+	ali: lbelthookretroflex
 vhookright
 	uni: 2C71
 	fin: uni2C71
@@ -23914,6 +23740,11 @@ arSafha
 afghani
 	uni: 060B
 	fin: uni060B
+arComma
+	uni: 060C
+	fin: uni060C
+	ali: afii57388 commaarabic
+	set: AGL1 AGL2 AGLFN
 arDate
 	uni: 060D
 	fin: uni060D
@@ -23977,9 +23808,10 @@ arDotBelow
 arDammaReversed
 	uni: 065D
 	fin: uni065D
-arDottedFatha
+arFathaDotted
 	uni: 065E
 	fin: uni065E
+	ali: arDottedFatha
 arAlefAbove
 	uni: 0670
 	fin: uni0670
@@ -24127,7 +23959,7 @@ arPeheh
 arQafDotAbove
 	uni: 06A7
 	fin: uni06A7
-arQafThreeuAbove
+arQafThreeAbove
 	uni: 06A8
 	fin: uni06A8
 arKeheh
@@ -24247,6 +24079,10 @@ arYehBarreeHamza
 arPeriodURD
 	uni: 06D4
 	fin: uni06D4
+arPeriod
+	fin: period.ar
+arColon
+	fin: colon.ar
 arSLAligAbove
 	uni: 06D6
 	fin: uni06D6
@@ -24459,7 +24295,7 @@ dvA
 	fin: uni0905
 	ali: adeva
 	set: AGL1
-dvAA
+dvAa
 	uni: 0906
 	fin: uni0906
 	ali: aadeva
@@ -24469,7 +24305,7 @@ dvI
 	fin: uni0907
 	ali: ideva
 	set: AGL1
-dvII
+dvIi
 	uni: 0908
 	fin: uni0908
 	ali: iideva
@@ -24479,7 +24315,7 @@ dvU
 	fin: uni0909
 	ali: udeva
 	set: AGL1
-dvUU
+dvUu
 	uni: 090A
 	fin: uni090A
 	ali: uudeva
@@ -24509,7 +24345,7 @@ dvE
 	fin: uni090F
 	ali: edeva
 	set: AGL1
-dvAI
+dvAi
 	uni: 0910
 	fin: uni0910
 	ali: aideva
@@ -24529,7 +24365,7 @@ dvO
 	fin: uni0913
 	ali: odeva
 	set: AGL1
-dvAU
+dvAu
 	uni: 0914
 	fin: uni0914
 	ali: audeva
@@ -24729,7 +24565,7 @@ dvAvagraha
 	fin: uni093D
 	ali: avagrahadeva
 	set: AGL1
-dvAAsign
+dvAasign
 	uni: 093E
 	fin: uni093E
 	ali: aavowelsigndeva
@@ -24739,7 +24575,7 @@ dvIsign
 	fin: uni093F
 	ali: ivowelsigndeva
 	set: AGL1
-dvIIsign
+dvIisign
 	uni: 0940
 	fin: uni0940
 	ali: iivowelsigndeva
@@ -24749,7 +24585,7 @@ dvUsign
 	fin: uni0941
 	ali: uvowelsigndeva
 	set: AGL1
-dvUUsign
+dvUusign
 	uni: 0942
 	fin: uni0942
 	ali: uuvowelsigndeva
@@ -24759,7 +24595,7 @@ dvRvocalsign
 	fin: uni0943
 	ali: rvocalicvowelsigndeva
 	set: AGL1
-dvRRvocalsign
+dvRrvocalsign
 	uni: 0944
 	fin: uni0944
 	ali: rrvocalicvowelsigndeva
@@ -24779,7 +24615,7 @@ dvEsign
 	fin: uni0947
 	ali: evowelsigndeva
 	set: AGL1
-dvAIsign
+dvAisign
 	uni: 0948
 	fin: uni0948
 	ali: aivowelsigndeva
@@ -24799,7 +24635,7 @@ dvOsign
 	fin: uni094B
 	ali: ovowelsigndeva
 	set: AGL1
-dvAUsign
+dvAusign
 	uni: 094C
 	fin: uni094C
 	ali: auvowelsigndeva
@@ -24874,12 +24710,12 @@ dvYya
 	fin: uni095F
 	ali: yyadeva
 	set: AGL1
-dvRRvocal
+dvRrvocal
 	uni: 0960
 	fin: uni0960
 	ali: rrvocalicdeva
 	set: AGL1
-dvLLvocal
+dvLlvocal
 	uni: 0961
 	fin: uni0961
 	ali: llvocalicdeva
@@ -24889,7 +24725,7 @@ dvLvocalsign
 	fin: uni0962
 	ali: lvocalicvowelsigndeva
 	set: AGL1
-dvLLvocalsign
+dvLlvocalsign
 	uni: 0963
 	fin: uni0963
 	ali: llvocalicvowelsigndeva
@@ -24898,10 +24734,10 @@ danda
 	uni: 0964
 	fin: uni0964
 	set: AGL1
-dandadouble
+dandadbl
 	uni: 0965
 	fin: uni0965
-	ali: dbldanda
+	ali: dandadouble dbldanda
 	set: AGL1
 dvZero
 	uni: 0966
@@ -24973,6 +24809,89 @@ dvDdda
 dvBba
 	uni: 097F
 	fin: uni097F
+dvAcandra
+	uni: 0972
+	fin: uni0972
+dvOe
+	uni: 0973
+	fin: uni0973
+dvOoe
+	uni: 0974
+	fin: uni0974
+dvAw
+	uni: 0975
+	fin: uni0975
+dvUe
+	uni: 0976
+	fin: uni0976
+dvUue
+	uni: 0977
+	fin: uni0977
+dvZha
+	uni: 0979
+	fin: uni0979
+dvYaheavy
+	uni: 097A
+	fin: uni097A
+dvOesign
+	uni: 093A
+	fin: uni093A
+dvOoesign
+	uni: 093B
+	fin: uni093B
+dvEprishthamatrasign
+	uni: 094E
+	fin: uni094E
+dvAwsign
+	uni: 094F
+	fin: uni094F
+dvDothigh
+	uni: 0971
+	fin: uni0971
+dvReph
+	fin: uni0930094D
+dvRakar
+	fin: uni094D0930
+dvRephAnusvara
+	fin: uni0930094D0902
+dvIsignReph
+	fin: uni093F0930094D
+dvIsignRephAnusvara
+	fin: uni093F0930094D0902
+dvIisignReph
+	fin: uni09400930094D
+dvIisignRephAnusvara
+	fin: uni09400930094D0902
+dvEsignReph
+	fin: uni09470930094D
+dvEsignRephAnusvara
+	fin: uni09470930094D0902
+dvAisignReph
+	fin: uni09480930094D
+dvAisignRephAnusvara
+	fin: uni09480930094D0902
+dvOsignReph
+	fin: uni094B0930094D
+dvAusignReph
+	fin: uni094C0930094D
+dvOsignRephAnusvara
+	fin: uni094B0930094D0902
+dvAusignRephAnusvara
+	fin: uni094C0930094D0902
+dvRakarU
+	fin: uni094D09300941
+	ali: dvRakarUsign
+dvRakarUu
+	fin: uni094D09300942
+	ali: dvRakarUusign
+dvIiAnusvara
+	fin: uni09080902
+dvStopNukta
+	fin: uni097D093C
+dvStopVirama
+	fin: uni097D094D
+dvStopNuktaVirama
+	fin: uni097D093C094D
 beCandrabindu
 	uni: 0981
 	fin: uni0981
@@ -24993,7 +24912,7 @@ beA
 	fin: uni0985
 	ali: abengali
 	set: AGL1
-beAA
+beAa
 	uni: 0986
 	fin: uni0986
 	ali: aabengali
@@ -25003,7 +24922,7 @@ beI
 	fin: uni0987
 	ali: ibengali
 	set: AGL1
-beII
+beIi
 	uni: 0988
 	fin: uni0988
 	ali: iibengali
@@ -25013,7 +24932,7 @@ beU
 	fin: uni0989
 	ali: ubengali
 	set: AGL1
-beUU
+beUu
 	uni: 098A
 	fin: uni098A
 	ali: uubengali
@@ -25033,7 +24952,7 @@ beE
 	fin: uni098F
 	ali: ebengali
 	set: AGL1
-beAI
+beAi
 	uni: 0990
 	fin: uni0990
 	ali: aibengali
@@ -25043,7 +24962,7 @@ beO
 	fin: uni0993
 	ali: obengali
 	set: AGL1
-beAU
+beAu
 	uni: 0994
 	fin: uni0994
 	ali: aubengali
@@ -25216,7 +25135,7 @@ beNukta
 beAvagraha
 	uni: 09BD
 	fin: uni09BD
-beAAsign
+beAasign
 	uni: 09BE
 	fin: uni09BE
 	ali: aavowelsignbengali
@@ -25226,7 +25145,7 @@ beIsign
 	fin: uni09BF
 	ali: ivowelsignbengali
 	set: AGL1
-beIIsign
+beIisign
 	uni: 09C0
 	fin: uni09C0
 	ali: iivowelsignbengali
@@ -25236,7 +25155,7 @@ beUsign
 	fin: uni09C1
 	ali: uvowelsignbengali
 	set: AGL1
-beUUsign
+beUusign
 	uni: 09C2
 	fin: uni09C2
 	ali: uuvowelsignbengali
@@ -25246,7 +25165,7 @@ beRvocalsign
 	fin: uni09C3
 	ali: rvocalicvowelsignbengali
 	set: AGL1
-beRRvocalsign
+beRrvocalsign
 	uni: 09C4
 	fin: uni09C4
 	ali: rrvocalicvowelsignbengali
@@ -25256,7 +25175,7 @@ beEsign
 	fin: uni09C7
 	ali: evowelsignbengali
 	set: AGL1
-beAIsign
+beAisign
 	uni: 09C8
 	fin: uni09C8
 	ali: aivowelsignbengali
@@ -25266,7 +25185,7 @@ beOsign
 	fin: uni09CB
 	ali: ovowelsignbengali
 	set: AGL1
-beAUsign
+beAusign
 	uni: 09CC
 	fin: uni09CC
 	ali: auvowelsignbengali
@@ -25279,7 +25198,7 @@ beVirama
 beKhandaTa
 	uni: 09CE
 	fin: uni09CE
-beAUlength
+beAulength
 	uni: 09D7
 	fin: uni09D7
 	ali: aulengthmarkbengali
@@ -25299,12 +25218,12 @@ beYya
 	fin: uni09DF
 	ali: yyabengali
 	set: AGL1
-beRRvocal
+beRrvocal
 	uni: 09E0
 	fin: uni09E0
 	ali: rrvocalicbengali
 	set: AGL1
-beLLvocal
+beLlvocal
 	uni: 09E1
 	fin: uni09E1
 	ali: llvocalicbengali
@@ -25314,7 +25233,7 @@ beLvocalsign
 	fin: uni09E2
 	ali: lvocalicvowelsignbengali
 	set: AGL1
-beLLvocalsign
+beLlvocalsign
 	uni: 09E3
 	fin: uni09E3
 	ali: llvocalicvowelsignbengali
@@ -25369,12 +25288,12 @@ beNine
 	fin: uni09EF
 	ali: ninebengali
 	set: AGL1
-beRaMiddle
+beRa.ASM
 	uni: 09F0
 	fin: uni09F0
 	ali: ramiddlediagonalbengali
 	set: AGL1
-beRaLower
+beVa
 	uni: 09F1
 	fin: uni09F1
 	ali: ralowerdiagonalbengali
@@ -25424,6 +25343,9 @@ beIsshar
 	fin: uni09FA
 	ali: issharbengali
 	set: AGL1
+beGanda
+	uni: 09FB
+	fin: uni09FB
 guAdakBindi
 	uni: 0A01
 	fin: uni0A01
@@ -25440,7 +25362,7 @@ guA
 	fin: uni0A05
 	ali: agurmukhi
 	set: AGL1
-guAA
+guAa
 	uni: 0A06
 	fin: uni0A06
 	ali: aagurmukhi
@@ -25450,7 +25372,7 @@ guI
 	fin: uni0A07
 	ali: igurmukhi
 	set: AGL1
-guII
+guIi
 	uni: 0A08
 	fin: uni0A08
 	ali: iigurmukhi
@@ -25460,27 +25382,27 @@ guU
 	fin: uni0A09
 	ali: ugurmukhi
 	set: AGL1
-guUU
+guUu
 	uni: 0A0A
 	fin: uni0A0A
 	ali: uugurmukhi
 	set: AGL1
-guEE
+guEe
 	uni: 0A0F
 	fin: uni0A0F
 	ali: eegurmukhi
 	set: AGL1
-guAI
+guAi
 	uni: 0A10
 	fin: uni0A10
 	ali: aigurmukhi
 	set: AGL1
-guOO
+guOo
 	uni: 0A13
 	fin: uni0A13
 	ali: oogurmukhi
 	set: AGL1
-guAU
+guAu
 	uni: 0A14
 	fin: uni0A14
 	ali: augurmukhi
@@ -25653,7 +25575,7 @@ guNukta
 	fin: uni0A3C
 	ali: nuktagurmukhi
 	set: AGL1
-guAAsign
+guAasign
 	uni: 0A3E
 	fin: uni0A3E
 	ali: aamatragurmukhi
@@ -25663,7 +25585,7 @@ guIsign
 	fin: uni0A3F
 	ali: imatragurmukhi
 	set: AGL1
-guIIsign
+guIisign
 	uni: 0A40
 	fin: uni0A40
 	ali: iimatragurmukhi
@@ -25673,27 +25595,27 @@ guUsign
 	fin: uni0A41
 	ali: umatragurmukhi
 	set: AGL1
-guUUsign
+guUusign
 	uni: 0A42
 	fin: uni0A42
 	ali: uumatragurmukhi
 	set: AGL1
-guEEsign
+guEesign
 	uni: 0A47
 	fin: uni0A47
 	ali: eematragurmukhi
 	set: AGL1
-guAIsign
+guAisign
 	uni: 0A48
 	fin: uni0A48
 	ali: aimatragurmukhi
 	set: AGL1
-guOOsign
+guOosign
 	uni: 0A4B
 	fin: uni0A4B
 	ali: oomatragurmukhi
 	set: AGL1
-guAUsign
+guAusign
 	uni: 0A4C
 	fin: uni0A4C
 	ali: aumatragurmukhi
@@ -25806,6 +25728,9 @@ guEkOnkar
 	fin: uni0A74
 	ali: ekonkargurmukhi
 	set: AGL1
+khanda
+	uni: 262C
+	fin: uni262C
 gjCandrabindu
 	uni: 0A81
 	fin: uni0A81
@@ -25826,7 +25751,7 @@ gjA
 	fin: uni0A85
 	ali: agujarati
 	set: AGL1
-gjAA
+gjAa
 	uni: 0A86
 	fin: uni0A86
 	ali: aagujarati
@@ -25836,7 +25761,7 @@ gjI
 	fin: uni0A87
 	ali: igujarati
 	set: AGL1
-gjII
+gjIi
 	uni: 0A88
 	fin: uni0A88
 	ali: iigujarati
@@ -25846,7 +25771,7 @@ gjU
 	fin: uni0A89
 	ali: ugujarati
 	set: AGL1
-gjUU
+gjUu
 	uni: 0A8A
 	fin: uni0A8A
 	ali: uugujarati
@@ -25869,7 +25794,7 @@ gjE
 	fin: uni0A8F
 	ali: egujarati
 	set: AGL1
-gjAI
+gjAi
 	uni: 0A90
 	fin: uni0A90
 	ali: aigujarati
@@ -25884,7 +25809,7 @@ gjO
 	fin: uni0A93
 	ali: ogujarati
 	set: AGL1
-gjAU
+gjAu
 	uni: 0A94
 	fin: uni0A94
 	ali: augujarati
@@ -26067,7 +25992,7 @@ gjNukta
 gjAvagraha
 	uni: 0ABD
 	fin: uni0ABD
-gjAAsign
+gjAasign
 	uni: 0ABE
 	fin: uni0ABE
 	ali: aavowelsigngujarati
@@ -26077,7 +26002,7 @@ gjIsign
 	fin: uni0ABF
 	ali: ivowelsigngujarati
 	set: AGL1
-gjIIsign
+gjIisign
 	uni: 0AC0
 	fin: uni0AC0
 	ali: iivowelsigngujarati
@@ -26087,7 +26012,7 @@ gjUsign
 	fin: uni0AC1
 	ali: uvowelsigngujarati
 	set: AGL1
-gjUUsign
+gjUusign
 	uni: 0AC2
 	fin: uni0AC2
 	ali: uuvowelsigngujarati
@@ -26097,7 +26022,7 @@ gjRvocalsign
 	fin: uni0AC3
 	ali: rvocalicvowelsigngujarati
 	set: AGL1
-gjRRvocalsign
+gjRrvocalsign
 	uni: 0AC4
 	fin: uni0AC4
 	ali: rrvocalicvowelsigngujarati
@@ -26112,7 +26037,7 @@ gjEsign
 	fin: uni0AC7
 	ali: evowelsigngujarati
 	set: AGL1
-gjAIsign
+gjAisign
 	uni: 0AC8
 	fin: uni0AC8
 	ali: aivowelsigngujarati
@@ -26127,7 +26052,7 @@ gjOsign
 	fin: uni0ACB
 	ali: ovowelsigngujarati
 	set: AGL1
-gjAUsign
+gjAusign
 	uni: 0ACC
 	fin: uni0ACC
 	ali: auvowelsigngujarati
@@ -26142,18 +26067,18 @@ gjOm
 	fin: uni0AD0
 	ali: omgujarati
 	set: AGL1
-gjRRvocal
+gjRrvocal
 	uni: 0AE0
 	fin: uni0AE0
 	ali: rrvocalicgujarati
 	set: AGL1
-gjLLvocal
+gjLlvocal
 	uni: 0AE1
 	fin: uni0AE1
 gjLvocalsign
 	uni: 0AE2
 	fin: uni0AE2
-gjLLvocalsign
+gjLlvocalsign
 	uni: 0AE3
 	fin: uni0AE3
 gjZero
@@ -26209,274 +26134,318 @@ gjNine
 gjRupee
 	uni: 0AF1
 	fin: uni0AF1
-orCandrabindu
+gjReph
+	fin: uni0AB00ACD
+gjRakar
+	fin: uni0ACD0AB0
+gjRephAnusvara
+	fin: uni0AB00ACD0AB2
+gjIsignReph
+	fin: uni0ABF0AB00ACD
+gjIsignRephAnusvara
+	fin: uni0ABF0AB00ACD0AB2
+gjIisignReph
+	fin: uni0AC00AB00ACD
+gjIisignRephAnusvara
+	fin: uni0AC00AB00ACD0AB2
+gjEcandrasignReph
+	fin: uni0AC50AB00ACD
+gjEcandrasignRephAnusvara
+	fin: uni0AC50AB00ACD0AB2
+gjEsignReph
+	fin: uni0AC70AB00ACD
+gjEsignRephAnusvara
+	fin: uni0AC70AB00ACD0AB2
+gjAisignReph
+	fin: uni0AC80AB00ACD
+gjAisignRephAnusvara
+	fin: uni0AC80AB00ACD0AB2
+gjOcandrasignReph
+	fin: uni0AC90AB00ACD
+gjOcandrasignRephAnusvara
+	fin: uni0AC90AB00ACD0AB2
+gjOsignReph
+	fin: uni0ACB0AB00ACD
+gjOsignRephAnusvara
+	fin: uni0ACB0AB00ACD0AB2
+gjAusignReph
+	fin: uni0ACC0AB00ACD
+gjAusignRephAnusvara
+	fin: uni0ACC0AB00ACD0AB2
+gjRakarU
+	fin: uni0ACD0AB00AC1
+	ali: gjRakarUsign
+gjRakarUu
+	fin: uni0ACD0AB00AC2
+	ali: gjRakarUusign
+odCandrabindu
 	uni: 0B01
 	fin: uni0B01
-orAnusvara
+odAnusvara
 	uni: 0B02
 	fin: uni0B02
-orVisarga
+odVisarga
 	uni: 0B03
 	fin: uni0B03
-orA
+odA
 	uni: 0B05
 	fin: uni0B05
-orAA
+odAa
 	uni: 0B06
 	fin: uni0B06
-orI
+odI
 	uni: 0B07
 	fin: uni0B07
-orII
+odIi
 	uni: 0B08
 	fin: uni0B08
-orU
+odU
 	uni: 0B09
 	fin: uni0B09
-orUU
+odUu
 	uni: 0B0A
 	fin: uni0B0A
-orRvocal
+odRvocal
 	uni: 0B0B
 	fin: uni0B0B
-orLvocal
+odLvocal
 	uni: 0B0C
 	fin: uni0B0C
-orE
+odE
 	uni: 0B0F
 	fin: uni0B0F
-orAI
+odAi
 	uni: 0B10
 	fin: uni0B10
-orO
+odO
 	uni: 0B13
 	fin: uni0B13
-orAU
+odAu
 	uni: 0B14
 	fin: uni0B14
-orKa
+odKa
 	uni: 0B15
 	fin: uni0B15
-orKha
+odKha
 	uni: 0B16
 	fin: uni0B16
-orGa
+odGa
 	uni: 0B17
 	fin: uni0B17
-orGha
+odGha
 	uni: 0B18
 	fin: uni0B18
-orNga
+odNga
 	uni: 0B19
 	fin: uni0B19
-orCa
+odCa
 	uni: 0B1A
 	fin: uni0B1A
-orCha
+odCha
 	uni: 0B1B
 	fin: uni0B1B
-orJa
+odJa
 	uni: 0B1C
 	fin: uni0B1C
-orJha
+odJha
 	uni: 0B1D
 	fin: uni0B1D
-orNya
+odNya
 	uni: 0B1E
 	fin: uni0B1E
-orTta
+odTta
 	uni: 0B1F
 	fin: uni0B1F
-orTtha
+odTtha
 	uni: 0B20
 	fin: uni0B20
-orDda
+odDda
 	uni: 0B21
 	fin: uni0B21
-orDdha
+odDdha
 	uni: 0B22
 	fin: uni0B22
-orNna
+odNna
 	uni: 0B23
 	fin: uni0B23
-orTa
+odTa
 	uni: 0B24
 	fin: uni0B24
-orTha
+odTha
 	uni: 0B25
 	fin: uni0B25
-orDa
+odDa
 	uni: 0B26
 	fin: uni0B26
-orDha
+odDha
 	uni: 0B27
 	fin: uni0B27
-orNa
+odNa
 	uni: 0B28
 	fin: uni0B28
-orPa
+odPa
 	uni: 0B2A
 	fin: uni0B2A
-orPha
+odPha
 	uni: 0B2B
 	fin: uni0B2B
-orBa
+odBa
 	uni: 0B2C
 	fin: uni0B2C
-orBha
+odBha
 	uni: 0B2D
 	fin: uni0B2D
-orMa
+odMa
 	uni: 0B2E
 	fin: uni0B2E
-orYa
+odYa
 	uni: 0B2F
 	fin: uni0B2F
-orRa
+odRa
 	uni: 0B30
 	fin: uni0B30
-orLa
+odLa
 	uni: 0B32
 	fin: uni0B32
-orLla
+odLla
 	uni: 0B33
 	fin: uni0B33
-orVa
+odVa
 	uni: 0B35
 	fin: uni0B35
-orSha
+odSha
 	uni: 0B36
 	fin: uni0B36
-orSsa
+odSsa
 	uni: 0B37
 	fin: uni0B37
-orSa
+odSa
 	uni: 0B38
 	fin: uni0B38
-orHa
+odHa
 	uni: 0B39
 	fin: uni0B39
-orNukta
+odNukta
 	uni: 0B3C
 	fin: uni0B3C
-orAvagraha
+odAvagraha
 	uni: 0B3D
 	fin: uni0B3D
-orAAsign
+odAasign
 	uni: 0B3E
 	fin: uni0B3E
-orIsign
+odIsign
 	uni: 0B3F
 	fin: uni0B3F
-orIIsign
+odIisign
 	uni: 0B40
 	fin: uni0B40
-orUsign
+odUsign
 	uni: 0B41
 	fin: uni0B41
-orUUsign
+odUusign
 	uni: 0B42
 	fin: uni0B42
-orRvocalsign
+odRvocalsign
 	uni: 0B43
 	fin: uni0B43
-orRRvocalsign
+odRrvocalsign
 	uni: 0B44
 	fin: uni0B44
-orEsign
+odEsign
 	uni: 0B47
 	fin: uni0B47
-orAIsign
+odAisign
 	uni: 0B48
 	fin: uni0B48
-orOsign
+odOsign
 	uni: 0B4B
 	fin: uni0B4B
-orAUsign
+odAusign
 	uni: 0B4C
 	fin: uni0B4C
-orVirama
+odVirama
 	uni: 0B4D
 	fin: uni0B4D
-orAIlength
+odAilength
 	uni: 0B56
 	fin: uni0B56
-orAUlength
+odAulength
 	uni: 0B57
 	fin: uni0B57
-orRra
+odRra
 	uni: 0B5C
 	fin: uni0B5C
-orRha
+odRha
 	uni: 0B5D
 	fin: uni0B5D
-orYya
+odYya
 	uni: 0B5F
 	fin: uni0B5F
-orRRvocal
+odRrvocal
 	uni: 0B60
 	fin: uni0B60
-orLLvocal
+odLlvocal
 	uni: 0B61
 	fin: uni0B61
-orLvocalsign
+odLvocalsign
 	uni: 0B62
 	fin: uni0B62
-orLLvocalsign
+odLlvocalsign
 	uni: 0B63
 	fin: uni0B63
-orZero
+odZero
 	uni: 0B66
 	fin: uni0B66
-orOne
+odOne
 	uni: 0B67
 	fin: uni0B67
-orTwo
+odTwo
 	uni: 0B68
 	fin: uni0B68
-orThree
+odThree
 	uni: 0B69
 	fin: uni0B69
-orFour
+odFour
 	uni: 0B6A
 	fin: uni0B6A
-orFive
+odFive
 	uni: 0B6B
 	fin: uni0B6B
-orSix
+odSix
 	uni: 0B6C
 	fin: uni0B6C
-orSeven
+odSeven
 	uni: 0B6D
 	fin: uni0B6D
-orEight
+odEight
 	uni: 0B6E
 	fin: uni0B6E
-orNine
+odNine
 	uni: 0B6F
 	fin: uni0B6F
-orIsshar
+odIsshar
 	uni: 0B70
 	fin: uni0B70
-orWa
+odWa
 	uni: 0B71
 	fin: uni0B71
-orOneQuarter
+odOneQuarter
 	uni: 0B72
 	fin: uni0B72
-orOneHalf
+odOneHalf
 	uni: 0B73
 	fin: uni0B73
-orThreequarters
+odThreequarters
 	uni: 0B74
 	fin: uni0B74
-orOneSixteenth
+odOneSixteenth
 	uni: 0B75
 	fin: uni0B75
-orOneEighth
+odOneEighth
 	uni: 0B76
 	fin: uni0B76
-orThreesixteenths
+odThreesixteenths
 	uni: 0B77
 	fin: uni0B77
 taAnusvara
@@ -26488,37 +26457,37 @@ taVisarga
 taA
 	uni: 0B85
 	fin: uni0B85
-taAA
+taAa
 	uni: 0B86
 	fin: uni0B86
 taI
 	uni: 0B87
 	fin: uni0B87
-taII
+taIi
 	uni: 0B88
 	fin: uni0B88
 taU
 	uni: 0B89
 	fin: uni0B89
-taUU
+taUu
 	uni: 0B8A
 	fin: uni0B8A
 taE
 	uni: 0B8E
 	fin: uni0B8E
-taEE
+taEe
 	uni: 0B8F
 	fin: uni0B8F
-taAI
+taAi
 	uni: 0B90
 	fin: uni0B90
 taO
 	uni: 0B92
 	fin: uni0B92
-taOO
+taOo
 	uni: 0B93
 	fin: uni0B93
-taAU
+taAu
 	uni: 0B94
 	fin: uni0B94
 taKa
@@ -26590,37 +26559,37 @@ taSa
 taHa
 	uni: 0BB9
 	fin: uni0BB9
-taAAsign
+taAasign
 	uni: 0BBE
 	fin: uni0BBE
 taIsign
 	uni: 0BBF
 	fin: uni0BBF
-taIIsign
+taIisign
 	uni: 0BC0
 	fin: uni0BC0
 taUsign
 	uni: 0BC1
 	fin: uni0BC1
-taUUsign
+taUusign
 	uni: 0BC2
 	fin: uni0BC2
 taEsign
 	uni: 0BC6
 	fin: uni0BC6
-taEEsign
+taEesign
 	uni: 0BC7
 	fin: uni0BC7
-taAIsign
+taAisign
 	uni: 0BC8
 	fin: uni0BC8
 taOsign
 	uni: 0BCA
 	fin: uni0BCA
-taOOsign
+taOosign
 	uni: 0BCB
 	fin: uni0BCB
-taAUsign
+taAusign
 	uni: 0BCC
 	fin: uni0BCC
 taVirama
@@ -26629,7 +26598,7 @@ taVirama
 taOm
 	uni: 0BD0
 	fin: uni0BD0
-taAUlength
+taAulength
 	uni: 0BD7
 	fin: uni0BD7
 taZero
@@ -26707,19 +26676,19 @@ teVisarga
 teA
 	uni: 0C05
 	fin: uni0C05
-teAA
+teAa
 	uni: 0C06
 	fin: uni0C06
 teI
 	uni: 0C07
 	fin: uni0C07
-teII
+teIi
 	uni: 0C08
 	fin: uni0C08
 teU
 	uni: 0C09
 	fin: uni0C09
-teUU
+teUu
 	uni: 0C0A
 	fin: uni0C0A
 teRvocal
@@ -26731,19 +26700,19 @@ teLvocal
 teE
 	uni: 0C0E
 	fin: uni0C0E
-teEE
+teEe
 	uni: 0C0F
 	fin: uni0C0F
-teAI
+teAi
 	uni: 0C10
 	fin: uni0C10
 teO
 	uni: 0C12
 	fin: uni0C12
-teOO
+teOo
 	uni: 0C13
 	fin: uni0C13
-teAU
+teAu
 	uni: 0C14
 	fin: uni0C14
 teKa
@@ -26854,43 +26823,43 @@ teHa
 teAvagraha
 	uni: 0C3D
 	fin: uni0C3D
-teAAsign
+teAasign
 	uni: 0C3E
 	fin: uni0C3E
 teIsign
 	uni: 0C3F
 	fin: uni0C3F
-teIIsign
+teIisign
 	uni: 0C40
 	fin: uni0C40
 teUsign
 	uni: 0C41
 	fin: uni0C41
-teUUsign
+teUusign
 	uni: 0C42
 	fin: uni0C42
 teRvocalsign
 	uni: 0C43
 	fin: uni0C43
-teRRvocalsign
+teRrvocalsign
 	uni: 0C44
 	fin: uni0C44
 teEsign
 	uni: 0C46
 	fin: uni0C46
-teEEsign
+teEesign
 	uni: 0C47
 	fin: uni0C47
-teAIsign
+teAisign
 	uni: 0C48
 	fin: uni0C48
 teOsign
 	uni: 0C4A
 	fin: uni0C4A
-teOOsign
+teOosign
 	uni: 0C4B
 	fin: uni0C4B
-teAUsign
+teAusign
 	uni: 0C4C
 	fin: uni0C4C
 teVirama
@@ -26899,7 +26868,7 @@ teVirama
 teLength
 	uni: 0C55
 	fin: uni0C55
-teAIlength
+teAilength
 	uni: 0C56
 	fin: uni0C56
 teTsa
@@ -26908,16 +26877,16 @@ teTsa
 teDza
 	uni: 0C59
 	fin: uni0C59
-teRRvocal
+teRrvocal
 	uni: 0C60
 	fin: uni0C60
-teLLvocal
+teLlvocal
 	uni: 0C61
 	fin: uni0C61
 teLvocalsign
 	uni: 0C62
 	fin: uni0C62
-teLLvocalsign
+teLlvocalsign
 	uni: 0C63
 	fin: uni0C63
 teZero
@@ -26983,19 +26952,19 @@ knVisarga
 knA
 	uni: 0C85
 	fin: uni0C85
-knAA
+knAa
 	uni: 0C86
 	fin: uni0C86
 knI
 	uni: 0C87
 	fin: uni0C87
-knII
+knIi
 	uni: 0C88
 	fin: uni0C88
 knU
 	uni: 0C89
 	fin: uni0C89
-knUU
+knUu
 	uni: 0C8A
 	fin: uni0C8A
 knRvocal
@@ -27007,19 +26976,19 @@ knLvocal
 knE
 	uni: 0C8E
 	fin: uni0C8E
-knEE
+knEe
 	uni: 0C8F
 	fin: uni0C8F
-knAI
+knAi
 	uni: 0C90
 	fin: uni0C90
 knO
 	uni: 0C92
 	fin: uni0C92
-knOO
+knOo
 	uni: 0C93
 	fin: uni0C93
-knAU
+knAu
 	uni: 0C94
 	fin: uni0C94
 knKa
@@ -27133,43 +27102,43 @@ knNukta
 knAvagraha
 	uni: 0CBD
 	fin: uni0CBD
-knAAsign
+knAasign
 	uni: 0CBE
 	fin: uni0CBE
 knIsign
 	uni: 0CBF
 	fin: uni0CBF
-knIIsign
+knIisign
 	uni: 0CC0
 	fin: uni0CC0
 knUsign
 	uni: 0CC1
 	fin: uni0CC1
-knUUsign
+knUusign
 	uni: 0CC2
 	fin: uni0CC2
 knRvocalsign
 	uni: 0CC3
 	fin: uni0CC3
-knRRvocalsign
+knRrvocalsign
 	uni: 0CC4
 	fin: uni0CC4
 knEsign
 	uni: 0CC6
 	fin: uni0CC6
-knEEsign
+knEesign
 	uni: 0CC7
 	fin: uni0CC7
-knAIsign
+knAisign
 	uni: 0CC8
 	fin: uni0CC8
 knOsign
 	uni: 0CCA
 	fin: uni0CCA
-knOOsign
+knOosign
 	uni: 0CCB
 	fin: uni0CCB
-knAUsign
+knAusign
 	uni: 0CCC
 	fin: uni0CCC
 knVirama
@@ -27178,22 +27147,22 @@ knVirama
 knLength
 	uni: 0CD5
 	fin: uni0CD5
-knAIlength
+knAilength
 	uni: 0CD6
 	fin: uni0CD6
 knFa
 	uni: 0CDE
 	fin: uni0CDE
-knRRvocal
+knRrvocal
 	uni: 0CE0
 	fin: uni0CE0
-knLLvocal
+knLlvocal
 	uni: 0CE1
 	fin: uni0CE1
 knLvocalsign
 	uni: 0CE2
 	fin: uni0CE2
-knLLvocalsign
+knLlvocalsign
 	uni: 0CE3
 	fin: uni0CE3
 knZero
@@ -27241,19 +27210,19 @@ mlVisarga
 mlA
 	uni: 0D05
 	fin: uni0D05
-mlAA
+mlAa
 	uni: 0D06
 	fin: uni0D06
 mlI
 	uni: 0D07
 	fin: uni0D07
-mlII
+mlIi
 	uni: 0D08
 	fin: uni0D08
 mlU
 	uni: 0D09
 	fin: uni0D09
-mlUU
+mlUu
 	uni: 0D0A
 	fin: uni0D0A
 mlRvocal
@@ -27265,19 +27234,19 @@ mlLvocal
 mlE
 	uni: 0D0E
 	fin: uni0D0E
-mlEE
+mlEe
 	uni: 0D0F
 	fin: uni0D0F
-mlAI
+mlAi
 	uni: 0D10
 	fin: uni0D10
 mlO
 	uni: 0D12
 	fin: uni0D12
-mlOO
+mlOo
 	uni: 0D13
 	fin: uni0D13
-mlAU
+mlAu
 	uni: 0D14
 	fin: uni0D14
 mlKa
@@ -27397,43 +27366,43 @@ mlTtta
 mlAvagraha
 	uni: 0D3D
 	fin: uni0D3D
-mlAAsign
+mlAasign
 	uni: 0D3E
 	fin: uni0D3E
 mlIsign
 	uni: 0D3F
 	fin: uni0D3F
-mlIIsign
+mlIisign
 	uni: 0D40
 	fin: uni0D40
 mlUsign
 	uni: 0D41
 	fin: uni0D41
-mlUUsign
+mlUusign
 	uni: 0D42
 	fin: uni0D42
 mlRvocalsign
 	uni: 0D43
 	fin: uni0D43
-mlRRvocalsign
+mlRrvocalsign
 	uni: 0D44
 	fin: uni0D44
 mlEsign
 	uni: 0D46
 	fin: uni0D46
-mlEEsign
+mlEesign
 	uni: 0D47
 	fin: uni0D47
-mlAIsign
+mlAisign
 	uni: 0D48
 	fin: uni0D48
 mlOsign
 	uni: 0D4A
 	fin: uni0D4A
-mlOOsign
+mlOosign
 	uni: 0D4B
 	fin: uni0D4B
-mlAUsign
+mlAusign
 	uni: 0D4C
 	fin: uni0D4C
 mlVirama
@@ -27442,19 +27411,19 @@ mlVirama
 mlRephdot
 	uni: 0D4E
 	fin: uni0D4E
-mlAUlength
+mlAulength
 	uni: 0D57
 	fin: uni0D57
-mlRRvocal
+mlRrvocal
 	uni: 0D60
 	fin: uni0D60
-mlLLvocal
+mlLlvocal
 	uni: 0D61
 	fin: uni0D61
 mlLvocalsign
 	uni: 0D62
 	fin: uni0D62
-mlLLvocalsign
+mlLlvocalsign
 	uni: 0D63
 	fin: uni0D63
 mlZero
@@ -27508,19 +27477,19 @@ mlThreeQuarters
 mlDate
 	uni: 0D79
 	fin: uni0D79
-mlNNchillu
+mlNnchillu
 	uni: 0D7A
 	fin: uni0D7A
 mlNchillu
 	uni: 0D7B
 	fin: uni0D7B
-mlRRchillu
+mlRrchillu
 	uni: 0D7C
 	fin: uni0D7C
 mlLchillu
 	uni: 0D7D
 	fin: uni0D7D
-mlLLchillu
+mlLlchillu
 	uni: 0D7E
 	fin: uni0D7E
 mlKchillu
@@ -27535,55 +27504,55 @@ siVisarga
 siA
 	uni: 0D85
 	fin: uni0D85
-siAA
+siAa
 	uni: 0D86
 	fin: uni0D86
-siAE
+siAe
 	uni: 0D87
 	fin: uni0D87
-siAAE
+siAaE
 	uni: 0D88
 	fin: uni0D88
 siI
 	uni: 0D89
 	fin: uni0D89
-siII
+siIi
 	uni: 0D8A
 	fin: uni0D8A
 siU
 	uni: 0D8B
 	fin: uni0D8B
-siUU
+siUu
 	uni: 0D8C
 	fin: uni0D8C
 siRvocal
 	uni: 0D8D
 	fin: uni0D8D
-siRRvocal
+siRrvocal
 	uni: 0D8E
 	fin: uni0D8E
 siLvocal
 	uni: 0D8F
 	fin: uni0D8F
-siLLvocal
+siLlvocal
 	uni: 0D90
 	fin: uni0D90
 siE
 	uni: 0D91
 	fin: uni0D91
-siEE
+siEe
 	uni: 0D92
 	fin: uni0D92
-siAI
+siAi
 	uni: 0D93
 	fin: uni0D93
 siO
 	uni: 0D94
 	fin: uni0D94
-siOO
+siOo
 	uni: 0D95
 	fin: uni0D95
-siAU
+siAu
 	uni: 0D96
 	fin: uni0D96
 siKa
@@ -27712,25 +27681,25 @@ siFa
 siVirama
 	uni: 0DCA
 	fin: uni0DCA
-siAAsign
+siAasign
 	uni: 0DCF
 	fin: uni0DCF
-siAEsign
+siAesign
 	uni: 0DD0
 	fin: uni0DD0
-siAAEsign
+siAaEsign
 	uni: 0DD1
 	fin: uni0DD1
 siIsign
 	uni: 0DD2
 	fin: uni0DD2
-siIIsign
+siIisign
 	uni: 0DD3
 	fin: uni0DD3
 siUsign
 	uni: 0DD4
 	fin: uni0DD4
-siUUsign
+siUusign
 	uni: 0DD6
 	fin: uni0DD6
 siRvocalsign
@@ -27739,28 +27708,28 @@ siRvocalsign
 siEsign
 	uni: 0DD9
 	fin: uni0DD9
-siEEsign
+siEesign
 	uni: 0DDA
 	fin: uni0DDA
-siAIsign
+siAisign
 	uni: 0DDB
 	fin: uni0DDB
 siOsign
 	uni: 0DDC
 	fin: uni0DDC
-siOOsign
+siOosign
 	uni: 0DDD
 	fin: uni0DDD
-siAUsign
+siAusign
 	uni: 0DDE
 	fin: uni0DDE
 siLvocalsign
 	uni: 0DDF
 	fin: uni0DDF
-siRRvocalsign
+siRrvocalsign
 	uni: 0DF2
 	fin: uni0DF2
-siLLvocalsign
+siLlvocalsign
 	uni: 0DF3
 	fin: uni0DF3
 siKunddaliya
@@ -27778,4 +27747,2486 @@ svastirightdot
 svastileftdot
 	uni: 0FD8
 	fin: uni0FD8
-
+Amacronbreve
+	fin: uni01000306
+Gmacronbelow
+	fin: uni00470331
+Gdotbelow
+	fin: uni00470323
+Hdieresisbelow
+	fin: uni00480324
+Hmacronbelow
+	fin: uni00480331
+Ldieresisbelow
+	fin: uni004C0324
+Lringbelow
+	fin: uni004C0325
+Mcandrabindu
+	fin: uni004D0310
+Ncandrabindu
+	fin: uni004E0310
+Rringbelowmacron
+	fin: uni005203250304
+Rbreve
+	fin: uni00520306
+Rringbelow
+	fin: uni00520325
+Sdieresisbelow
+	fin: uni00530324
+Tdieresisbelow
+	fin: uni00540324
+amacronbreve
+	fin: uni01010306
+gmacronbelow
+	fin: uni00670331
+gdotbelow
+	fin: uni00670323
+hdieresisbelow
+	fin: uni00680324
+ldieresisbelow
+	fin: uni006C0324
+lringbelow
+	fin: uni006C0325
+mcandrabindu
+	fin: uni006D0310
+ncandrabindu
+	fin: uni006E0310
+rringbelowmacron
+	fin: uni007203250304
+rbreve
+	fin: uni00720306
+rringbelow
+	fin: uni00720325
+sdieresisbelow
+	fin: uni00730324
+tdieresisbelow
+	fin: uni00740324
+GHmacronbelow
+	fin: uni0047033100480331
+Ghmacronbelow
+	fin: uni0047033100680331
+ghmacronbelow
+	fin: uni0067033100680331
+KHmacronbelow
+	fin: uni004B033100480331
+Khmacronbelow
+	fin: uni004B033100680331
+khmacronbelow
+	fin: uni006B033100680331
+veSvaritadbl
+	uni: 1CDA
+	fin: uni1CDA
+arAlefWaslaPF
+	uni: FB50
+	fin: uniFB50
+arAlefWaslaPF.f
+	uni: FB51
+	fin: uniFB51
+arBeehPF
+	uni: FB52
+	fin: uniFB52
+arBeehPF.f
+	uni: FB53
+	fin: uniFB53
+arBeehPF.i
+	uni: FB54
+	fin: uniFB54
+arBeehPF.m
+	uni: FB55
+	fin: uniFB55
+arPehPF
+	uni: FB56
+	fin: uniFB56
+arBehehPF
+	uni: FB5A
+	fin: uniFB5A
+arBehehPF.f
+	uni: FB5B
+	fin: uniFB5B
+arBehehPF.i
+	uni: FB5C
+	fin: uniFB5C
+arBehehPF.m
+	uni: FB5D
+	fin: uniFB5D
+arTtehehPF
+	uni: FB5E
+	fin: uniFB5E
+arTtehehPF.f
+	uni: FB5F
+	fin: uniFB5F
+arTtehehPF.i
+	uni: FB60
+	fin: uniFB60
+arTtehehPF.m
+	uni: FB61
+	fin: uniFB61
+arTehehPF
+	uni: FB62
+	fin: uniFB62
+arTehehPF.f
+	uni: FB63
+	fin: uniFB63
+arTehehPF.i
+	uni: FB64
+	fin: uniFB64
+arTehehPF.m
+	uni: FB65
+	fin: uniFB65
+arTtehPF
+	uni: FB66
+	fin: uniFB66
+arVehPF
+	uni: FB6A
+	fin: uniFB6A
+arPehehPF
+	uni: FB6E
+	fin: uniFB6E
+arPehehPF.f
+	uni: FB6F
+	fin: uniFB6F
+arPehehPF.i
+	uni: FB70
+	fin: uniFB70
+arPehehPF.m
+	uni: FB71
+	fin: uniFB71
+arDyehPF
+	uni: FB72
+	fin: uniFB72
+arDyehPF.f
+	uni: FB73
+	fin: uniFB73
+arDyehPF.i
+	uni: FB74
+	fin: uniFB74
+arDyehPF.m
+	uni: FB75
+	fin: uniFB75
+arNyehPF
+	uni: FB76
+	fin: uniFB76
+arNyehPF.f
+	uni: FB77
+	fin: uniFB77
+arNyehPF.i
+	uni: FB78
+	fin: uniFB78
+arNyehPF.m
+	uni: FB79
+	fin: uniFB79
+arTchehPF
+	uni: FB7A
+	fin: uniFB7A
+arTchehehPF
+	uni: FB7E
+	fin: uniFB7E
+arTchehehPF.f
+	uni: FB7F
+	fin: uniFB7F
+arTchehehPF.i
+	uni: FB80
+	fin: uniFB80
+arTchehehPF.m
+	uni: FB81
+	fin: uniFB81
+arDdahalPF
+	uni: FB82
+	fin: uniFB82
+arDdahalPF.f
+	uni: FB83
+	fin: uniFB83
+arDahalPF
+	uni: FB84
+	fin: uniFB84
+arDahalPF.f
+	uni: FB85
+	fin: uniFB85
+arDulPF
+	uni: FB86
+	fin: uniFB86
+arDulPF.f
+	uni: FB87
+	fin: uniFB87
+arDdalPF
+	uni: FB88
+	fin: uniFB88
+arJehPF
+	uni: FB8A
+	fin: uniFB8A
+arRrehPF
+	uni: FB8C
+	fin: uniFB8C
+arKehehPF
+	uni: FB8E
+	fin: uniFB8E
+arKehehPF.f
+	uni: FB8F
+	fin: uniFB8F
+arKehehPF.i
+	uni: FB90
+	fin: uniFB90
+arKehehPF.m
+	uni: FB91
+	fin: uniFB91
+arGafPF
+	uni: FB92
+	fin: uniFB92
+arGuehPF
+	uni: FB96
+	fin: uniFB96
+arGuehPF.f
+	uni: FB97
+	fin: uniFB97
+arGuehPF.i
+	uni: FB98
+	fin: uniFB98
+arGuehPF.m
+	uni: FB99
+	fin: uniFB99
+arNgoehPF
+	uni: FB9A
+	fin: uniFB9A
+arNgoehPF.f
+	uni: FB9B
+	fin: uniFB9B
+arNgoehPF.i
+	uni: FB9C
+	fin: uniFB9C
+arNgoehPF.m
+	uni: FB9D
+	fin: uniFB9D
+arNoonGhunnaPF
+	uni: FB9E
+	fin: uniFB9E
+arRnoonPF
+	uni: FBA0
+	fin: uniFBA0
+arRnoonPF.f
+	uni: FBA1
+	fin: uniFBA1
+arRnoonPF.i
+	uni: FBA2
+	fin: uniFBA2
+arRnoonPF.m
+	uni: FBA3
+	fin: uniFBA3
+arHehGoalPF
+	uni: FBA6
+	fin: uniFBA6
+arHehDoachashmeePF
+	uni: FBAA
+	fin: uniFBAA
+arHehDoachashmeePF.f
+	uni: FBAB
+	fin: uniFBAB
+arHehDoachashmeePF.i
+	uni: FBAC
+	fin: uniFBAC
+arHehDoachashmeePF.m
+	uni: FBAD
+	fin: uniFBAD
+arYehBarreePF
+	uni: FBAE
+	fin: uniFBAE
+arYehBarreeHamzaPF
+	uni: FBB0
+	fin: uniFBB0
+arYehBarreeHamzaPF.f
+	uni: FBB1
+	fin: uniFBB1
+arNgPF
+	uni: FBD3
+	fin: uniFBD3
+arNgPF.f
+	uni: FBD4
+	fin: uniFBD4
+arNgPF.i
+	uni: FBD5
+	fin: uniFBD5
+arNgPF.m
+	uni: FBD6
+	fin: uniFBD6
+arUPF
+	uni: FBD7
+	fin: uniFBD7
+arUPF.f
+	uni: FBD8
+	fin: uniFBD8
+arOePF
+	uni: FBD9
+	fin: uniFBD9
+arOePF.f
+	uni: FBDA
+	fin: uniFBDA
+arYuPF
+	uni: FBDB
+	fin: uniFBDB
+arYuPF.f
+	uni: FBDC
+	fin: uniFBDC
+arUHamzaAbovePF
+	uni: FBDD
+	fin: uniFBDD
+arVePF
+	uni: FBDE
+	fin: uniFBDE
+arVePF.f
+	uni: FBDF
+	fin: uniFBDF
+arOeKIRPF
+	uni: FBE0
+	fin: uniFBE0
+arOeKIRPF.f
+	uni: FBE1
+	fin: uniFBE1
+arYuKIRPF
+	uni: FBE2
+	fin: uniFBE2
+arYuKIRPF.f
+	uni: FBE3
+	fin: uniFBE3
+arEPF
+	uni: FBE4
+	fin: uniFBE4
+arEPF.f
+	uni: FBE5
+	fin: uniFBE5
+arEPF.i
+	uni: FBE6
+	fin: uniFBE6
+arEPF.m
+	uni: FBE7
+	fin: uniFBE7
+arAlefMaksuraPF.i
+	uni: FBE8
+	fin: uniFBE8
+arAlefMaksuraPF.m
+	uni: FBE9
+	fin: uniFBE9
+arYehFARPF
+	uni: FBFC
+	fin: uniFBFC
+arYehFARPF.f
+	uni: FBFD
+	fin: uniFBFD
+arYehFARPF.i
+	uni: FBFE
+	fin: uniFBFE
+arYehFARPF.m
+	uni: FBFF
+	fin: uniFBFF
+arFehAlefMaksuraPF
+	uni: FC31
+	fin: uniFC31
+arFehYehPF
+	uni: FC32
+	fin: uniFC32
+arLamAlefMaksuraPF
+	uni: FC43
+	fin: uniFC43
+arLamYehPF
+	uni: FC44
+	fin: uniFC44
+arShaddaAlefAbovePF
+	uni: FC63
+	fin: uniFC63
+arYehHamzaRehPF.f
+	uni: FC64
+	fin: uniFC64
+arYehHamzaNoonPF.f
+	uni: FC67
+	fin: uniFC67
+arBehRehPF.f
+	uni: FC6A
+	fin: uniFC6A
+arTehRehPF.f
+	uni: FC70
+	fin: uniFC70
+arLamAlefMaksuraPF.f
+	uni: FC86
+	fin: uniFC86
+arLamYehPF.f
+	uni: FC87
+	fin: uniFC87
+arSeenAlefMaksuraPF
+	uni: FCFB
+	fin: uniFCFB
+arSeenYehPF
+	uni: FCFC
+	fin: uniFCFC
+arSheenAlefMaksuraPF
+	uni: FCFD
+	fin: uniFCFD
+arSheenYehPF
+	uni: FCFE
+	fin: uniFCFE
+arSadAlefMaksuraPF
+	uni: FD05
+	fin: uniFD05
+arSadYehPF
+	uni: FD06
+	fin: uniFD06
+arDadAlefMaksuraPF
+	uni: FD07
+	fin: uniFD07
+arDadYehPF
+	uni: FD08
+	fin: uniFD08
+arSheenRehPF
+	uni: FD0D
+	fin: uniFD0D
+arSeenRehPF
+	uni: FD0E
+	fin: uniFD0E
+arSadRehPF
+	uni: FD0F
+	fin: uniFD0F
+arDadRehPF
+	uni: FD10
+	fin: uniFD10
+arSeenAlefMaksuraPF.f
+	uni: FD17
+	fin: uniFD17
+arSeenYehPF.f
+	uni: FD18
+	fin: uniFD18
+arSheenAlefMaksuraPF.f
+	uni: FD19
+	fin: uniFD19
+arSheenYehPF.f
+	uni: FD1A
+	fin: uniFD1A
+arSadAlefMaksuraPF.f
+	uni: FD21
+	fin: uniFD21
+arSadYehPF.f
+	uni: FD22
+	fin: uniFD22
+arDadAlefMaksuraPF.f
+	uni: FD23
+	fin: uniFD23
+arDadYehPF.f
+	uni: FD24
+	fin: uniFD24
+arSheenRehPF.f
+	uni: FD29
+	fin: uniFD29
+arSeenRehPF.f
+	uni: FD2A
+	fin: uniFD2A
+arSadRehPF.f
+	uni: FD2B
+	fin: uniFD2B
+arDadRehPF.f
+	uni: FD2C
+	fin: uniFD2C
+arRial
+	uni: FDFC
+	fin: uni063106CC06270644
+arHamzaPF
+	uni: FE80
+	fin: uniFE80
+arAlefMaddaPF
+	uni: FE81
+	fin: uniFE81
+arAlefHamzaPF
+	uni: FE83
+	fin: uniFE83
+arWawHamzaPF
+	uni: FE85
+	fin: uniFE85
+arAlefHamzaBelowPF
+	uni: FE87
+	fin: uniFE87
+arYehHamzaPF
+	uni: FE89
+	fin: uniFE89
+arAlefPF
+	uni: FE8D
+	fin: uniFE8D
+arBehPF
+	uni: FE8F
+	fin: uniFE8F
+arTehMarbutaPF
+	uni: FE93
+	fin: uniFE93
+arTehPF
+	uni: FE95
+	fin: uniFE95
+arThehPF
+	uni: FE99
+	fin: uniFE99
+arJeemPF
+	uni: FE9D
+	fin: uniFE9D
+arHahPF
+	uni: FEA1
+	fin: uniFEA1
+arKhahPF
+	uni: FEA5
+	fin: uniFEA5
+arDalPF
+	uni: FEA9
+	fin: uniFEA9
+arThalPF
+	uni: FEAB
+	fin: uniFEAB
+arRehPF
+	uni: FEAD
+	fin: uniFEAD
+arZainPF
+	uni: FEAF
+	fin: uniFEAF
+arSeenPF
+	uni: FEB1
+	fin: uniFEB1
+arSheenPF
+	uni: FEB5
+	fin: uniFEB5
+arSadPF
+	uni: FEB9
+	fin: uniFEB9
+arDadPF
+	uni: FEBD
+	fin: uniFEBD
+arTahPF
+	uni: FEC1
+	fin: uniFEC1
+arZahPF
+	uni: FEC5
+	fin: uniFEC5
+arAinPF
+	uni: FEC9
+	fin: uniFEC9
+arGhainPF
+	uni: FECD
+	fin: uniFECD
+arFehPF
+	uni: FED1
+	fin: uniFED1
+arQafPF
+	uni: FED5
+	fin: uniFED5
+arKafPF
+	uni: FED9
+	fin: uniFED9
+arLamPF
+	uni: FEDD
+	fin: uniFEDD
+arMeemPF
+	uni: FEE1
+	fin: uniFEE1
+arNoonPF
+	uni: FEE5
+	fin: uniFEE5
+arHehPF
+	uni: FEE9
+	fin: uniFEE9
+arWawPF
+	uni: FEED
+	fin: uniFEED
+arAlefMaksuraPF
+	uni: FEEF
+	fin: uniFEEF
+arYehPF
+	uni: FEF1
+	fin: uniFEF1
+lighthorzbxd
+	uni: 2500
+	fin: uni2500
+	ali: SF100000
+	set: AGL1 AGL2 AGLFN
+heavyhorzbxd
+	uni: 2501
+	fin: uni2501
+lightvertbxd
+	uni: 2502
+	fin: uni2502
+	ali: SF110000
+	set: AGL1 AGL2 AGLFN
+heavyvertbxd
+	uni: 2503
+	fin: uni2503
+lighttrpldashhorzbxd
+	uni: 2504
+	fin: uni2504
+heavytrpldashhorzbxd
+	uni: 2505
+	fin: uni2505
+lighttrpldashvertbxd
+	uni: 2506
+	fin: uni2506
+heavytrpldashvertbxd
+	uni: 2507
+	fin: uni2507
+lightquaddashhorzbxd
+	uni: 2508
+	fin: uni2508
+heavyquaddashhorzbxd
+	uni: 2509
+	fin: uni2509
+lightquaddashvertbxd
+	uni: 250A
+	fin: uni250A
+heavyquaddashvertbxd
+	uni: 250B
+	fin: uni250B
+lightdnrightbxd
+	uni: 250C
+	fin: uni250C
+	ali: SF010000
+	set: AGL1 AGL2 AGLFN
+dnlightrightheavybxd
+	uni: 250D
+	fin: uni250D
+dnheavyrightlightbxd
+	uni: 250E
+	fin: uni250E
+heavydnrightbxd
+	uni: 250F
+	fin: uni250F
+lightdnleftbxd
+	uni: 2510
+	fin: uni2510
+	ali: SF030000
+	set: AGL1 AGL2 AGLFN
+dnlightleftheavybxd
+	uni: 2511
+	fin: uni2511
+dnheavyleftlightbxd
+	uni: 2512
+	fin: uni2512
+heavydnleftbxd
+	uni: 2513
+	fin: uni2513
+lightuprightbxd
+	uni: 2514
+	fin: uni2514
+	ali: SF020000
+	set: AGL1 AGL2 AGLFN
+uplightrightheavybxd
+	uni: 2515
+	fin: uni2515
+upheavyrightlightbxd
+	uni: 2516
+	fin: uni2516
+heavyuprightbxd
+	uni: 2517
+	fin: uni2517
+lightupleftbxd
+	uni: 2518
+	fin: uni2518
+	ali: SF040000
+	set: AGL1 AGL2 AGLFN
+uplightleftheavybxd
+	uni: 2519
+	fin: uni2519
+upheavyleftlightbxd
+	uni: 251A
+	fin: uni251A
+heavyupleftbxd
+	uni: 251B
+	fin: uni251B
+lightvertrightbxd
+	uni: 251C
+	fin: uni251C
+	ali: SF080000
+	set: AGL1 AGL2 AGLFN
+vertlightrightheavybxd
+	uni: 251D
+	fin: uni251D
+upheavyrightdnlightbxd
+	uni: 251E
+	fin: uni251E
+dnheavyrightuplightbxd
+	uni: 251F
+	fin: uni251F
+vertheavyrightlightbxd
+	uni: 2520
+	fin: uni2520
+dnlightrightupheavybxd
+	uni: 2521
+	fin: uni2521
+uplightrightdnheavybxd
+	uni: 2522
+	fin: uni2522
+heavyvertrightbxd
+	uni: 2523
+	fin: uni2523
+lightvertleftbxd
+	uni: 2524
+	fin: uni2524
+	ali: SF090000
+	set: AGL1 AGL2 AGLFN
+vertlightleftheavybxd
+	uni: 2525
+	fin: uni2525
+upheavyleftdnlightbxd
+	uni: 2526
+	fin: uni2526
+dnheavyleftuplightbxd
+	uni: 2527
+	fin: uni2527
+vertheavyleftlightbxd
+	uni: 2528
+	fin: uni2528
+dnlightleftupheavybxd
+	uni: 2529
+	fin: uni2529
+uplightleftdnheavybxd
+	uni: 252A
+	fin: uni252A
+heavyvertleftbxd
+	uni: 252B
+	fin: uni252B
+lightdnhorzbxd
+	uni: 252C
+	fin: uni252C
+	ali: SF060000
+	set: AGL1 AGL2 AGLFN
+leftheavyrightdnlightbxd
+	uni: 252D
+	fin: uni252D
+rightheavyleftdnlightbxd
+	uni: 252E
+	fin: uni252E
+dnlighthorzheavybxd
+	uni: 252F
+	fin: uni252F
+dnheavyhorzlightbxd
+	uni: 2530
+	fin: uni2530
+rightlightleftdnheavybxd
+	uni: 2531
+	fin: uni2531
+leftlightrightdnheavybxd
+	uni: 2532
+	fin: uni2532
+heavydnhorzbxd
+	uni: 2533
+	fin: uni2533
+lightuphorzbxd
+	uni: 2534
+	fin: uni2534
+	ali: SF070000
+	set: AGL1 AGL2 AGLFN
+leftheavyrightuplightbxd
+	uni: 2535
+	fin: uni2535
+rightheavyleftuplightbxd
+	uni: 2536
+	fin: uni2536
+uplighthorzheavybxd
+	uni: 2537
+	fin: uni2537
+upheavyhorzlightbxd
+	uni: 2538
+	fin: uni2538
+rightlightleftupheavybxd
+	uni: 2539
+	fin: uni2539
+leftlightrightupheavybxd
+	uni: 253A
+	fin: uni253A
+heavyuphorzbxd
+	uni: 253B
+	fin: uni253B
+lightverthorzbxd
+	uni: 253C
+	fin: uni253C
+	ali: SF050000
+	set: AGL1 AGL2 AGLFN
+leftheavyrightvertlightbxd
+	uni: 253D
+	fin: uni253D
+rightheavyleftvertlightbxd
+	uni: 253E
+	fin: uni253E
+vertlighthorzheavybxd
+	uni: 253F
+	fin: uni253F
+upheavydnhorzlightbxd
+	uni: 2540
+	fin: uni2540
+dnheavyuphorzlightbxd
+	uni: 2541
+	fin: uni2541
+vertheavyhorzlightbxd
+	uni: 2542
+	fin: uni2542
+leftupheavyrightdnlightbxd
+	uni: 2543
+	fin: uni2543
+rightupheavyleftdnlightbxd
+	uni: 2544
+	fin: uni2544
+leftdnheavyrightuplightbxd
+	uni: 2545
+	fin: uni2545
+rightdnheavyleftuplightbxd
+	uni: 2546
+	fin: uni2546
+dnlightuphorzheavybxd
+	uni: 2547
+	fin: uni2547
+uplightdnhorzheavybxd
+	uni: 2548
+	fin: uni2548
+rightlightleftvertheavybxd
+	uni: 2549
+	fin: uni2549
+leftlightrightvertheavybxd
+	uni: 254A
+	fin: uni254A
+heavyverthorzbxd
+	uni: 254B
+	fin: uni254B
+lightdbldashhorzbxd
+	uni: 254C
+	fin: uni254C
+heavydbldashhorzbxd
+	uni: 254D
+	fin: uni254D
+lightdbldashvertbxd
+	uni: 254E
+	fin: uni254E
+heavydbldashvertbxd
+	uni: 254F
+	fin: uni254F
+dblhorzbxd
+	uni: 2550
+	fin: uni2550
+	ali: SF430000
+	set: AGL1 AGL2 AGLFN
+dblvertbxd
+	uni: 2551
+	fin: uni2551
+	ali: SF240000
+	set: AGL1 AGL2 AGLFN
+dnsngrightdblbxd
+	uni: 2552
+	fin: uni2552
+	ali: SF510000
+	set: AGL1 AGL2 AGLFN
+dndblrightsngbxd
+	uni: 2553
+	fin: uni2553
+	ali: SF520000
+	set: AGL1 AGL2 AGLFN
+dbldnrightbxd
+	uni: 2554
+	fin: uni2554
+	ali: SF390000
+	set: AGL1 AGL2 AGLFN
+dnsngleftdblbxd
+	uni: 2555
+	fin: uni2555
+	ali: SF220000
+	set: AGL1 AGL2 AGLFN
+dndblleftsngbxd
+	uni: 2556
+	fin: uni2556
+	ali: SF210000
+	set: AGL1 AGL2 AGLFN
+dbldnleftbxd
+	uni: 2557
+	fin: uni2557
+	ali: SF250000
+	set: AGL1 AGL2 AGLFN
+upsngrightdblbxd
+	uni: 2558
+	fin: uni2558
+	ali: SF500000
+	set: AGL1 AGL2 AGLFN
+updblrightsngbxd
+	uni: 2559
+	fin: uni2559
+	ali: SF490000
+	set: AGL1 AGL2 AGLFN
+dbluprightbxd
+	uni: 255A
+	fin: uni255A
+	ali: SF380000
+	set: AGL1 AGL2 AGLFN
+upsngleftdblbxd
+	uni: 255B
+	fin: uni255B
+	ali: SF280000
+	set: AGL1 AGL2 AGLFN
+updblleftsngbxd
+	uni: 255C
+	fin: uni255C
+	ali: SF270000
+	set: AGL1 AGL2 AGLFN
+dblupleftbxd
+	uni: 255D
+	fin: uni255D
+	ali: SF260000
+	set: AGL1 AGL2 AGLFN
+vertsngrightdblbxd
+	uni: 255E
+	fin: uni255E
+	ali: SF360000
+	set: AGL1 AGL2 AGLFN
+vertdblrightsngbxd
+	uni: 255F
+	fin: uni255F
+	ali: SF370000
+	set: AGL1 AGL2 AGLFN
+dblvertrightbxd
+	uni: 2560
+	fin: uni2560
+	ali: SF420000
+	set: AGL1 AGL2 AGLFN
+vertsngleftdblbxd
+	uni: 2561
+	fin: uni2561
+	ali: SF190000
+	set: AGL1 AGL2 AGLFN
+vertdblleftsngbxd
+	uni: 2562
+	fin: uni2562
+	ali: SF200000
+	set: AGL1 AGL2 AGLFN
+dblvertleftbxd
+	uni: 2563
+	fin: uni2563
+	ali: SF230000
+	set: AGL1 AGL2 AGLFN
+dnsnghorzdblbxd
+	uni: 2564
+	fin: uni2564
+	ali: SF470000
+	set: AGL1 AGL2 AGLFN
+dndblhorzsngbxd
+	uni: 2565
+	fin: uni2565
+	ali: SF480000
+	set: AGL1 AGL2 AGLFN
+dbldnhorzbxd
+	uni: 2566
+	fin: uni2566
+	ali: SF410000
+	set: AGL1 AGL2 AGLFN
+upsnghorzdblbxd
+	uni: 2567
+	fin: uni2567
+	ali: SF450000
+	set: AGL1 AGL2 AGLFN
+updblhorzsngbxd
+	uni: 2568
+	fin: uni2568
+	ali: SF460000
+	set: AGL1 AGL2 AGLFN
+dbluphorzbxd
+	uni: 2569
+	fin: uni2569
+	ali: SF400000
+	set: AGL1 AGL2 AGLFN
+vertsnghorzdblbxd
+	uni: 256A
+	fin: uni256A
+	ali: SF540000
+	set: AGL1 AGL2 AGLFN
+vertdblhorzsngbxd
+	uni: 256B
+	fin: uni256B
+	ali: SF530000
+	set: AGL1 AGL2 AGLFN
+dblverthorzbxd
+	uni: 256C
+	fin: uni256C
+	ali: SF440000
+	set: AGL1 AGL2 AGLFN
+lightarcdnrightbxd
+	uni: 256D
+	fin: uni256D
+lightarcdnleftbxd
+	uni: 256E
+	fin: uni256E
+lightarcupleftbxd
+	uni: 256F
+	fin: uni256F
+lightarcuprightbxd
+	uni: 2570
+	fin: uni2570
+lightdiaguprightdnleftbxd
+	uni: 2571
+	fin: uni2571
+lightdiagupleftdnrightbxd
+	uni: 2572
+	fin: uni2572
+lightdiagcrossbxd
+	uni: 2573
+	fin: uni2573
+lightleftbxd
+	uni: 2574
+	fin: uni2574
+lightupbxd
+	uni: 2575
+	fin: uni2575
+lightrightbxd
+	uni: 2576
+	fin: uni2576
+lightdnbxd
+	uni: 2577
+	fin: uni2577
+heavyleftbxd
+	uni: 2578
+	fin: uni2578
+heavyupbxd
+	uni: 2579
+	fin: uni2579
+heavyrightbxd
+	uni: 257A
+	fin: uni257A
+heavydnbxd
+	uni: 257B
+	fin: uni257B
+lightleftheavyrightbxd
+	uni: 257C
+	fin: uni257C
+lightupheavydnbxd
+	uni: 257D
+	fin: uni257D
+heavyleftlightrightbxd
+	uni: 257E
+	fin: uni257E
+heavyuplightdnbxd
+	uni: 257F
+	fin: uni257F
+uphalfblock
+	uni: 2580
+	fin: uni2580
+	ali: SF600000 upblock
+	set: AGL1 AGL2 AGLFN
+dneighthblock
+	uni: 2581
+	fin: uni2581
+	ali: BorderLower1 DD011 Flower1l
+dnquarterblock
+	uni: 2582
+	fin: uni2582
+dnthreeeighthsblock
+	uni: 2583
+	fin: uni2583
+dnhalfblock
+	uni: 2584
+	fin: uni2584
+	ali: SF570000 dnblock
+	set: AGL1 AGL2 AGLFN
+dnfiveeighthsblock
+	uni: 2585
+	fin: uni2585
+dnthreequartersblock
+	uni: 2586
+	fin: uni2586
+dnseveneighthsblock
+	uni: 2587
+	fin: uni2587
+fullblock
+	uni: 2588
+	fin: uni2588
+	ali: SF610000 Tile block
+	set: AGL1 AGL2 AGLFN
+leftseveneighthsblock
+	uni: 2589
+	fin: uni2589
+leftthreequartersblock
+	uni: 258A
+	fin: uni258A
+leftfiveeighthsblock
+	uni: 258B
+	fin: uni258B
+lefthalfblock
+	uni: 258C
+	fin: uni258C
+	ali: HalfTile SF580000 lfblock
+	set: AGL1 AGL2 AGLFN
+leftthreeeighthsblock
+	uni: 258D
+	fin: uni258D
+leftquarterblock
+	uni: 258E
+	fin: uni258E
+lefteighthblock
+	uni: 258F
+	fin: uni258F
+	ali: BorderLeftVertical1 DD013 Flower1d
+righthalfblock
+	uni: 2590
+	fin: uni2590
+	ali: SF590000 rtblock
+	set: AGL1 AGL2 AGLFN
+lightshade
+	uni: 2591
+	fin: uni2591
+	ali: SF140000 ltshade shadelight
+	set: AGL1 AGL2 AGLFN
+mediumshade
+	uni: 2592
+	fin: uni2592
+	ali: SF150000 shade shademedium
+	set: AGL1 AGL2 AGLFN
+darkshade
+	uni: 2593
+	fin: uni2593
+	ali: SF160000 dkshade shadedark
+	set: AGL1 AGL2 AGLFN
+upeighthblock
+	uni: 2594
+	fin: uni2594
+	ali: BorderUpper1 DD023
+righteighthblock
+	uni: 2595
+	fin: uni2595
+	ali: BorderRightVertical1 DD030 Flower2dr
+dnleftquadrant
+	uni: 2596
+	fin: uni2596
+dnrightquadrant
+	uni: 2597
+	fin: uni2597
+upleftquadrant
+	uni: 2598
+	fin: uni2598
+upleftdnleftdnrightquadrant
+	uni: 2599
+	fin: uni2599
+upleftdnrightquadrant
+	uni: 259A
+	fin: uni259A
+upleftuprightdnleftquadrant
+	uni: 259B
+	fin: uni259B
+upleftuprightdnrightquadrant
+	uni: 259C
+	fin: uni259C
+uprightquadrant
+	uni: 259D
+	fin: uni259D
+uprightdnleftquadrant
+	uni: 259E
+	fin: uni259E
+uprightdnleftdnrightquadrant
+	uni: 259F
+	fin: uni259F
+undertie
+	uni: 203F
+	fin: uni203F
+questiondbl
+	uni: 2047
+	fin: uni2047
+questionexclam
+	uni: 2048
+	fin: uni2048
+exclamquestion
+	uni: 2049
+	fin: uni2049
+accountof
+	uni: 2100
+	fin: uni2100
+gscriptmath
+	uni: 210A
+	fin: uni210A
+hbarmath
+	uni: 210F
+	fin: uni210F
+Ohminverted
+	uni: 2127
+	fin: uni2127
+oneseventh
+	uni: 2150
+	fin: uni2150
+oneninth
+	uni: 2151
+	fin: uni2151
+onetenth
+	uni: 2152
+	fin: uni2152
+onethousandroman
+	uni: 217F
+	fin: uni217F
+zerothirds
+	uni: 2189
+	fin: uni2189
+zerocircle
+	uni: 24EA
+	fin: uni24EA
+elevencircleblack
+	uni: 24EB
+	fin: uni24EB
+twelvecircleblack
+	uni: 24EC
+	fin: uni24EC
+thirteencircleblack
+	uni: 24ED
+	fin: uni24ED
+fourteencircleblack
+	uni: 24EE
+	fin: uni24EE
+fifteencircleblack
+	uni: 24EF
+	fin: uni24EF
+sixteencircleblack
+	uni: 24F0
+	fin: uni24F0
+seventeencircleblack
+	uni: 24F1
+	fin: uni24F1
+eighteencircleblack
+	uni: 24F2
+	fin: uni24F2
+nineteencircleblack
+	uni: 24F3
+	fin: uni24F3
+twentycircleblack
+	uni: 24F4
+	fin: uni24F4
+onecircledbl
+	uni: 24F5
+	fin: uni24F5
+twocircledbl
+	uni: 24F6
+	fin: uni24F6
+threecircledbl
+	uni: 24F7
+	fin: uni24F7
+fourcircledbl
+	uni: 24F8
+	fin: uni24F8
+fivecircledbl
+	uni: 24F9
+	fin: uni24F9
+sixcircledbl
+	uni: 24FA
+	fin: uni24FA
+sevencircledbl
+	uni: 24FB
+	fin: uni24FB
+eightcircledbl
+	uni: 24FC
+	fin: uni24FC
+ninecircledbl
+	uni: 24FD
+	fin: uni24FD
+tencircledbl
+	uni: 24FE
+	fin: uni24FE
+zerocircleblack
+	uni: 24FF
+	fin: uni24FF
+recycleone
+	uni: 2673
+	fin: uni2673
+recycletwo
+	uni: 2674
+	fin: uni2674
+recyclethree
+	uni: 2675
+	fin: uni2675
+recyclefour
+	uni: 2676
+	fin: uni2676
+recyclefive
+	uni: 2677
+	fin: uni2677
+recyclesix
+	uni: 2678
+	fin: uni2678
+recycleseven
+	uni: 2679
+	fin: uni2679
+warning
+	uni: 26A0
+	fin: uni26A0
+onedingbatblack
+	uni: 2776
+	fin: uni2776
+twodingbatblack
+	uni: 2777
+	fin: uni2777
+threedingbatblack
+	uni: 2778
+	fin: uni2778
+fourdingbatblack
+	uni: 2779
+	fin: uni2779
+fivedingbatblack
+	uni: 277A
+	fin: uni277A
+sixdingbatblack
+	uni: 277B
+	fin: uni277B
+sevendingbatblack
+	uni: 277C
+	fin: uni277C
+eightdingbatblack
+	uni: 277D
+	fin: uni277D
+ninedingbatblack
+	uni: 277E
+	fin: uni277E
+tendingbatblack
+	uni: 277F
+	fin: uni277F
+tencirclesquare
+	uni: 3248
+	fin: uni3248
+twentycirclesquare
+	uni: 3249
+	fin: uni3249
+thirtycirclesquare
+	uni: 324A
+	fin: uni324A
+fourtycirclesquare
+	uni: 324B
+	fin: uni324B
+fiftycirclesquare
+	uni: 324C
+	fin: uni324C
+sixtycirclesquare
+	uni: 324D
+	fin: uni324D
+seventycirclesquare
+	uni: 324E
+	fin: uni324E
+eightycirclesquare
+	uni: 324F
+	fin: uni324F
+partnership
+	uni: 3250
+	fin: uni3250
+twentyonecircle
+	uni: 3251
+	fin: uni3251
+twentytwocircle
+	uni: 3252
+	fin: uni3252
+twentythreecircle
+	uni: 3253
+	fin: uni3253
+twentyfourcircle
+	uni: 3254
+	fin: uni3254
+twentyfivecircle
+	uni: 3255
+	fin: uni3255
+twentysixcircle
+	uni: 3256
+	fin: uni3256
+twentysevencircle
+	uni: 3257
+	fin: uni3257
+twentyeightcircle
+	uni: 3258
+	fin: uni3258
+twentyninecircle
+	uni: 3259
+	fin: uni3259
+thirtycircle
+	uni: 325A
+	fin: uni325A
+thirtyonecircle
+	uni: 325B
+	fin: uni325B
+thirtytwocircle
+	uni: 325C
+	fin: uni325C
+thirtythreecircle
+	uni: 325D
+	fin: uni325D
+thirtyfourcircle
+	uni: 325E
+	fin: uni325E
+thirtyfivecircle
+	uni: 325F
+	fin: uni325F
+thirtysixcircle
+	uni: 32B1
+	fin: uni32B1
+thirtysevencircle
+	uni: 32B2
+	fin: uni32B2
+thirtyeightcircle
+	uni: 32B3
+	fin: uni32B3
+thirtyninecircle
+	uni: 32B4
+	fin: uni32B4
+fourtycircle
+	uni: 32B5
+	fin: uni32B5
+fourtyonecircle
+	uni: 32B6
+	fin: uni32B6
+fourtytwocircle
+	uni: 32B7
+	fin: uni32B7
+fourtythreecircle
+	uni: 32B8
+	fin: uni32B8
+fourtyfourcircle
+	uni: 32B9
+	fin: uni32B9
+fourtyfivecircle
+	uni: 32BA
+	fin: uni32BA
+fourtysixcircle
+	uni: 32BB
+	fin: uni32BB
+fourtysevencircle
+	uni: 32BC
+	fin: uni32BC
+fourtyeightcircle
+	uni: 32BD
+	fin: uni32BD
+fourtyninecircle
+	uni: 32BE
+	fin: uni32BE
+fiftycircle
+	uni: 32BF
+	fin: uni32BF
+Hgfullwidth
+	uni: 32CC
+	fin: uni32CC
+ergfullwidth
+	uni: 32CD
+	fin: uni32CD
+eVfullwidth
+	uni: 32CE
+	fin: uni32CE
+LTDfullwidth
+	uni: 32CF
+	fin: uni32CF
+hPafullwidth
+	uni: 3371
+	fin: uni3371
+dafullwidth
+	uni: 3372
+	fin: uni3372
+AUfullwidth
+	uni: 3373
+	fin: uni3373
+barfullwidth
+	uni: 3374
+	fin: uni3374
+oVfullwidth
+	uni: 3375
+	fin: uni3375
+pcfullwidth
+	uni: 3376
+	fin: uni3376
+dmfullwidth
+	uni: 3377
+	fin: uni3377
+dm2fullwidth
+	uni: 3378
+	fin: uni3378
+dm3fullwidth
+	uni: 3379
+	fin: uni3379
+IUfullwidth
+	uni: 337A
+	fin: uni337A
+infullwidth
+	uni: 33CC
+	fin: uni33CC
+pHfullwidth
+	uni: 33D7
+	fin: uni33D7
+PPMfullwidth
+	uni: 33D9
+	fin: uni33D9
+PRfullwidth
+	uni: 33DA
+	fin: uni33DA
+Vovermfullwidth
+	uni: 33DE
+	fin: uni33DE
+Aovermfullwidth
+	uni: 33DF
+	fin: uni33DF
+galfullwidth
+	uni: 33FF
+	fin: uni33FF
+commavert
+	uni: FE10
+	fin: uniFE10
+colonvert
+	uni: FE13
+	fin: uniFE13
+semicolonvert
+	uni: FE14
+	fin: uniFE14
+exclamvert
+	uni: FE15
+	fin: uniFE15
+questionvert
+	uni: FE16
+	fin: uniFE16
+zerofullstop
+	uni: 1F100
+	fin: u1F100
+zerocomma
+	uni: 1F101
+	fin: u1F101
+onecomma
+	uni: 1F102
+	fin: u1F102
+twocomma
+	uni: 1F103
+	fin: u1F103
+threecomma
+	uni: 1F104
+	fin: u1F104
+fourcomma
+	uni: 1F105
+	fin: u1F105
+fivecomma
+	uni: 1F106
+	fin: u1F106
+sixcomma
+	uni: 1F107
+	fin: u1F107
+sevencomma
+	uni: 1F108
+	fin: u1F108
+eightcomma
+	uni: 1F109
+	fin: u1F109
+ninecomma
+	uni: 1F10A
+	fin: u1F10A
+Aparens
+	uni: 1F110
+	fin: u1F110
+Bparens
+	uni: 1F111
+	fin: u1F111
+Cparens
+	uni: 1F112
+	fin: u1F112
+Dparens
+	uni: 1F113
+	fin: u1F113
+Eparens
+	uni: 1F114
+	fin: u1F114
+Fparens
+	uni: 1F115
+	fin: u1F115
+Gparens
+	uni: 1F116
+	fin: u1F116
+Hparens
+	uni: 1F117
+	fin: u1F117
+Iparens
+	uni: 1F118
+	fin: u1F118
+Jparens
+	uni: 1F119
+	fin: u1F119
+Kparens
+	uni: 1F11A
+	fin: u1F11A
+Lparens
+	uni: 1F11B
+	fin: u1F11B
+Mparens
+	uni: 1F11C
+	fin: u1F11C
+Nparens
+	uni: 1F11D
+	fin: u1F11D
+Oparens
+	uni: 1F11E
+	fin: u1F11E
+Pparens
+	uni: 1F11F
+	fin: u1F11F
+Qparens
+	uni: 1F120
+	fin: u1F120
+Rparens
+	uni: 1F121
+	fin: u1F121
+Sparens
+	uni: 1F122
+	fin: u1F122
+Tparens
+	uni: 1F123
+	fin: u1F123
+Uparens
+	uni: 1F124
+	fin: u1F124
+Vparens
+	uni: 1F125
+	fin: u1F125
+Wparens
+	uni: 1F126
+	fin: u1F126
+Xparens
+	uni: 1F127
+	fin: u1F127
+Yparens
+	uni: 1F128
+	fin: u1F128
+Zparens
+	uni: 1F129
+	fin: u1F129
+Stortoise
+	uni: 1F12A
+	fin: u1F12A
+Citaliccircle
+	uni: 1F12B
+	fin: u1F12B
+Ritaliccircle
+	uni: 1F12C
+	fin: u1F12C
+CDcircle
+	uni: 1F12D
+	fin: u1F12D
+WZcircle
+	uni: 1F12E
+	fin: u1F12E
+Asquare
+	uni: 1F130
+	fin: u1F130
+Bsquare
+	uni: 1F131
+	fin: u1F131
+Csquare
+	uni: 1F132
+	fin: u1F132
+Dsquare
+	uni: 1F133
+	fin: u1F133
+Esquare
+	uni: 1F134
+	fin: u1F134
+Fsquare
+	uni: 1F135
+	fin: u1F135
+Gsquare
+	uni: 1F136
+	fin: u1F136
+Hsquare
+	uni: 1F137
+	fin: u1F137
+Isquare
+	uni: 1F138
+	fin: u1F138
+Jsquare
+	uni: 1F139
+	fin: u1F139
+Ksquare
+	uni: 1F13A
+	fin: u1F13A
+Lsquare
+	uni: 1F13B
+	fin: u1F13B
+Msquare
+	uni: 1F13C
+	fin: u1F13C
+Nsquare
+	uni: 1F13D
+	fin: u1F13D
+Osquare
+	uni: 1F13E
+	fin: u1F13E
+Psquare
+	uni: 1F13F
+	fin: u1F13F
+Qsquare
+	uni: 1F140
+	fin: u1F140
+Rsquare
+	uni: 1F141
+	fin: u1F141
+Ssquare
+	uni: 1F142
+	fin: u1F142
+Tsquare
+	uni: 1F143
+	fin: u1F143
+Usquare
+	uni: 1F144
+	fin: u1F144
+Vsquare
+	uni: 1F145
+	fin: u1F145
+Wsquare
+	uni: 1F146
+	fin: u1F146
+Xsquare
+	uni: 1F147
+	fin: u1F147
+Ysquare
+	uni: 1F148
+	fin: u1F148
+Zsquare
+	uni: 1F149
+	fin: u1F149
+HVsquare
+	uni: 1F14A
+	fin: u1F14A
+MVsquare
+	uni: 1F14B
+	fin: u1F14B
+SDsquare
+	uni: 1F14C
+	fin: u1F14C
+SSsquare
+	uni: 1F14D
+	fin: u1F14D
+PPVsquare
+	uni: 1F14E
+	fin: u1F14E
+WCsquare
+	uni: 1F14F
+	fin: u1F14F
+Acircleblack
+	uni: 1F150
+	fin: u1F150
+Bcircleblack
+	uni: 1F151
+	fin: u1F151
+Ccircleblack
+	uni: 1F152
+	fin: u1F152
+Dcircleblack
+	uni: 1F153
+	fin: u1F153
+Ecircleblack
+	uni: 1F154
+	fin: u1F154
+Fcircleblack
+	uni: 1F155
+	fin: u1F155
+Gcircleblack
+	uni: 1F156
+	fin: u1F156
+Hcircleblack
+	uni: 1F157
+	fin: u1F157
+Icircleblack
+	uni: 1F158
+	fin: u1F158
+Jcircleblack
+	uni: 1F159
+	fin: u1F159
+Kcircleblack
+	uni: 1F15A
+	fin: u1F15A
+Lcircleblack
+	uni: 1F15B
+	fin: u1F15B
+Mcircleblack
+	uni: 1F15C
+	fin: u1F15C
+Ncircleblack
+	uni: 1F15D
+	fin: u1F15D
+Ocircleblack
+	uni: 1F15E
+	fin: u1F15E
+Pcircleblack
+	uni: 1F15F
+	fin: u1F15F
+Qcircleblack
+	uni: 1F160
+	fin: u1F160
+Rcircleblack
+	uni: 1F161
+	fin: u1F161
+Scircleblack
+	uni: 1F162
+	fin: u1F162
+Tcircleblack
+	uni: 1F163
+	fin: u1F163
+Ucircleblack
+	uni: 1F164
+	fin: u1F164
+Vcircleblack
+	uni: 1F165
+	fin: u1F165
+Wcircleblack
+	uni: 1F166
+	fin: u1F166
+Xcircleblack
+	uni: 1F167
+	fin: u1F167
+Ycircleblack
+	uni: 1F168
+	fin: u1F168
+Zcircleblack
+	uni: 1F169
+	fin: u1F169
+commercemark
+	uni: 1F16A
+	fin: u1F16A
+deposeemark
+	uni: 1F16B
+	fin: u1F16B
+Asquareblack
+	uni: 1F170
+	fin: u1F170
+Bsquareblack
+	uni: 1F171
+	fin: u1F171
+Csquareblack
+	uni: 1F172
+	fin: u1F172
+Dsquareblack
+	uni: 1F173
+	fin: u1F173
+Esquareblack
+	uni: 1F174
+	fin: u1F174
+Fsquareblack
+	uni: 1F175
+	fin: u1F175
+Gsquareblack
+	uni: 1F176
+	fin: u1F176
+Hsquareblack
+	uni: 1F177
+	fin: u1F177
+Isquareblack
+	uni: 1F178
+	fin: u1F178
+Jsquareblack
+	uni: 1F179
+	fin: u1F179
+Ksquareblack
+	uni: 1F17A
+	fin: u1F17A
+Lsquareblack
+	uni: 1F17B
+	fin: u1F17B
+Msquareblack
+	uni: 1F17C
+	fin: u1F17C
+Nsquareblack
+	uni: 1F17D
+	fin: u1F17D
+Osquareblack
+	uni: 1F17E
+	fin: u1F17E
+Psquareblack
+	uni: 1F17F
+	fin: u1F17F
+Qsquareblack
+	uni: 1F180
+	fin: u1F180
+Rsquareblack
+	uni: 1F181
+	fin: u1F181
+Ssquareblack
+	uni: 1F182
+	fin: u1F182
+Tsquareblack
+	uni: 1F183
+	fin: u1F183
+Usquareblack
+	uni: 1F184
+	fin: u1F184
+Vsquareblack
+	uni: 1F185
+	fin: u1F185
+Wsquareblack
+	uni: 1F186
+	fin: u1F186
+Xsquareblack
+	uni: 1F187
+	fin: u1F187
+Ysquareblack
+	uni: 1F188
+	fin: u1F188
+Zsquareblack
+	uni: 1F189
+	fin: u1F189
+Pcrossedsquareblack
+	uni: 1F18A
+	fin: u1F18A
+ICsquareblack
+	uni: 1F18B
+	fin: u1F18B
+PAsquareblack
+	uni: 1F18C
+	fin: u1F18C
+SAsquareblack
+	uni: 1F18D
+	fin: u1F18D
+ABsquareblack
+	uni: 1F18E
+	fin: u1F18E
+WCsquareblack
+	uni: 1F18F
+	fin: u1F18F
+DJfullwidth
+	uni: 1F190
+	fin: u1F190
+CLsquare
+	uni: 1F191
+	fin: u1F191
+COOLsquare
+	uni: 1F192
+	fin: u1F192
+FREEsquare
+	uni: 1F193
+	fin: u1F193
+IDsquare
+	uni: 1F194
+	fin: u1F194
+NEWsquare
+	uni: 1F195
+	fin: u1F195
+NGsquare
+	uni: 1F196
+	fin: u1F196
+OKsquare
+	uni: 1F197
+	fin: u1F197
+SOSsquare
+	uni: 1F198
+	fin: u1F198
+UPexclamsquare
+	uni: 1F199
+	fin: u1F199
+VSsquare
+	uni: 1F19A
+	fin: u1F19A
+tiKoKai
+	uni: 0E01
+	fin: uni0E01
+	ali: kokaithai
+	set: AGL1
+tiKhoKhai
+	uni: 0E02
+	fin: uni0E02
+	ali: khokhaithai
+	set: AGL1
+tiKhoKhuat
+	uni: 0E03
+	fin: uni0E03
+	ali: khokhuatthai
+	set: AGL1
+tiKhoKhwai
+	uni: 0E04
+	fin: uni0E04
+	ali: khokhwaithai
+	set: AGL1
+tiKhoKhon
+	uni: 0E05
+	fin: uni0E05
+	ali: khokhonthai
+	set: AGL1
+tiKhoRakhang
+	uni: 0E06
+	fin: uni0E06
+	ali: khorakhangthai
+	set: AGL1
+tiNgoNgu
+	uni: 0E07
+	fin: uni0E07
+	ali: ngonguthai
+	set: AGL1
+tiChoChan
+	uni: 0E08
+	fin: uni0E08
+	ali: chochanthai
+	set: AGL1
+tiChoChing
+	uni: 0E09
+	fin: uni0E09
+	ali: chochingthai
+	set: AGL1
+tiChoChang
+	uni: 0E0A
+	fin: uni0E0A
+	ali: chochangthai
+	set: AGL1
+tiSoSo
+	uni: 0E0B
+	fin: uni0E0B
+	ali: sosothai
+	set: AGL1
+tiChoChoe
+	uni: 0E0C
+	fin: uni0E0C
+	ali: chochoethai
+	set: AGL1
+tiYoYing
+	uni: 0E0D
+	fin: uni0E0D
+	ali: yoyingthai
+	set: AGL1
+tiDoChada
+	uni: 0E0E
+	fin: uni0E0E
+	ali: dochadathai
+	set: AGL1
+tiToPatak
+	uni: 0E0F
+	fin: uni0E0F
+	ali: topatakthai
+	set: AGL1
+tiThoThan
+	uni: 0E10
+	fin: uni0E10
+	ali: thothanthai
+	set: AGL1
+tiThoNangmontho
+	uni: 0E11
+	fin: uni0E11
+	ali: thonangmonthothai
+	set: AGL1
+tiThoPhuthao
+	uni: 0E12
+	fin: uni0E12
+	ali: thophuthaothai
+	set: AGL1
+tiNoNen
+	uni: 0E13
+	fin: uni0E13
+	ali: nonenthai
+	set: AGL1
+tiDoDek
+	uni: 0E14
+	fin: uni0E14
+	ali: dodekthai
+	set: AGL1
+tiToTao
+	uni: 0E15
+	fin: uni0E15
+	ali: totaothai
+	set: AGL1
+tiThoThung
+	uni: 0E16
+	fin: uni0E16
+	ali: thothungthai
+	set: AGL1
+tiThoThahan
+	uni: 0E17
+	fin: uni0E17
+	ali: thothahanthai
+	set: AGL1
+tiThoThong
+	uni: 0E18
+	fin: uni0E18
+	ali: thothongthai
+	set: AGL1
+tiNoNu
+	uni: 0E19
+	fin: uni0E19
+	ali: nonuthai
+	set: AGL1
+tiBoBaimai
+	uni: 0E1A
+	fin: uni0E1A
+	ali: bobaimaithai
+	set: AGL1
+tiPoPla
+	uni: 0E1B
+	fin: uni0E1B
+	ali: poplathai
+	set: AGL1
+tiPhoPhung
+	uni: 0E1C
+	fin: uni0E1C
+	ali: phophungthai
+	set: AGL1
+tiFoFa
+	uni: 0E1D
+	fin: uni0E1D
+	ali: fofathai
+	set: AGL1
+tiPhoPhan
+	uni: 0E1E
+	fin: uni0E1E
+	ali: phophanthai
+	set: AGL1
+tiFoFan
+	uni: 0E1F
+	fin: uni0E1F
+	ali: fofanthai
+	set: AGL1
+tiPhoSamphao
+	uni: 0E20
+	fin: uni0E20
+	ali: phosamphaothai
+	set: AGL1
+tiMoMa
+	uni: 0E21
+	fin: uni0E21
+	ali: momathai
+	set: AGL1
+tiYoYak
+	uni: 0E22
+	fin: uni0E22
+	ali: yoyakthai
+	set: AGL1
+tiRoRua
+	uni: 0E23
+	fin: uni0E23
+	ali: roruathai
+	set: AGL1
+tiRu
+	uni: 0E24
+	fin: uni0E24
+	ali: ruthai
+	set: AGL1
+tiLoLing
+	uni: 0E25
+	fin: uni0E25
+	ali: lolingthai
+	set: AGL1
+tiLu
+	uni: 0E26
+	fin: uni0E26
+	ali: luthai
+	set: AGL1
+tiWoWaen
+	uni: 0E27
+	fin: uni0E27
+	ali: wowaenthai
+	set: AGL1
+tiSoSala
+	uni: 0E28
+	fin: uni0E28
+	ali: sosalathai
+	set: AGL1
+tiSoRusi
+	uni: 0E29
+	fin: uni0E29
+	ali: sorusithai
+	set: AGL1
+tiSoSua
+	uni: 0E2A
+	fin: uni0E2A
+	ali: sosuathai
+	set: AGL1
+tiHoHip
+	uni: 0E2B
+	fin: uni0E2B
+	ali: hohipthai
+	set: AGL1
+tiLoChula
+	uni: 0E2C
+	fin: uni0E2C
+	ali: lochulathai
+	set: AGL1
+tiOAng
+	uni: 0E2D
+	fin: uni0E2D
+	ali: oangthai
+	set: AGL1
+tiHoNokHuk
+	uni: 0E2E
+	fin: uni0E2E
+	ali: honokhukthai
+	set: AGL1
+tiPaiyanNoi
+	uni: 0E2F
+	fin: uni0E2F
+	ali: paiyannoithai
+	set: AGL1
+tiSaraA
+	uni: 0E30
+	fin: uni0E30
+	ali: saraathai
+	set: AGL1
+tiMaiHanAkat
+	uni: 0E31
+	fin: uni0E31
+	ali: maihanakatthai
+	set: AGL1
+tiSaraAa
+	uni: 0E32
+	fin: uni0E32
+	ali: saraaathai
+	set: AGL1
+tiSaraAm
+	uni: 0E33
+	fin: uni0E33
+	ali: saraamthai
+	set: AGL1
+tiSaraI
+	uni: 0E34
+	fin: uni0E34
+	ali: saraithai
+	set: AGL1
+tiSaraIi
+	uni: 0E35
+	fin: uni0E35
+	ali: saraiithai
+	set: AGL1
+tiSaraUe
+	uni: 0E36
+	fin: uni0E36
+	ali: sarauethai
+	set: AGL1
+tiSaraUee
+	uni: 0E37
+	fin: uni0E37
+	ali: saraueethai
+	set: AGL1
+tiSaraU
+	uni: 0E38
+	fin: uni0E38
+	ali: sarauthai
+	set: AGL1
+tiSaraUu
+	uni: 0E39
+	fin: uni0E39
+	ali: sarauuthai
+	set: AGL1
+tiPhinthu
+	uni: 0E3A
+	fin: uni0E3A
+	ali: phinthuthai
+	set: AGL1
+baht
+	uni: 0E3F
+	fin: uni0E3F
+	ali: bahtthai
+	set: AGL1
+tiSaraE
+	uni: 0E40
+	fin: uni0E40
+	ali: saraethai
+	set: AGL1
+tiSaraAe
+	uni: 0E41
+	fin: uni0E41
+	ali: saraaethai
+	set: AGL1
+tiSaraO
+	uni: 0E42
+	fin: uni0E42
+	ali: saraothai
+	set: AGL1
+tiSaraAiMaiMuan
+	uni: 0E43
+	fin: uni0E43
+	ali: saraaimaimuanthai
+	set: AGL1
+tiSaraAiMaiMalai
+	uni: 0E44
+	fin: uni0E44
+	ali: saraaimaimalaithai
+	set: AGL1
+tiLakkhangYao
+	uni: 0E45
+	fin: uni0E45
+	ali: lakkhangyaothai
+	set: AGL1
+tiMaiYamok
+	uni: 0E46
+	fin: uni0E46
+	ali: maiyamokthai
+	set: AGL1
+tiMaiTaikhu
+	uni: 0E47
+	fin: uni0E47
+	ali: maitaikhuthai
+	set: AGL1
+tiMaiEk
+	uni: 0E48
+	fin: uni0E48
+	ali: maiekthai
+	set: AGL1
+tiMaiTho
+	uni: 0E49
+	fin: uni0E49
+	ali: maithothai
+	set: AGL1
+tiMaiTri
+	uni: 0E4A
+	fin: uni0E4A
+	ali: maitrithai
+	set: AGL1
+tiMaiChattawa
+	uni: 0E4B
+	fin: uni0E4B
+	ali: maichattawathai
+	set: AGL1
+tiThanthakhat
+	uni: 0E4C
+	fin: uni0E4C
+	ali: thanthakhatthai
+	set: AGL1
+tiNikhahit
+	uni: 0E4D
+	fin: uni0E4D
+	ali: nikhahitthai
+	set: AGL1
+tiYamakkan
+	uni: 0E4E
+	fin: uni0E4E
+	ali: yamakkanthai
+	set: AGL1
+tiFongman
+	uni: 0E4F
+	fin: uni0E4F
+	ali: fongmanthai
+	set: AGL1
+tiZero
+	uni: 0E50
+	fin: uni0E50
+	ali: zerothai
+	set: AGL1
+tiOne
+	uni: 0E51
+	fin: uni0E51
+	ali: onethai
+	set: AGL1
+tiTwo
+	uni: 0E52
+	fin: uni0E52
+	ali: twothai
+	set: AGL1
+tiThree
+	uni: 0E53
+	fin: uni0E53
+	ali: threethai
+	set: AGL1
+tiFour
+	uni: 0E54
+	fin: uni0E54
+	ali: fourthai
+	set: AGL1
+tiFive
+	uni: 0E55
+	fin: uni0E55
+	ali: fivethai
+	set: AGL1
+tiSix
+	uni: 0E56
+	fin: uni0E56
+	ali: sixthai
+	set: AGL1
+tiSeven
+	uni: 0E57
+	fin: uni0E57
+	ali: seventhai
+	set: AGL1
+tiEight
+	uni: 0E58
+	fin: uni0E58
+	ali: eightthai
+	set: AGL1
+tiNine
+	uni: 0E59
+	fin: uni0E59
+	ali: ninethai
+	set: AGL1
+tiAngkhankhu
+	uni: 0E5A
+	fin: uni0E5A
+	ali: angkhankhuthai
+	set: AGL1
+tiKhomut
+	uni: 0E5B
+	fin: uni0E5B
+	ali: khomutthai
+	set: AGL1
+maichattawalowleftthai
+	set: AGL1
+maichattawalowrightthai
+	set: AGL1
+maichattawaupperleftthai
+	set: AGL1
+maieklowleftthai
+	set: AGL1
+maieklowrightthai
+	set: AGL1
+maiekupperleftthai
+	set: AGL1
+maihanakatleftthai
+	set: AGL1
+maitaikhuleftthai
+	set: AGL1
+maitholowleftthai
+	set: AGL1
+maitholowrightthai
+	set: AGL1
+maithoupperleftthai
+	set: AGL1
+maitrilowleftthai
+	set: AGL1
+maitrilowrightthai
+	set: AGL1
+maitriupperleftthai
+	set: AGL1
+nikhahitleftthai
+	set: AGL1
+saraiileftthai
+	set: AGL1
+saraileftthai
+	set: AGL1
+saraueeleftthai
+	set: AGL1
+saraueleftthai
+	set: AGL1
+thanthakhatlowleftthai
+	set: AGL1
+thanthakhatlowrightthai
+	set: AGL1
+thanthakhatupperleftthai
+	set: AGL1
+interrobang
+	uni: 203D
+	fin: uni203D
+bracketleftwhite
+	uni: 27E6
+	fin: uni27E6
+bracketrightwhite
+	uni: 27E7
+	fin: uni27E7
+brackhalftopleft
+	uni: 2E22
+	fin: uni2E22
+brackhalftopright
+	uni: 2E23
+	fin: uni2E23
+brackhalfbotleft
+	uni: 2E24
+	fin: uni2E24
+brackhalfbotright
+	uni: 2E25
+	fin: uni2E25
+circumflexbreve
+	fin: uni03020306
+asperacutecmb
+	fin: uni03120301
+aspergravecmb
+	fin: uni03120300
+aspertildecmb
+	fin: uni03120303
+lenisacutecmb
+	fin: uni03130301
+lenisgravecmb
+	fin: uni03130300
+lenistildecmb
+	fin: uni03130303
+Hhook
+	uni: A7AA
+	fin: uniA7AA
+colonmod
+	uni: A789
+	fin: uniA789
+shortequalsmod
+	uni: A78A
+	fin: uniA78A
+Saltillo
+	uni: A78B
+	fin: uniA78B
+saltillo
+	uni: A78C
+	fin: uniA78C

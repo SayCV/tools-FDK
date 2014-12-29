@@ -28,7 +28,36 @@
   
   <p>Once the AFDKO is installed, all the command-line programs can be run by entering the command name in a Mac OSX Terminal window, or a Windows Command window, along with the necessary option text. All command line tools provide usage and help text with the options -u and -h. There is a separate user documentation file only for the makeotf tool. Using a command-line window may seem alarming if you are not used to it, but it is actually quite easy to learn a useful set of commands. Please read the FDK document "CommandLineHowTo.pdf", sub-titled "The Joys of Command Line", for pointers on how to get started.</p>
 
-  <h4>Current version 2.5 change number 62754, May 14 2014</h4>
+  <h4>Current version 2.5 change number 63209, Sept 18 2014</h4>
+  
+   <h4>Important Changes since 2.5 change number 63044, May 14 201</h4>
+
+  <ul>
+    <li>Added new script to build instance fonts from UFO master design fonts. This
+	uses the design space XML file exported by Superpolator 3 in order  to
+	define the design space, and the location of the masters and instance fonts
+	in the design space. The definition of the format of this file, and the
+	library to use the design space file data, is in the OpenSource mutatorMath
+	library on GitHub, and maintained by Erik van Blokland. There are several
+	advantages of the Superpolator design space over the previous makeInstances
+	script, which uses the Type1 Multiple Master font format to hold the master
+	designs. The new version:</li>
+	 <li>allows different master designs and locations for each glyph</li>
+	 <li>allows master designs to be arbitrarily placed in the design space, and
+	 hence allows intermediate masters.</li>
+	 <li>In order to use the mutatorMath library, the FDK-supplied Python now
+	 contains the robofab, fontMath, and defcon libraries, as well as
+	 mutatorMath.</li>
+ 	<li>See release notes for other changes.</li>
+  </ul>
+
+ <h4>Important Changes since 2.5 change number 62754, May 14 2014</h4>
+
+  <ul>
+    <li>Fixed installation issues. Removed old Windows install files from the Windows AFDKOPython directory. This was causing installation of a new FDK version under Windows to fail when the users PATH environment variable contained the path to the AFDKO. Also fixed command file for invoking ttx.py.</li>
+    <li>Changed makeotf behavior when 'subtable' keyword is used in a lookup other than class kerning. This condition now triggers only a warning, not a fatal error. Requested by FontForge developers. Updated feature file specification to make this clear.</li>
+	<li>See release notes for other changes.</li>
+  </ul>
   
   <h4>Important Changes since 2.5 change number 61944 April 5 2014</h4>
 
@@ -37,6 +66,7 @@
 	<li>Changes to allow source code for most of the tools to be released as OpenSource. Unfortunately, the source code for the IS and checkOutlines programs cannot be OpenSourced. The OpenSource release will happen later this year.</li>
     <li>Added common options to mergeFonts, rotateFont, and tx when possible: all now support ufo and svg fonts, the '-gx' option to exclude fonts, the '-std' option for cff output, and the '-b' option for cff output</li>
   </ul>
+
   <h4>Important Changes since 2.5 change number 61250 Feb 17 2014</h4>
 
   <ul>

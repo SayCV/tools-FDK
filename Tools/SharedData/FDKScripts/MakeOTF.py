@@ -41,7 +41,7 @@ Project file.
 """
 
 __usage__ = """
-makeotf v2.0.77 April 30 2014
+makeotf v2.0.79 Sept 8 2014
 -f <input font>         Specify input font path. Default is 'font.pfa'.
 -o <output font>        Specify output font path. Default is
                         '<PostScript-Name>.otf'.
@@ -558,7 +558,7 @@ def setOptionsFromFontInfo(makeOTFParams):
 	if kMOTFOptions[kLicenseCode][0] == kOptionNotSeen:
 		m = re.search(r"LicenseCode\s+([^\r\n]+)", data)
 		if m:
-			exec("makeOTFParams.%s%s = '%s'" % (kFileOptPrefix, kLicenseCode, m.group(1)))
+			exec("makeOTFParams.%s%s = \"%s\"" % (kFileOptPrefix, kLicenseCode, m.group(1)))
 
 	if kMOTFOptions[kSuppressHintWarnings][0] == kOptionNotSeen:
 		if re.search(r"SuppressHintWarnings\s+([Tt]rue|1)", data):
@@ -603,7 +603,10 @@ def setOptionsFromFontInfo(makeOTFParams):
 			print "makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword."
 		
 
-		m = re.search(r"IsOS/2WidthWeigthSlopeOnly\s+(([Tt]rue|1)|([Ff]alse)|0|1)", data)
+		m = re.search(r"IsOS/2WidthWeightSlopeOnly\s+(([Tt]rue|1)|([Ff]alse)|0|1)", data)
+		if not m:
+			m = re.search(r"IsOS/2WidthWeigthSlopeOnly\s+(([Tt]rue|1)|([Ff]alse)|0|1)", data)
+		
 		if m:
 			makeOTFParams.seenOS2v4Bits[1] = 1
 			if m.group(1) in ["True", "true", "1"]:
@@ -1824,7 +1827,7 @@ def fixPost(glyphList, inputFilePath, outputPath):
 	export and change both the post and GlyphOrder tables."""
 	tempPostPath = os.path.splitext(outputPath)[0] + ".ttx"
 	
-	command = "ttx -t GlyphOrder -t post %s" % (inputFilePath)
+	command = "ttx -t GlyphOrder -t post \"%s\"" % (inputFilePath)
 	report = FDKUtils.runShellCmd(command)
 
 	# get xml file name:
@@ -1873,7 +1876,7 @@ def fixPost(glyphList, inputFilePath, outputPath):
 	fp.write(postData)
 	fp.close()
 
-	command = "ttx -m %s %s" % (inputFilePath, tempPostPath)
+	command = "ttx -m \"%s\" \"%s\"" % (inputFilePath, tempPostPath)
 	report = FDKUtils.runShellCmd(command)
 	os.remove(tempPostPath)
 
@@ -1894,7 +1897,7 @@ def fixPost(glyphList, inputFilePath, outputPath):
 def fixHead(tempOTFFilePath, outputPath):
 	tempHeadPath = os.path.splitext(outputPath)[0] + ".head.ttx"
 	
-	command = "ttx -t head %s" % (outputPath)
+	command = "ttx -t head \"%s\"" % (outputPath)
 	report = FDKUtils.runShellCmd(command)
 
 	# get xml file name:
@@ -1911,7 +1914,7 @@ def fixHead(tempOTFFilePath, outputPath):
 	fp.close()
 	os.remove(headFileName)
 
-	command = "ttx -t head %s" % (tempOTFFilePath)
+	command = "ttx -t head \"%s\"" % (tempOTFFilePath)
 	report = FDKUtils.runShellCmd(command)
 
 	# get xml file name:
@@ -1936,7 +1939,7 @@ def fixHead(tempOTFFilePath, outputPath):
 	fp.write(headData)
 	fp.close()
 
-	command = "ttx -m %s %s" % (outputPath, tempHeadPath)
+	command = "ttx -m \"%s\" \"%s\"" % (outputPath, tempHeadPath)
 	report = FDKUtils.runShellCmd(command)
 
 	m = re.search(r"to\s+\"([^\"]+)\"", report)
@@ -1975,7 +1978,7 @@ class HeadTable:
 def fixHhea(tempOTFFilePath, outputPath):
 	tempHheaPath = os.path.splitext(outputPath)[0] + ".hhea.ttx"
 	
-	command = "ttx -t hhea %s" % (outputPath)
+	command = "ttx -t hhea \"%s\"" % (outputPath)
 	report = FDKUtils.runShellCmd(command)
 	# get xml file name:
 	m = re.search(r"to\s+\"([^\"]+)\"", report)
@@ -1991,7 +1994,7 @@ def fixHhea(tempOTFFilePath, outputPath):
 	fp.close()
 	os.remove(hheaFileName)
 
-	command = "ttx -t hhea %s" % (tempOTFFilePath)
+	command = "ttx -t hhea \"%s\"" % (tempOTFFilePath)
 	report = FDKUtils.runShellCmd(command)
 	# get xml file name:
 	m = re.search(r"to\s+\"([^\"]+)\"", report)
@@ -2017,7 +2020,7 @@ def fixHhea(tempOTFFilePath, outputPath):
 	fp.write(hheaData)
 	fp.close()
 
-	command = "ttx -m %s %s" % (outputPath, tempHheaPath)
+	command = "ttx -m \"%s\" \"%s\"" % (outputPath, tempHheaPath)
 	report = FDKUtils.runShellCmd(command)
 	os.remove(tempHheaPath)
 
@@ -2260,8 +2263,8 @@ def runMakeOTF(makeOTFParams):
 			doConvertToCID = None
 	
 	params = [makeOTFParams.makeotfPath,
-			 "\"%s\" \"%s\"" % (eval("kMOTFOptions['%s']" % (kInputFont))[1], inputFontPath), # add temp font as the input font.
-			 "\"%s\" \"%s\"" % (eval("kMOTFOptions['%s']" % (kOutputFont))[1], tempOutPath) # add temp font as the input font.
+			 "\"%s\" \"%s\"" % (eval("kMOTFOptions[\"%s\"]" % (kInputFont))[1], inputFontPath), # add temp font as the input font.
+			 "\"%s\" \"%s\"" % (eval("kMOTFOptions[\"%s\"]" % (kOutputFont))[1], tempOutPath) # add temp font as the input font.
 			]
 	# Add the rest of the parameters
 	optionKeys.sort(byEntryOrder)
@@ -2377,7 +2380,7 @@ def CheckEnvironment():
 		raise FDKEnvironmentError
 	missingTools = []
 	for name in ["tx", "makeotfexe"]:
-		exec("%sPath = '%s'" % (name, name))
+		exec("%sPath = \"%s\"" % (name, name))
 		command = "%s -u 2>&1" % (name)
 		report = FDKUtils.runShellCmd(command)
 		if ("options" not in report) and ("Option" not in report):

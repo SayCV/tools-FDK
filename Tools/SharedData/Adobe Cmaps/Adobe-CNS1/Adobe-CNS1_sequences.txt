@@ -1,5 +1,5 @@
-# 14 Standardized Variants (Unicode 7.0)
-# Version 09/07/2013
+# 14 Standardized Variants (Unicode 6.3)
+# Version 12/03/2013
 # Prepared by Ken Lunde (lunde@adobe.com), Adobe Systems Incorporated
 456B FE00; Standardized_Variants; CID+14339
 5140 FE00; Standardized_Variants; CID+628

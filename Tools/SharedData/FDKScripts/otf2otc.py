@@ -1,4 +1,4 @@
-# otf2otc.py v1.2 Feb 26 2014
+# otf2otc.py v1.3 Sept 2 2014
 
 __copyright__ = """Copyright 2014 Adobe Systems Incorporated (http://www.adobe.com/). All Rights Reserved.
 """
@@ -250,7 +250,7 @@ def run(args):
 				tableEntryList = tableMap[tableEntry.tag]
 				matched = 0
 				for tEntry in tableEntryList:
-					if (tEntry.checksum == tableEntry.checksum) and (tEntry.length == tableEntry.length):
+					if (tEntry.checksum == tableEntry.checksum) and (tEntry.length == tableEntry.length) and (tEntry.data == tableEntry.data):
 						matched = 1
 						fontEntry.tableList[tableIndex] = tEntry
 						break

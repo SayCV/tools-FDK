@@ -2,7 +2,7 @@
 
 # Written by Dr. Ken Lunde (lunde@adobe.com)
 # Senior Computer Scientist, Adobe Systems Incorporated
-# Version 02/03/2012
+# Version 10/11/2012
 #
 # This tool takes a CFF resource/table (instantiated as a file) or an
 # OpenType/CFF (name- or CID-keyed) as its only argument, and reports
@@ -14,14 +14,12 @@
 # Mac OS X Version 10.4 (aka, Tiger) and earlier, along with Adobe
 # Acrobat Distiller Version 7.0 and earlier, are known implementations
 # whose subroutine limit is 32K - 3 (32,765).
-# Copyright 2014 Adobe Systems Incorporated (http://www.adobe.com/). All Rights Reserved.
-
 
 if ($ARGV[0] =~ /^-[huHU]/) {
   print STDERR "Usage: subr-check.pl <CFF|OpenTypeCFF>\n";
   exit;
 } else {
-  $file = $ARGV[0];
+  $file = "\"$ARGV[0]\"";
 }
 
 $fd = "global";

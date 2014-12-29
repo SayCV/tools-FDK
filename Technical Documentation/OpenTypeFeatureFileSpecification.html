@@ -16,7 +16,7 @@
 <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this documentation file, to create their own derivative works from the content of this document to use, copy, publish, distribute, sublicense, and/or sell the derivative works, and to permit others to do the same, provided that the derived work is not represented as being a copy or version of this document.</p>
 <p>Adobe shall not be liable to any party for any loss of revenue or profit or for indirect, incidental, special, consequential, or other similar damages, whether based on tort (including without limitation negligence or strict liability), contract or other legal or equitable grounds even if Adobe has been advised or had reason to know of the possibility of such damages. The Adobe materials are provided on an &quot;AS IS&quot; basis. Adobe specifically disclaims all express, statutory, or implied warranties relating to the Adobe materials, including but not limited to those concerning merchantability or fitness for a particular purpose or non-infringement of any third party rights regarding the Adobe materials.</p>
 <p><b>Version</b></p>
-<p>[ Document version 1.12. Last updated 10 March 2014]</p>
+<p>[ Document version 1.13. Last updated 28 July 2014]</p>
 <p><b>Caution:</b></p>
 <p>Portions of the syntax unimplemented by Adobe are subject to change.</p>
 <ol>
@@ -602,8 +602,8 @@ include<code>(../features.family);</code></pre>
 <ul>
 <li><p>lookupflag format A:</p>
 <pre>
-  <b>lookupflag</b> &lt;named lookupflag value&gt; (, &lt;named lookupflag value&gt;)*;</pre>
-<p>Here, the individual lookup flag values to be set are expressed in a comma-separated list of one or more &lt;named lookupflag value&gt;s, in no particular order. A &lt;named lookupflag value&gt; is one of the following:</p>
+  <b>lookupflag</b> &lt;named lookupflag value&gt; ( &lt;named lookupflag value&gt;)*;</pre>
+<p>Here, the individual lookup flag values to be set are expressed in a list of one or more &lt;named lookupflag value&gt;s, in no particular order, separated by spaces. A &lt;named lookupflag value&gt; is one of the following:</p>
 <b>  RightToLeft</b><br>
 <b>  IgnoreBaseGlyphs</b><br>
 <b>  IgnoreLigatures</b><br>
@@ -698,7 +698,7 @@ include<code>(../features.family);</code></pre>
 <pre>
   <b>subtable</b>;</pre>
 <p>to explicitly force a subtable break after the previous rule.</p>
-<p><i>[ This is currently supported only for Pair Adjustment Positioning Format 2 (i.e. pair class kerning) in order to reduce subtable size. See §</i><a href="#6.b.iii"><i>6.b.iii</i></a><i> for details. ]</i></p>
+<p>This is intended for use with only Pair Adjustment Positioning Format 2 (i.e. pair class kerning). See <a href="#6.b.iii"><i>6.b.iii</i></a> for details. This hint to the compiler is required for class kerning, as it is difficult for a compiler to determine where to best place a subtable break in this lookup type, in order to reduce lookup size.</p>
 <p><a name="4.h"></a><b>4.h. Examples</b></p>
 <p><b>Example 1.</b> The following is an example of an entire feature file and demonstrates the two ways to register features under language systems (see §<a href="#4.b">4.b</a> above):</p>
 <pre>
@@ -1664,6 +1664,11 @@ nameid I 1 S L &lt;string&gt;;    I   1          S           L</pre>
   }</pre>
 <p>along with the tag 'sbit'.</p>
 <p><a name="11"></a><b>11. Document revisions</b></p>
+<p><b>v1.13 [ 28 July 2014]:</b></p>
+<ul>
+<li>Clarified that the subtable break keyword is intended for use only with class kerning lookups.</li>
+<li>Corrected lookup flag syntax description: lookupflag values are separated by a space character, not a comma.</li>
+</ul>
 <p><b>v1.12 [ 21 March 2014]:</b></p>
 <ul>
 <li>Clarified that specific glyph pairs should precede class kern pairs, in section 6.b.i</li>

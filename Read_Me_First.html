@@ -5,7 +5,7 @@
     </head>
     <body>
 		<h1>ReadMe for the Adobe Font Development Kit for OpenType (AFDKO)</h1>
-		<h2>v2.5 change number 62754, May 14 2014</h2>
+		<h2>v2.5 change number 63209, Sep 18 2014</h2>
 		<p>
 			<h3>Contents</h3>
 			<ol>
@@ -76,8 +76,12 @@
 				NOTE: In case you put the FDK folder inside another folder, make sure that the folder name does *not* have spaces. Therefore, do not put it inside the "Program Files" folder, for example. Note also that, due to limitations of the python ziplib module, the path must be limited to 1 byte characters whose encoding is recognized by the system.</li>
 			<li>Open the "FDK" folder. and find the file "FinishInstallWindows.cmd".</li>
 			<li>Open a command prompt window. If you do not know how to do this, read the file "FDK\Technical Documentation\CommandLineHowTo.pdf".</li>
-			<li>Drag the icon for the file "FinishInstallWindows.cmd" onto the command prompt window.
-				This pastes the path into the command prompt window. Press the "enter" key. This runs the program.</li>
+			<li>Note! The command window must be run with Administrator privileges. If you open a regular command line window, the script will fail. To open a command window with Adminstrator priviliges, right click on the command program icon, and choose "Run with Adminstrator privileges."</li>
+			<li>Enter the path to the script file in the command window. An easy way to do this is to:</li>
+			<ul>
+			<li>Click once on the file "FinishInstallWindows.cmd". This will place the path to the parent directory at the top of the Explorer window.</li>
+			<li>Copy the directory path from the top of the Explorer window by selecting the text and copying it. Paste it into the command window (right click, and choose the option "Paste"). Finish the command-line by typing the name of the script file, "FinishInstallWindows.cmd" at the end of the directory path, and then press "RETURN/ENTER".</li>
+			</ul>
 		</ol>
 		<p>If all went well the FDK should now be ready to run. To test it, do the following:
 			<ul>

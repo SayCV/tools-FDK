@@ -1,12 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 FDKReleaseNotes.txt
 ===============================================================================
+
+FDK v2.5 Sep 18 2014 change number 63209.
+
+	makeInstancesUFO.
+	Added new script to build instance fonts from UFO master design fonts. This
+	uses the design space XML file exported by Superpolator 3 in order  to
+	define the design space, and the location of the masters and instance fonts
+	in the design space. The definition of the format of this file, and the
+	library to use the design space file data, is in the OpenSource mutatorMath
+	library on GitHub, and maintained by Erik van Blokland. There are several
+	advantages of the Superpolator design space over the previous makeInstances
+	script, which uses the Type1 Multiple Master font format to hold the master
+	designs. The new version:
+	 - allows different master designs and locations for each glyph
+	 - allows master designs to be arbitrarily placed in the design space, and
+	 hence allows intermediate masters.
+	 In order to use the mutatorMath library, the FDK-supplied Python now
+	 contains the robofab, fontMath, and defcon libraries, as well as
+	 mutatorMath.
+
+	ttx. Updated to the latest branch of the fontTools library as maintained by
+	Behdad Esfahbod on GitHub. Added a patch to cffLib.py to fix a minor problem
+	with choosing charset format with large glyph sets.
+	
+	Misc.
+	Updated four Adobe-CNS1-* ordering files.
+
+FDK v2.5 Sep 8 2014 change number 63164.
+
+	makeotf.
+	Fixed MakeOTF.py to detect "IsOS/2WidthWeightSlopeOnly" as well as the
+	misspelled "IsOS/2WidthWeigthSlopeOnly", when processing the fontinfo file.
+
+	Changed behavior when 'subtable' keyword is used in a lookup other than
+	class kerning. This condition now triggers only a warning, not a fatal
+	error. Requested by FontForge developers.
+	
+	Fixed bug which preventing making TTF fonts under Windows. This was a
+	problem in quoting paths used with the 'ttx' program.
+	
+	Installation.
+	Fixed installation issues. Removed old Windows install files from the
+	Windows AFDKOPython directory. This was causing installation of a new FDK
+	version under Windows to fail when the user's PATH environment variable
+	contained the path to the AFDKOPython directory. Also fixed command file for
+	invoking ttx.py.
+	
+	Misc.
+	Updated files used for building ideographic fonts with Unicode IVS
+	sequences: FDK/Tools/SharedData/Adobe
+	Cmaps/Adobe-CNS1/Adobe-CNS1_sequences.txt and Adobe-Korea1_sequences.txt
+	
 FDK v2.5 May 14 2014 change number 62754.
 	IS, addGlobalColor. When using the -'bc' option, fixed bug with overlow for CID value
 	in dumping glyph header. Fixed bug in IS to avoid crash when logic for glyphs > 72 points is used.
 
 	makeotfexe.
-	Fixed bug that  applied '-gs' option as default behaviour, subsetting the source font to the 
+	Fixed bug that  applied '-gs' option as default behavior, subsetting the source font to the 
 	list of glyphs in the GOADB.
 	
 FDK v2.5 April 30 2014 change number 62690.

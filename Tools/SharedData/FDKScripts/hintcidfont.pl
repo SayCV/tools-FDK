@@ -1,5 +1,4 @@
 #!/usr/bin/perl
-# Copyright 2014 Adobe Systems Incorporated (http://www.adobe.com/). All Rights Reserved.
 
 $hintparam = $ARGV[0];
 
@@ -25,7 +24,7 @@ while(defined($line = <STDIN>)) {
         print STDOUT "/Private 15 dict dup begin\n";
         print STDOUT $hintdata{$hintdictname2};
         next;
-    } elsif ($line =~/\/(?:Blue(?:Values|Scale)|OtherBlues|Std(?:H|V)W|StemSnap(?:H|V)|RndStemUp)/) {
+    } elsif ($line =~/\/(?:Blue(?:Values|Scale)|(?:Family)?(?:Other)?Blues|Std(?:H|V)W|StemSnap(?:H|V)|RndStemUp)/) {
         next;
     }
     print STDOUT $line;
